@@ -1,0 +1,5 @@
+E:\Code\programmingBasicsCSharp\expression\bin\Debug\expression.exe.config
+E:\Code\programmingBasicsCSharp\expression\bin\Debug\expression.exe
+E:\Code\programmingBasicsCSharp\expression\bin\Debug\expression.pdb
+E:\Code\programmingBasicsCSharp\expression\obj\Debug\expression.exe
+E:\Code\programmingBasicsCSharp\expression\obj\Debug\expression.pdb
