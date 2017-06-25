@@ -16,8 +16,8 @@ namespace DailyEarnings
             double MonthSalary = avgWorkDays * earningPerDay;
             double totalMoney = (MonthSalary * 12) + (MonthSalary * 2.5);
             double netSalary = totalMoney - (totalMoney * 0.25);
-            double dailySalary = netSalary / 365;
-            Console.WriteLine(Math.Round((dailySalary * courseUSD),2));
+            double dailySalary = (netSalary / 365) * courseUSD;
+            Console.WriteLine("{0:F2}", dailySalary);
         }
     }
 }
