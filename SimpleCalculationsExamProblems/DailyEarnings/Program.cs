@@ -13,11 +13,11 @@ namespace DailyEarnings
             int avgWorkDays = int.Parse(Console.ReadLine());
             double earningPerDay = double.Parse(Console.ReadLine());
             double courseUSD = double.Parse(Console.ReadLine());
-            double yearlyMoney = avgWorkDays * 12 * earningPerDay;
-            double totalMoney = yearlyMoney + (avgWorkDays * earningPerDay * 2.5);
-            double taxDeducted = totalMoney - (totalMoney * 25 / 100);
-            double finalEarningsPerDay = taxDeducted / 365;
-            Console.WriteLine(Math.Round((finalEarningsPerDay * courseUSD),2));
+            double MonthSalary = avgWorkDays * earningPerDay;
+            double totalMoney = (MonthSalary * 12) + (MonthSalary * 2.5);
+            double netSalary = totalMoney - (totalMoney * 0.25);
+            double dailySalary = netSalary / 365;
+            Console.WriteLine(Math.Round((dailySalary * courseUSD),2));
         }
     }
 }
