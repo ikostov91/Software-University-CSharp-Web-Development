@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberFrom100To200", "Numbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualWords", "EqualWords\EqualWords.csproj", "{EA51A8B0-F7FD-463F-9DF0-EB2FE96FD1FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedInfo", "SpeedInfo\SpeedInfo.csproj", "{6D47C244-E553-401D-9D5C-6C7C1B3BDF1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfFigures", "AreaOfFigures\AreaOfFigures.csproj", "{04A2EEEA-C499-4338-81A3-FF8E61EFBA61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{EA51A8B0-F7FD-463F-9DF0-EB2FE96FD1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA51A8B0-F7FD-463F-9DF0-EB2FE96FD1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA51A8B0-F7FD-463F-9DF0-EB2FE96FD1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D47C244-E553-401D-9D5C-6C7C1B3BDF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D47C244-E553-401D-9D5C-6C7C1B3BDF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D47C244-E553-401D-9D5C-6C7C1B3BDF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D47C244-E553-401D-9D5C-6C7C1B3BDF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A2EEEA-C499-4338-81A3-FF8E61EFBA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A2EEEA-C499-4338-81A3-FF8E61EFBA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A2EEEA-C499-4338-81A3-FF8E61EFBA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A2EEEA-C499-4338-81A3-FF8E61EFBA61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
