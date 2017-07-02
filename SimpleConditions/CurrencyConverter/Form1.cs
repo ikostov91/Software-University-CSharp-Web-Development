@@ -17,6 +17,11 @@ namespace CurrencyConverter
             InitializeComponent();
         }
 
+        private void FormConverter_Load(object sender, EventArgs e)
+        {
+            this.comboBoxCurrency.SelectedItem = "EUR";
+        }
+
         private void numericUpDownAmmount_ValueChanged(object sender, EventArgs e)
         {
             ConvertCurrency();
@@ -25,11 +30,6 @@ namespace CurrencyConverter
         private void comboBoxCurrency_SelectedIndexChanged(object sender, EventArgs e)
         {
             ConvertCurrency();
-        }
-
-        private void FormConverter_Load(object sender, EventArgs e)
-        {
-            this.comboBoxCurrency.SelectedItem = "EUR";
         }
 
         private void ConvertCurrency()
