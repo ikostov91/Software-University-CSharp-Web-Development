@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvalidNumber", "InvalidNum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOnRectangleBorder", "PointOnRectangleBorder\PointOnRectangleBorder.csproj", "{0E602CDE-CAF2-4FF8-9D54-04B37A649220}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitShop", "FruitShop\FruitShop.csproj", "{B98F0E52-54FC-44E8-83CA-4EA1AFD3CF3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{0E602CDE-CAF2-4FF8-9D54-04B37A649220}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E602CDE-CAF2-4FF8-9D54-04B37A649220}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E602CDE-CAF2-4FF8-9D54-04B37A649220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B98F0E52-54FC-44E8-83CA-4EA1AFD3CF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98F0E52-54FC-44E8-83CA-4EA1AFD3CF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98F0E52-54FC-44E8-83CA-4EA1AFD3CF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98F0E52-54FC-44E8-83CA-4EA1AFD3CF3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
