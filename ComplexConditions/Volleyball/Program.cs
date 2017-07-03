@@ -14,9 +14,9 @@ namespace Volleyball
             int holidays = int.Parse(Console.ReadLine());
             int weekendsHomeTown = int.Parse(Console.ReadLine());
 
-            double playInHolidays = holidays * 2.0 / 3;
+            double playInHolidays = holidays * 2 / 3.0;
             double weekendsInSofia = 48 - weekendsHomeTown;
-            double playInSofia = weekendsInSofia * 3.0 / 4;
+            double playInSofia = weekendsInSofia * 3 / 4.0;
             double totalPlayTime = playInHolidays + playInSofia + weekendsHomeTown;
 
             if (year == "leap")

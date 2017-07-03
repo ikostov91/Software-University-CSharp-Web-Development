@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema", "Cinema\Cinema.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volleyball", "Volleyball\Volleyball.csproj", "{C62FD957-8E10-4D91-A577-13BEE6DDD6E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointInTheFigure", "PointInTheFigure\PointInTheFigure.csproj", "{AB402038-6F1A-4308-BE15-04D86AEC7592}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C62FD957-8E10-4D91-A577-13BEE6DDD6E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C62FD957-8E10-4D91-A577-13BEE6DDD6E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C62FD957-8E10-4D91-A577-13BEE6DDD6E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB402038-6F1A-4308-BE15-04D86AEC7592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB402038-6F1A-4308-BE15-04D86AEC7592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB402038-6F1A-4308-BE15-04D86AEC7592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB402038-6F1A-4308-BE15-04D86AEC7592}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
