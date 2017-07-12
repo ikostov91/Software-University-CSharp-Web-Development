@@ -41,6 +41,8 @@ namespace SmartLilly
             {
                 Console.WriteLine("No! {0:F2}", washingMachinePrice - totalMoney);
             }
+
+            //Console.WriteLine(totalMoney >= washingMachinePrice ? $"Yes! {0:F2}, {(totalMoney - washingMachinePrice):0:00}" : $"{0:F2}, {(washingMachinePrice - totalMoney):0:00}");
         }
     }
 }
