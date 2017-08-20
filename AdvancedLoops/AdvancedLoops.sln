@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterEvenNumber", "EnterEve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{7048141D-4413-40D5-879A-9462F4D55CEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPyramid", "NumberPyramid\NumberPyramid.csproj", "{057C4637-86BF-4179-B56A-488298DF247F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersTable", "NumbersTable\NumbersTable.csproj", "{B4FDF2A4-34B1-4205-9367-C9E0CCFC869A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{7048141D-4413-40D5-879A-9462F4D55CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7048141D-4413-40D5-879A-9462F4D55CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7048141D-4413-40D5-879A-9462F4D55CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{057C4637-86BF-4179-B56A-488298DF247F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057C4637-86BF-4179-B56A-488298DF247F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057C4637-86BF-4179-B56A-488298DF247F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057C4637-86BF-4179-B56A-488298DF247F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4FDF2A4-34B1-4205-9367-C9E0CCFC869A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4FDF2A4-34B1-4205-9367-C9E0CCFC869A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4FDF2A4-34B1-4205-9367-C9E0CCFC869A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4FDF2A4-34B1-4205-9367-C9E0CCFC869A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
