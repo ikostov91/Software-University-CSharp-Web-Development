@@ -41,7 +41,6 @@ namespace DateAfter5Days
             }
 
             Console.WriteLine("{0}.{1:D2}", newDays, month);
-            if (month < 10)
         }
     }
 }
