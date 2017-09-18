@@ -1,0 +1,5 @@
+E:\Code\programmingFundamentals\IntroBasicSyntax\EmployeeData\bin\Debug\EmployeeData.exe.config
+E:\Code\programmingFundamentals\IntroBasicSyntax\EmployeeData\bin\Debug\EmployeeData.exe
+E:\Code\programmingFundamentals\IntroBasicSyntax\EmployeeData\bin\Debug\EmployeeData.pdb
+E:\Code\programmingFundamentals\IntroBasicSyntax\EmployeeData\obj\Debug\EmployeeData.exe
+E:\Code\programmingFundamentals\IntroBasicSyntax\EmployeeData\obj\Debug\EmployeeData.pdb

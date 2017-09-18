@@ -1,0 +1,5 @@
+E:\Code\programmingFundamentals\IntroBasicSyntax\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+E:\Code\programmingFundamentals\IntroBasicSyntax\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+E:\Code\programmingFundamentals\IntroBasicSyntax\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+E:\Code\programmingFundamentals\IntroBasicSyntax\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+E:\Code\programmingFundamentals\IntroBasicSyntax\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb
