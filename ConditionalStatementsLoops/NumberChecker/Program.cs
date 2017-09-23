@@ -18,7 +18,7 @@ namespace NumberChecker
             }
             catch (Exception)
             {
-                Console.WriteLine("Invalid input");
+                Console.WriteLine("Invalid input!");
             }
         }
     }
