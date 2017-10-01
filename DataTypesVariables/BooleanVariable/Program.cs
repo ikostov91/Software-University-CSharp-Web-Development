@@ -13,7 +13,7 @@ namespace BooleanVariable
             string input = Console.ReadLine();
             bool isBoolean = Convert.ToBoolean(input);
 
-            if (isBoolean == true)
+            if (isBoolean)
             {
                 Console.WriteLine("Yes");
             }
