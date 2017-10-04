@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cake", "Cake\Cake.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowflake", "Snowflake\Snowflake.csproj", "{1EC3F2A2-D1F1-41C7-8D3A-CB9767211D71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profit", "Profit\Profit.csproj", "{EAC1E965-FDB7-4898-8995-B54A4384FD04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1EC3F2A2-D1F1-41C7-8D3A-CB9767211D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EC3F2A2-D1F1-41C7-8D3A-CB9767211D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EC3F2A2-D1F1-41C7-8D3A-CB9767211D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC1E965-FDB7-4898-8995-B54A4384FD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC1E965-FDB7-4898-8995-B54A4384FD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC1E965-FDB7-4898-8995-B54A4384FD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC1E965-FDB7-4898-8995-B54A4384FD04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
