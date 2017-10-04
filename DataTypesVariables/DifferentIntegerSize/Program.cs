@@ -15,7 +15,7 @@ namespace DifferentIntegerSize
             try
             {
                 long Number = long.Parse(number);
-                Console.WriteLine($"{number} can fit in");
+                Console.WriteLine($"{number} can fit in:");
                 try
                 {
                     sbyte sbyteNumber = sbyte.Parse(number);
