@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccurrences", "OddOccurr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortWordsSorted", "ShortWordsSorted\ShortWordsSorted.csproj", "{BCF3A36F-8607-4983-A374-3C3E9D4F292D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "userLogs", "userLogs\userLogs.csproj", "{60858E6D-8245-49D3-9838-38D830D21296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopulationCounter", "PopulationCounter\PopulationCounter.csproj", "{D50AB50B-F395-44BE-AC61-4FE66D404878}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{BCF3A36F-8607-4983-A374-3C3E9D4F292D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCF3A36F-8607-4983-A374-3C3E9D4F292D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCF3A36F-8607-4983-A374-3C3E9D4F292D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60858E6D-8245-49D3-9838-38D830D21296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60858E6D-8245-49D3-9838-38D830D21296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60858E6D-8245-49D3-9838-38D830D21296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60858E6D-8245-49D3-9838-38D830D21296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50AB50B-F395-44BE-AC61-4FE66D404878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50AB50B-F395-44BE-AC61-4FE66D404878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50AB50B-F395-44BE-AC61-4FE66D404878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50AB50B-F395-44BE-AC61-4FE66D404878}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
