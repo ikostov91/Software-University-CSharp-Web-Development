@@ -10,7 +10,7 @@ namespace PopulationCounter
     {
         static void Main(string[] args)
         {
-            Dictionary<string, Dictionary<string, int>> populationData = new Dictionary<string, Dictionary<string, int>>();
+            Dictionary<string, Dictionary<string, double>> populationData = new Dictionary<string, Dictionary<string, double>>();
 
             string input = Console.ReadLine();
 
@@ -18,11 +18,8 @@ namespace PopulationCounter
             {
                 string[] data = input.Split('|').ToArray();
                 string city = data[0];
-                Console.WriteLine(city);
                 string country = data[1];
-                Console.WriteLine(country);
-                int population = int.Parse(data[2]);
-                Console.WriteLine(population);
+                double population = double.Parse(data[2]);
 
                 if (populationData.ContainsKey(country))
                 {
@@ -37,7 +34,7 @@ namespace PopulationCounter
                 }
                 else
                 {
-                    populationData.Add(country, new Dictionary<string, int>());
+                    populationData.Add(country, new Dictionary<string, double>());
                     populationData[country].Add(city, population);
                 }
 
@@ -46,10 +43,7 @@ namespace PopulationCounter
 
             foreach (var country in populationData.OrderByDescending(x => x.Value.Sum(y => y.Value)))
             {
-                int totalPopulation = 0;
-                totalPopulation = country.Value.Sum(total => total.Value);
-
-                Console.WriteLine($"{country.Key} (total population: {totalPopulation})");
+                Console.WriteLine($"{country.Key} (total population: {country.Value.Sum(x => x.Value)})");
 
                 foreach (var city in country.Value.OrderByDescending(x => x.Value))
                 {
