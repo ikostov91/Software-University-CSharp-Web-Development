@@ -11,31 +11,40 @@ namespace SinoTheWalker
     {
         static void Main(string[] args)
         {
-            int[] leaveTime = Console.ReadLine().Split(':').Select(int.Parse).ToArray();
-            //var leaveTime = DateTime.ParseExact(Console.ReadLine(), "HH:mm:ss", CultureInfo.InvariantCulture);
-            int steps = int.Parse(Console.ReadLine());
-            var secondsPerStep = int.Parse(Console.ReadLine());
+            int[] timeOfLeave = Console.ReadLine().Split(':').Select(int.Parse).ToArray();
+            int numberOfSteps = int.Parse(Console.ReadLine());
+            int secondsPerStep = int.Parse(Console.ReadLine());
 
-            //int hours = leaveTime.Hour;
-            //int minutes = leaveTime.Minute;
-            //int seconds = leaveTime.Second;
+            ulong totalSeconds = (ulong)numberOfSteps * (ulong)secondsPerStep;
 
-            int hours = leaveTime[0];
-            int minutes = leaveTime[1];
-            int seconds = leaveTime[2];
-
-            long initialSeconds = leaveTime[0] * 3600 + leaveTime[1] * 60 + leaveTime[2];
-            ulong secondsToAdd = (ulong)steps * (ulong)secondsPerStep;
-
-            ulong totalSeconds = (ulong)initialSeconds + secondsToAdd;
-
-            var resulSeconds = totalSeconds % 60;
+            var secondsToAdd = totalSeconds % 60;
             var totalMinutes = totalSeconds / 60;
-            var resultMinutes = totalMinutes % 60;
-            var totalHours = totalMinutes / 60;
-            var resultHours = totalHours % 24;
+            var minutesToAdd = totalMinutes % 60;
+            var totalHours =  totalMinutes / 60;
+            var hoursToAdd = totalHours % 24;
 
-            Console.WriteLine($"Time Arrival: {resultHours:D2}:{resultMinutes:D2}:{resulSeconds:D2}");
+            var seconds = timeOfLeave[2] + (int)secondsToAdd;
+            var minutes = timeOfLeave[1] + (int)minutesToAdd;
+            var hours = timeOfLeave[0] + (int)hoursToAdd;
+
+            if (seconds >= 60)
+            {
+                seconds -= 60;
+                minutes++;
+            }
+
+            if (minutes >= 60)
+            {
+                minutes -= 60;
+                hours++;    
+            }
+
+            if (hours >= 24)
+            {
+                hours -= 24;
+            }
+
+            Console.WriteLine($"Time Arrival: {hours:D2}:{minutes:D2}:{seconds:D2}");
         }
     }
 }
