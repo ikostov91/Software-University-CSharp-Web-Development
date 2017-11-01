@@ -51,7 +51,7 @@ namespace Files
             }
             else
             {
-                foreach (var file in filesDict[printCommand[2]].Where(x => x.Key.EndsWith(extension)).OrderByDescending(y => y.Value).ThenBy(z => z.Key))
+                foreach (var file in filesDict[root].Where(x => x.Key.EndsWith(extension)).OrderByDescending(y => y.Value).ThenBy(z => z.Key))
                 {
                     Console.WriteLine($"{file.Key} - {file.Value} KB");
                 }
