@@ -60,7 +60,6 @@ namespace ArrayManipulator
 
                         result = PrintFirstEvenOddElements(array, count, evenOdd);
                         Console.WriteLine($"[{String.Join(", ", result)}]");
-
                         break;
 
                     case "last":
