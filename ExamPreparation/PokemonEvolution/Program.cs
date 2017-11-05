@@ -21,17 +21,18 @@ namespace PokemonEvolution
                     break;
                 }
 
-                string[] currentPokemonEvolution = input.Split(new string[] { " -> " }, StringSplitOptions.RemoveEmptyEntries);
+                string[] currentPokemon = input.Split(new string[] { " -> " }, StringSplitOptions.RemoveEmptyEntries);
 
-                if (currentPokemonEvolution.Length == 1)
+                string name = currentPokemon[0];
+
+                if (currentPokemon.Length == 1)
                 {
-                    PrintCurrentPokemonEvolutions(currentPokemonEvolution[0], pokemons);
+                    PrintCurrentPokemonEvolutions(currentPokemon[0], pokemons);
                     continue;
                 }
 
-                string name = currentPokemonEvolution[0];
-                string evolution = currentPokemonEvolution[1];
-                int index = int.Parse(currentPokemonEvolution[2]);
+                string evolution = currentPokemon[1];
+                int index = int.Parse(currentPokemon[2]);
 
                 AddPokemonInfo(name, evolution, index, pokemons);
             }
