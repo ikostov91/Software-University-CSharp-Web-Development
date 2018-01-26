@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\DecimalToBinaryConverter\bin\Debug\netcoreapp1.1\DecimalToBinaryConverter.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\DecimalToBinaryConverter\bin\Debug\netcoreapp1.1\DecimalToBinaryConverter.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\DecimalToBinaryConverter\bin\Debug\netcoreapp1.1\DecimalToBinaryConverter.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\DecimalToBinaryConverter\bin\Debug\netcoreapp1.1\DecimalToBinaryConverter.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\DecimalToBinaryConverter\bin\Debug\netcoreapp1.1\DecimalToBinaryConverter.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\DecimalToBinaryConverter\obj\Debug\netcoreapp1.1\DecimalToBinaryConverter.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\DecimalToBinaryConverter\obj\Debug\netcoreapp1.1\DecimalToBinaryConverter.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\DecimalToBinaryConverter\obj\Debug\netcoreapp1.1\DecimalToBinaryConverter.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\DecimalToBinaryConverter\obj\Debug\netcoreapp1.1\DecimalToBinaryConverter.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\DecimalToBinaryConverter\obj\Debug\netcoreapp1.1\DecimalToBinaryConverter.pdb

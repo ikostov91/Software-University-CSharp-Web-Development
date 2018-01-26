@@ -1,0 +1,9 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\MaximumElement\bin\Debug\netcoreapp1.1\MaximumElement.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\MaximumElement\bin\Debug\netcoreapp1.1\MaximumElement.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\MaximumElement\bin\Debug\netcoreapp1.1\MaximumElement.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\MaximumElement\bin\Debug\netcoreapp1.1\MaximumElement.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\MaximumElement\bin\Debug\netcoreapp1.1\MaximumElement.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\MaximumElement\obj\Debug\netcoreapp1.1\MaximumElement.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\MaximumElement\obj\Debug\netcoreapp1.1\MaximumElement.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\MaximumElement\obj\Debug\netcoreapp1.1\MaximumElement.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\MaximumElement\obj\Debug\netcoreapp1.1\MaximumElement.pdb

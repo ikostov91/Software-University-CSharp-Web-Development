@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleCalculator\bin\Debug\netcoreapp1.1\SimpleCalculator.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleCalculator\bin\Debug\netcoreapp1.1\SimpleCalculator.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleCalculator\bin\Debug\netcoreapp1.1\SimpleCalculator.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleCalculator\bin\Debug\netcoreapp1.1\SimpleCalculator.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleCalculator\bin\Debug\netcoreapp1.1\SimpleCalculator.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleCalculator\obj\Debug\netcoreapp1.1\SimpleCalculator.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleCalculator\obj\Debug\netcoreapp1.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleCalculator\obj\Debug\netcoreapp1.1\SimpleCalculator.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleCalculator\obj\Debug\netcoreapp1.1\SimpleCalculator.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleCalculator\obj\Debug\netcoreapp1.1\SimpleCalculator.pdb

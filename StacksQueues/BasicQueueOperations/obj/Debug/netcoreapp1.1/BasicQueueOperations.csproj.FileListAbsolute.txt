@@ -1,0 +1,9 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicQueueOperations\bin\Debug\netcoreapp1.1\BasicQueueOperations.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicQueueOperations\bin\Debug\netcoreapp1.1\BasicQueueOperations.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicQueueOperations\bin\Debug\netcoreapp1.1\BasicQueueOperations.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicQueueOperations\bin\Debug\netcoreapp1.1\BasicQueueOperations.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicQueueOperations\bin\Debug\netcoreapp1.1\BasicQueueOperations.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicQueueOperations\obj\Debug\netcoreapp1.1\BasicQueueOperations.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicQueueOperations\obj\Debug\netcoreapp1.1\BasicQueueOperations.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicQueueOperations\obj\Debug\netcoreapp1.1\BasicQueueOperations.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicQueueOperations\obj\Debug\netcoreapp1.1\BasicQueueOperations.pdb
