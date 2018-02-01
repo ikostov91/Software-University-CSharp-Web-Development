@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\GroupNumbers\bin\Debug\netcoreapp1.1\GroupNumbers.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\GroupNumbers\bin\Debug\netcoreapp1.1\GroupNumbers.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\GroupNumbers\bin\Debug\netcoreapp1.1\GroupNumbers.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\GroupNumbers\bin\Debug\netcoreapp1.1\GroupNumbers.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\GroupNumbers\bin\Debug\netcoreapp1.1\GroupNumbers.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\GroupNumbers\obj\Debug\netcoreapp1.1\GroupNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\GroupNumbers\obj\Debug\netcoreapp1.1\GroupNumbers.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\GroupNumbers\obj\Debug\netcoreapp1.1\GroupNumbers.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\GroupNumbers\obj\Debug\netcoreapp1.1\GroupNumbers.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\GroupNumbers\obj\Debug\netcoreapp1.1\GroupNumbers.csprojResolveAssemblyReference.cache

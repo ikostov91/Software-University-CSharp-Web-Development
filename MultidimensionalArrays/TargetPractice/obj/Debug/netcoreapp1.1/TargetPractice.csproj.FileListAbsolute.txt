@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\TargetPractice\bin\Debug\netcoreapp1.1\TargetPractice.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\TargetPractice\bin\Debug\netcoreapp1.1\TargetPractice.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\TargetPractice\bin\Debug\netcoreapp1.1\TargetPractice.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp1.1\TargetPractice.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp1.1\TargetPractice.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp1.1\TargetPractice.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\TargetPractice\bin\Debug\netcoreapp1.1\TargetPractice.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\TargetPractice\bin\Debug\netcoreapp1.1\TargetPractice.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp1.1\TargetPractice.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp1.1\TargetPractice.pdb

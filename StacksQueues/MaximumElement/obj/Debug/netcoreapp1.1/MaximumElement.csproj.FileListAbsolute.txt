@@ -7,3 +7,4 @@ D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\MaximumElem
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\MaximumElement\obj\Debug\netcoreapp1.1\MaximumElement.AssemblyInfo.cs
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\MaximumElement\obj\Debug\netcoreapp1.1\MaximumElement.dll
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\MaximumElement\obj\Debug\netcoreapp1.1\MaximumElement.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\MaximumElement\obj\Debug\netcoreapp1.1\MaximumElement.csprojResolveAssemblyReference.cache

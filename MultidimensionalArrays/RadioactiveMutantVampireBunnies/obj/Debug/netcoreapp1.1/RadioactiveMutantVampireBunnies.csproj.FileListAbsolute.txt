@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp1.1\RadioactiveMutantVampireBunnies.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp1.1\RadioactiveMutantVampireBunnies.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp1.1\RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp1.1\RadioactiveMutantVampireBunnies.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp1.1\RadioactiveMutantVampireBunnies.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp1.1\RadioactiveMutantVampireBunnies.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp1.1\RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp1.1\RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp1.1\RadioactiveMutantVampireBunnies.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp1.1\RadioactiveMutantVampireBunnies.pdb

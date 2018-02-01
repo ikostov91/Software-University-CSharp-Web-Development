@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\LegoBlocks\bin\Debug\netcoreapp1.1\LegoBlocks.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\LegoBlocks\bin\Debug\netcoreapp1.1\LegoBlocks.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\LegoBlocks\bin\Debug\netcoreapp1.1\LegoBlocks.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\LegoBlocks\bin\Debug\netcoreapp1.1\LegoBlocks.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\LegoBlocks\bin\Debug\netcoreapp1.1\LegoBlocks.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp1.1\LegoBlocks.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp1.1\LegoBlocks.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp1.1\LegoBlocks.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp1.1\LegoBlocks.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp1.1\LegoBlocks.pdb

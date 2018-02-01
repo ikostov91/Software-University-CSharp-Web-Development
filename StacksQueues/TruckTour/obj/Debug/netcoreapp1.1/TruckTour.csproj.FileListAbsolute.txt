@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\TruckTour\bin\Debug\netcoreapp1.1\TruckTour.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\TruckTour\bin\Debug\netcoreapp1.1\TruckTour.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\TruckTour\bin\Debug\netcoreapp1.1\TruckTour.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\TruckTour\bin\Debug\netcoreapp1.1\TruckTour.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\TruckTour\bin\Debug\netcoreapp1.1\TruckTour.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\TruckTour\obj\Debug\netcoreapp1.1\TruckTour.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\TruckTour\obj\Debug\netcoreapp1.1\TruckTour.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\TruckTour\obj\Debug\netcoreapp1.1\TruckTour.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\TruckTour\obj\Debug\netcoreapp1.1\TruckTour.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\TruckTour\obj\Debug\netcoreapp1.1\TruckTour.pdb
