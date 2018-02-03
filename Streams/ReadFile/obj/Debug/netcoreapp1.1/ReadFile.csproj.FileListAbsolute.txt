@@ -1,0 +1,6 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\ReadFile\bin\Debug\netcoreapp1.1\ReadFile.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\ReadFile\bin\Debug\netcoreapp1.1\ReadFile.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\ReadFile\bin\Debug\netcoreapp1.1\ReadFile.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\ReadFile\obj\Debug\netcoreapp1.1\ReadFile.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\ReadFile\obj\Debug\netcoreapp1.1\ReadFile.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\ReadFile\obj\Debug\netcoreapp1.1\ReadFile.AssemblyInfo.cs

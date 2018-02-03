@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WriteToFile\bin\Debug\netcoreapp2.0\WriteToFile.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WriteToFile\bin\Debug\netcoreapp2.0\WriteToFile.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WriteToFile\bin\Debug\netcoreapp2.0\WriteToFile.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WriteToFile\bin\Debug\netcoreapp2.0\WriteToFile.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WriteToFile\bin\Debug\netcoreapp2.0\WriteToFile.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WriteToFile\obj\Debug\netcoreapp2.0\WriteToFile.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WriteToFile\obj\Debug\netcoreapp2.0\WriteToFile.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WriteToFile\obj\Debug\netcoreapp2.0\WriteToFile.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WriteToFile\obj\Debug\netcoreapp2.0\WriteToFile.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WriteToFile\obj\Debug\netcoreapp2.0\WriteToFile.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WriteToFile\obj\Debug\netcoreapp2.0\WriteToFile.pdb

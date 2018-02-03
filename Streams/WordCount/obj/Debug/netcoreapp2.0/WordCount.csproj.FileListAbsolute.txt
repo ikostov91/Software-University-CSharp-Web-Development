@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WordCount\bin\Debug\netcoreapp2.0\WordCount.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WordCount\bin\Debug\netcoreapp2.0\WordCount.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WordCount\bin\Debug\netcoreapp2.0\WordCount.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WordCount\bin\Debug\netcoreapp2.0\WordCount.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WordCount\bin\Debug\netcoreapp2.0\WordCount.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.pdb

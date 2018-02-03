@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\OddLines\bin\Debug\netcoreapp1.1\OddLines.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\OddLines\bin\Debug\netcoreapp1.1\OddLines.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\OddLines\bin\Debug\netcoreapp1.1\OddLines.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\OddLines\bin\Debug\netcoreapp1.1\OddLines.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\OddLines\bin\Debug\netcoreapp1.1\OddLines.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\OddLines\obj\Debug\netcoreapp1.1\OddLines.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\OddLines\obj\Debug\netcoreapp1.1\OddLines.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\OddLines\obj\Debug\netcoreapp1.1\OddLines.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\OddLines\obj\Debug\netcoreapp1.1\OddLines.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\OddLines\obj\Debug\netcoreapp1.1\OddLines.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\OddLines\obj\Debug\netcoreapp1.1\OddLines.AssemblyInfoInputs.cache
