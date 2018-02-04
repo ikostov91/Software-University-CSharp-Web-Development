@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FIndEvensOrOdds\bin\Debug\netcoreapp2.0\FIndEvensOrOdds.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FIndEvensOrOdds\bin\Debug\netcoreapp2.0\FIndEvensOrOdds.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FIndEvensOrOdds\bin\Debug\netcoreapp2.0\FIndEvensOrOdds.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FIndEvensOrOdds\bin\Debug\netcoreapp2.0\FIndEvensOrOdds.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FIndEvensOrOdds\bin\Debug\netcoreapp2.0\FIndEvensOrOdds.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FIndEvensOrOdds\obj\Debug\netcoreapp2.0\FIndEvensOrOdds.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FIndEvensOrOdds\obj\Debug\netcoreapp2.0\FIndEvensOrOdds.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FIndEvensOrOdds\obj\Debug\netcoreapp2.0\FIndEvensOrOdds.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FIndEvensOrOdds\obj\Debug\netcoreapp2.0\FIndEvensOrOdds.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FIndEvensOrOdds\obj\Debug\netcoreapp2.0\FIndEvensOrOdds.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FIndEvensOrOdds\obj\Debug\netcoreapp2.0\FIndEvensOrOdds.pdb

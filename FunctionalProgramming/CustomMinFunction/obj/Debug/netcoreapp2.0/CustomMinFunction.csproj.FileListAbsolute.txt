@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.pdb
