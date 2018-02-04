@@ -1,4 +1,5 @@
 ﻿using System;
+using SimpleJudge;
 
 namespace BashSoft
 {
@@ -7,6 +8,8 @@ namespace BashSoft
         static void Main(string[] args)
         {            
             InputReader.StartReadingCommands();
+
+            //Tester.CompareContent(@"Files\actual.txt", @"Files\expected.txt");
         }
     }
 }

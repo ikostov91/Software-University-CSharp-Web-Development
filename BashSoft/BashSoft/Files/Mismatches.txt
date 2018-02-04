@@ -1,6 +1,6 @@
 aaa
 
-Mismatch at line 1 -- expected: "bbb", actual: "aaa"
+Mismatch at line 1 -- expected: "aaa", actual: "bbb"
 
 aaa
 
