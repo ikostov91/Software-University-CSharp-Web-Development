@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\DangerousFloor\bin\Debug\netcoreapp2.0\DangerousFloor.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\DangerousFloor\bin\Debug\netcoreapp2.0\DangerousFloor.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\DangerousFloor\bin\Debug\netcoreapp2.0\DangerousFloor.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\DangerousFloor\bin\Debug\netcoreapp2.0\DangerousFloor.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\DangerousFloor\bin\Debug\netcoreapp2.0\DangerousFloor.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\DangerousFloor\obj\Debug\netcoreapp2.0\DangerousFloor.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\DangerousFloor\obj\Debug\netcoreapp2.0\DangerousFloor.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\DangerousFloor\obj\Debug\netcoreapp2.0\DangerousFloor.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\DangerousFloor\obj\Debug\netcoreapp2.0\DangerousFloor.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\DangerousFloor\obj\Debug\netcoreapp2.0\DangerousFloor.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\DangerousFloor\obj\Debug\netcoreapp2.0\DangerousFloor.csprojResolveAssemblyReference.cache

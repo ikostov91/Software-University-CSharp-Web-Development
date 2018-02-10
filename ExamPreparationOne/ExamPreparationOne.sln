@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberWarsTrainerSolution",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regeh", "Regeh\Regeh.csproj", "{9AAC86BC-31A3-499D-9DEE-C6481BC6E6EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightGame", "KnightGame\KnightGame.csproj", "{F83CB509-F816-4BDB-A98B-CBBF262F0A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightGameTrainerSolution", "KnightGameTrainerSolution\KnightGameTrainerSolution.csproj", "{70402A5A-36B2-4002-9C08-37939C039A59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{9AAC86BC-31A3-499D-9DEE-C6481BC6E6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AAC86BC-31A3-499D-9DEE-C6481BC6E6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AAC86BC-31A3-499D-9DEE-C6481BC6E6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83CB509-F816-4BDB-A98B-CBBF262F0A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83CB509-F816-4BDB-A98B-CBBF262F0A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83CB509-F816-4BDB-A98B-CBBF262F0A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83CB509-F816-4BDB-A98B-CBBF262F0A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70402A5A-36B2-4002-9C08-37939C039A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70402A5A-36B2-4002-9C08-37939C039A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70402A5A-36B2-4002-9C08-37939C039A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70402A5A-36B2-4002-9C08-37939C039A59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

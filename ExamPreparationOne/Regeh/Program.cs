@@ -9,8 +9,9 @@ namespace Regeh
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
-           
-            string pattern = @"[\[]([^' '\[]+)<(?<firstNumber>[0-9]+)REGEH(?<secondNumber>[0-9]+)>([^' '\]]+)[\]]";
+
+            //  [\[]([^' '\[]+)<(?<firstNumber>[0-9]+)REGEH(?<secondNumber>[0-9]+)>([^' '\]]+)[\]]
+            string pattern = @"\[[a-zA-Z]+<([0-9]+)REGEH([0-9]+)>[a-zA-Z]+\]";
 
             MatchCollection matches = Regex.Matches(input, pattern);
 
@@ -18,9 +19,9 @@ namespace Regeh
 
             foreach (Match match in matches)
             {
-                int firstIndex = int.Parse(match.Groups["firstNumber"].Value);
+                int firstIndex = int.Parse(match.Groups[1].Value);
                 indexes.Add(firstIndex);
-                int secondIndex = int.Parse(match.Groups["secondNumber"].Value);
+                int secondIndex = int.Parse(match.Groups[2].Value);
                 indexes.Add(secondIndex);
             }
 
