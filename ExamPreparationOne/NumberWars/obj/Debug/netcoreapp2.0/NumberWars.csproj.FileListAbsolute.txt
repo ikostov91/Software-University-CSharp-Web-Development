@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\NumberWars\bin\Debug\netcoreapp2.0\NumberWars.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\NumberWars\bin\Debug\netcoreapp2.0\NumberWars.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\NumberWars\bin\Debug\netcoreapp2.0\NumberWars.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\NumberWars\bin\Debug\netcoreapp2.0\NumberWars.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\NumberWars\bin\Debug\netcoreapp2.0\NumberWars.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\NumberWars\obj\Debug\netcoreapp2.0\NumberWars.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\NumberWars\obj\Debug\netcoreapp2.0\NumberWars.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\NumberWars\obj\Debug\netcoreapp2.0\NumberWars.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\NumberWars\obj\Debug\netcoreapp2.0\NumberWars.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\NumberWars\obj\Debug\netcoreapp2.0\NumberWars.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\NumberWars\obj\Debug\netcoreapp2.0\NumberWars.pdb

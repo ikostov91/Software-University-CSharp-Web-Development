@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital", "Hospital\Hospital.csproj", "{C66B5FC2-B818-41E5-9A48-B35FFDE243E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital", "Hospital\Hospital.csproj", "{C66B5FC2-B818-41E5-9A48-B35FFDE243E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberWars", "NumberWars\NumberWars.csproj", "{765C13FC-9FF8-4E31-9FFC-700847814B3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberWarsTrainerSolution", "NumberWarsTrainerSolution\NumberWarsTrainerSolution.csproj", "{BCBD18B2-9A0D-4716-9CAB-4EAF5D1319D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regeh", "Regeh\Regeh.csproj", "{9AAC86BC-31A3-499D-9DEE-C6481BC6E6EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{C66B5FC2-B818-41E5-9A48-B35FFDE243E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C66B5FC2-B818-41E5-9A48-B35FFDE243E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C66B5FC2-B818-41E5-9A48-B35FFDE243E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765C13FC-9FF8-4E31-9FFC-700847814B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765C13FC-9FF8-4E31-9FFC-700847814B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765C13FC-9FF8-4E31-9FFC-700847814B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765C13FC-9FF8-4E31-9FFC-700847814B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCBD18B2-9A0D-4716-9CAB-4EAF5D1319D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBD18B2-9A0D-4716-9CAB-4EAF5D1319D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBD18B2-9A0D-4716-9CAB-4EAF5D1319D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBD18B2-9A0D-4716-9CAB-4EAF5D1319D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AAC86BC-31A3-499D-9DEE-C6481BC6E6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAC86BC-31A3-499D-9DEE-C6481BC6E6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAC86BC-31A3-499D-9DEE-C6481BC6E6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAC86BC-31A3-499D-9DEE-C6481BC6E6EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
