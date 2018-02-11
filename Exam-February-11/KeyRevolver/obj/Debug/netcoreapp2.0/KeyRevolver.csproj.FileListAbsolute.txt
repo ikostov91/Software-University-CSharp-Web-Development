@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Exam-February-11\KeyRevolver\bin\Debug\netcoreapp2.0\KeyRevolver.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Exam-February-11\KeyRevolver\bin\Debug\netcoreapp2.0\KeyRevolver.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Exam-February-11\KeyRevolver\bin\Debug\netcoreapp2.0\KeyRevolver.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Exam-February-11\KeyRevolver\bin\Debug\netcoreapp2.0\KeyRevolver.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Exam-February-11\KeyRevolver\bin\Debug\netcoreapp2.0\KeyRevolver.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Exam-February-11\KeyRevolver\obj\Debug\netcoreapp2.0\KeyRevolver.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Exam-February-11\KeyRevolver\obj\Debug\netcoreapp2.0\KeyRevolver.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Exam-February-11\KeyRevolver\obj\Debug\netcoreapp2.0\KeyRevolver.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Exam-February-11\KeyRevolver\obj\Debug\netcoreapp2.0\KeyRevolver.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Exam-February-11\KeyRevolver\obj\Debug\netcoreapp2.0\KeyRevolver.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Exam-February-11\KeyRevolver\obj\Debug\netcoreapp2.0\KeyRevolver.pdb
