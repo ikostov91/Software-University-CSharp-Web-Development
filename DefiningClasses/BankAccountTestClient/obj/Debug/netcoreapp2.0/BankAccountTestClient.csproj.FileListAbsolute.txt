@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\BankAccountTestClient\bin\Debug\netcoreapp2.0\BankAccountTestClient.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\BankAccountTestClient\bin\Debug\netcoreapp2.0\BankAccountTestClient.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\BankAccountTestClient\bin\Debug\netcoreapp2.0\BankAccountTestClient.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\BankAccountTestClient\bin\Debug\netcoreapp2.0\BankAccountTestClient.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\BankAccountTestClient\bin\Debug\netcoreapp2.0\BankAccountTestClient.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\BankAccountTestClient\obj\Debug\netcoreapp2.0\BankAccountTestClient.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\BankAccountTestClient\obj\Debug\netcoreapp2.0\BankAccountTestClient.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\BankAccountTestClient\obj\Debug\netcoreapp2.0\BankAccountTestClient.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\BankAccountTestClient\obj\Debug\netcoreapp2.0\BankAccountTestClient.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\BankAccountTestClient\obj\Debug\netcoreapp2.0\BankAccountTestClient.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\BankAccountTestClient\obj\Debug\netcoreapp2.0\BankAccountTestClient.pdb

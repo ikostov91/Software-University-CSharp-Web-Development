@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\DefiningClassesDemo\bin\Debug\netcoreapp2.0\DefiningClassesDemo.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\DefiningClassesDemo\bin\Debug\netcoreapp2.0\DefiningClassesDemo.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\DefiningClassesDemo\bin\Debug\netcoreapp2.0\DefiningClassesDemo.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\DefiningClassesDemo\bin\Debug\netcoreapp2.0\DefiningClassesDemo.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\DefiningClassesDemo\bin\Debug\netcoreapp2.0\DefiningClassesDemo.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\DefiningClassesDemo\obj\Debug\netcoreapp2.0\DefiningClassesDemo.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\DefiningClassesDemo\obj\Debug\netcoreapp2.0\DefiningClassesDemo.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\DefiningClassesDemo\obj\Debug\netcoreapp2.0\DefiningClassesDemo.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\DefiningClassesDemo\obj\Debug\netcoreapp2.0\DefiningClassesDemo.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\DefiningClassesDemo\obj\Debug\netcoreapp2.0\DefiningClassesDemo.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\DefiningClasses\DefiningClassesDemo\obj\Debug\netcoreapp2.0\DefiningClassesDemo.pdb
