@@ -9,9 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefiningClassesDemo", "Defi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccountMethods", "BankAccountMethods\BankAccountMethods.csproj", "{B35AAF01-415B-4D5F-A764-FF8FD2A2E9F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccountTestClient", "BankAccountTestClient\BankAccountTestClient.csproj", "{5BC2D046-102B-41CA-B43F-8CEA9F7D5EAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccountTestClient", "BankAccountTestClient\BankAccountTestClient.csproj", "{5BC2D046-102B-41CA-B43F-8CEA9F7D5EAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefineClassPerson", "DefineClassPerson\DefineClassPerson.csproj", "{FA472D22-E3AD-4702-806F-58AE4CDE7420}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefineClassPerson", "DefineClassPerson\DefineClassPerson.csproj", "{FA472D22-E3AD-4702-806F-58AE4CDE7420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldestFamilyMember", "OldestFamilyMember\OldestFamilyMember.csproj", "{CDCCEF91-D183-4A17-947D-F8D07EE0D0E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpinionPoll", "OpinionPoll\OpinionPoll.csproj", "{33DBAF70-A8F5-490A-A8DD-27B31F139B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateModifier", "DateModifier\DateModifier.csproj", "{498717CB-C310-489C-A895-39B041FAECDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{FA472D22-E3AD-4702-806F-58AE4CDE7420}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA472D22-E3AD-4702-806F-58AE4CDE7420}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA472D22-E3AD-4702-806F-58AE4CDE7420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDCCEF91-D183-4A17-947D-F8D07EE0D0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCCEF91-D183-4A17-947D-F8D07EE0D0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCCEF91-D183-4A17-947D-F8D07EE0D0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCCEF91-D183-4A17-947D-F8D07EE0D0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DBAF70-A8F5-490A-A8DD-27B31F139B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DBAF70-A8F5-490A-A8DD-27B31F139B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DBAF70-A8F5-490A-A8DD-27B31F139B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DBAF70-A8F5-490A-A8DD-27B31F139B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498717CB-C310-489C-A895-39B041FAECDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498717CB-C310-489C-A895-39B041FAECDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498717CB-C310-489C-A895-39B041FAECDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498717CB-C310-489C-A895-39B041FAECDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

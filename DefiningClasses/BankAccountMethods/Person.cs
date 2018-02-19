@@ -23,9 +23,9 @@ class Person
         this.accounts = accounts;
     }
 
-    public void GetBalance()
-    {
-        return this.accounts.Where();
-    }
+    //public void GetBalance()
+    //{
+    //    return this.accounts.Where();
+    //}
 }
 
