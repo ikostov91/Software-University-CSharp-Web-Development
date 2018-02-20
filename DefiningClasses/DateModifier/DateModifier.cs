@@ -23,10 +23,10 @@ class DateModifier
 
     public int CalculateDaysBetweenDates(string firstDate, string secondDate)
     {
-        DateTime dateOne = DateTime.ParseExact(firstDate, "YYYY MM DD", CultureInfo.InvariantCulture);
-        DateTime dateTwo = DateTime.ParseExact(secondDate, "YYYY MM DD", CultureInfo.InvariantCulture);
+        DateTime dateOne = DateTime.ParseExact(firstDate, "yyyy MM dd", CultureInfo.InvariantCulture);
+        DateTime dateTwo = DateTime.ParseExact(secondDate, "yyyy MM dd", CultureInfo.InvariantCulture);
 
-        return (int)(dateTwo - dateOne).TotalDays;
+        return Math.Abs((int)(dateTwo - dateOne).TotalDays);
     }
 }
 
