@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateModifier", "DateModifie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyRoster", "CompanyRoster\CompanyRoster.csproj", "{C0A83D84-316E-43CC-A32D-3F2538761D95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedRacing", "SpeedRacing\SpeedRacing.csproj", "{EDC33758-173B-4ECE-9218-8EDC08C8C79C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawData", "RawData\RawData.csproj", "{27A539AA-5710-463C-924A-3F29B75C2F6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{C0A83D84-316E-43CC-A32D-3F2538761D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0A83D84-316E-43CC-A32D-3F2538761D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0A83D84-316E-43CC-A32D-3F2538761D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC33758-173B-4ECE-9218-8EDC08C8C79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC33758-173B-4ECE-9218-8EDC08C8C79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC33758-173B-4ECE-9218-8EDC08C8C79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC33758-173B-4ECE-9218-8EDC08C8C79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A539AA-5710-463C-924A-3F29B75C2F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A539AA-5710-463C-924A-3F29B75C2F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A539AA-5710-463C-924A-3F29B75C2F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A539AA-5710-463C-924A-3F29B75C2F6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
