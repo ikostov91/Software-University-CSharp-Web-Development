@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 
@@ -24,6 +25,13 @@ public class Rectangle
     {
         TopLeftPoint = new Point(topLeftPoint.X, topLeftPoint.Y);
         BottomRightPoint = new Point(bottomRightPoint.X, bottomRightPoint.Y);
+    }
+
+    public Rectangle(string coordsLine)
+    {
+        int[] coords = coordsLine.Split(new char[] { ' ' }, StringSplitOptions.None).Select(int.Parse).ToArray();
+        TopLeftPoint = new Point(coords[0], coords[1]);
+        BottomRightPoint = new Point(coords[2], coords[3]);
     }
 
     public bool Contains(Point point)

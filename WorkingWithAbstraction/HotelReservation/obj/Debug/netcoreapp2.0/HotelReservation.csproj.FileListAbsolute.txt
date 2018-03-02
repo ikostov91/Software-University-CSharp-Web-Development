@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\HotelReservation\bin\Debug\netcoreapp2.0\HotelReservation.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\HotelReservation\bin\Debug\netcoreapp2.0\HotelReservation.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\HotelReservation\bin\Debug\netcoreapp2.0\HotelReservation.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\HotelReservation\bin\Debug\netcoreapp2.0\HotelReservation.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\HotelReservation\bin\Debug\netcoreapp2.0\HotelReservation.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.pdb

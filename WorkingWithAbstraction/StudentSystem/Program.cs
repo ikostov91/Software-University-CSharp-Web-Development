@@ -1,12 +1,16 @@
 ﻿using System;
+using System.Linq;
 
-namespace StudentSystem
+class StartUp
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            
+        CommandParser parser = new CommandParser();
+
+        while (true)
+        { 
+            parser.ParseCommand(Console.ReadLine());
         }
     }
 }
+

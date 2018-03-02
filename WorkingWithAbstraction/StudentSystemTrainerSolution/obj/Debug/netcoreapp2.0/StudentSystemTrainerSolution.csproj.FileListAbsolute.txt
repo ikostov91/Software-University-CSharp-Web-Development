@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\StudentSystemTrainerSolution\bin\Debug\netcoreapp2.0\StudentSystemTrainerSolution.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\StudentSystemTrainerSolution\bin\Debug\netcoreapp2.0\StudentSystemTrainerSolution.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\StudentSystemTrainerSolution\bin\Debug\netcoreapp2.0\StudentSystemTrainerSolution.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\StudentSystemTrainerSolution\bin\Debug\netcoreapp2.0\StudentSystemTrainerSolution.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\StudentSystemTrainerSolution\bin\Debug\netcoreapp2.0\StudentSystemTrainerSolution.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\StudentSystemTrainerSolution\obj\Debug\netcoreapp2.0\StudentSystemTrainerSolution.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\StudentSystemTrainerSolution\obj\Debug\netcoreapp2.0\StudentSystemTrainerSolution.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\StudentSystemTrainerSolution\obj\Debug\netcoreapp2.0\StudentSystemTrainerSolution.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\StudentSystemTrainerSolution\obj\Debug\netcoreapp2.0\StudentSystemTrainerSolution.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\StudentSystemTrainerSolution\obj\Debug\netcoreapp2.0\StudentSystemTrainerSolution.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\StudentSystemTrainerSolution\obj\Debug\netcoreapp2.0\StudentSystemTrainerSolution.pdb

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
 
 public class Point
 {
@@ -19,16 +20,17 @@ public class Point
         set { this.y = value; }
     }
 
-    public Point()
-    {
-        this.x = 0;
-        this.y = 0;
-    }
-
-    public Point(int x, int y):this()
+    public Point(int x, int y)
     {
         this.x = x;
         this.y = y;
+    }
+
+    public Point(Func<string> readPoint)
+    {
+        int[] pointCoordinates = readPoint().Split(new char[] { ' ' }, StringSplitOptions.None).Select(int.Parse).ToArray();
+        X = pointCoordinates[0];
+        Y = pointCoordinates[1];
     }
 }
 

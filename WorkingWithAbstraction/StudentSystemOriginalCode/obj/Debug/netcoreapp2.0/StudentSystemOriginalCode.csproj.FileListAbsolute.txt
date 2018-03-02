@@ -1,0 +1,4 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\StudentSystemOriginalCode\obj\Debug\netcoreapp2.0\StudentSystemOriginalCode.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\StudentSystemOriginalCode\obj\Debug\netcoreapp2.0\StudentSystemOriginalCode.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\StudentSystemOriginalCode\obj\Debug\netcoreapp2.0\StudentSystemOriginalCode.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\StudentSystemOriginalCode\obj\Debug\netcoreapp2.0\StudentSystemOriginalCode.AssemblyInfo.cs
