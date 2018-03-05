@@ -1,12 +1,25 @@
 ﻿using System;
+using System.Linq;
 
-namespace JediGalaxy
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        Galaxy galaxy = new Galaxy(Console.ReadLine());
+
+        string command;
+        long sum = 0;
+
+        while ((command = Console.ReadLine())!= "Let the Force be with you")
         {
-            Console.WriteLine("Hello World!");
+            string ivoStartPosition = Console.ReadLine();
+            string evilPosition = Console.ReadLine();
+
+            galaxy.DestroyStars(evilPosition);
+            sum = galaxy.SumScore(ivoStartPosition);
         }
+
+        Console.WriteLine(sum);
     }
 }
+

@@ -35,7 +35,6 @@ public class Car
         this.color = color;
     }
 
-
     public override string ToString()
     {
         StringBuilder sb = new StringBuilder();

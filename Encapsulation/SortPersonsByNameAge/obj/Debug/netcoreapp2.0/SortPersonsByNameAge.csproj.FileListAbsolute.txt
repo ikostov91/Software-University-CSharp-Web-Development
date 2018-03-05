@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\SortPersonsByNameAge\bin\Debug\netcoreapp2.0\SortPersonsByNameAge.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\SortPersonsByNameAge\bin\Debug\netcoreapp2.0\SortPersonsByNameAge.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\SortPersonsByNameAge\bin\Debug\netcoreapp2.0\SortPersonsByNameAge.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\SortPersonsByNameAge\bin\Debug\netcoreapp2.0\SortPersonsByNameAge.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\SortPersonsByNameAge\bin\Debug\netcoreapp2.0\SortPersonsByNameAge.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\SortPersonsByNameAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAge.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\SortPersonsByNameAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAge.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\SortPersonsByNameAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAge.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\SortPersonsByNameAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAge.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\SortPersonsByNameAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAge.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\SortPersonsByNameAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAge.pdb
