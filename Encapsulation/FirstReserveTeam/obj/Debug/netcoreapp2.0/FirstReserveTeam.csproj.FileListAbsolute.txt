@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\FirstReserveTeam\bin\Debug\netcoreapp2.0\FirstReserveTeam.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\FirstReserveTeam\bin\Debug\netcoreapp2.0\FirstReserveTeam.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\FirstReserveTeam\bin\Debug\netcoreapp2.0\FirstReserveTeam.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\FirstReserveTeam\bin\Debug\netcoreapp2.0\FirstReserveTeam.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\FirstReserveTeam\bin\Debug\netcoreapp2.0\FirstReserveTeam.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\FirstReserveTeam\obj\Debug\netcoreapp2.0\FirstReserveTeam.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\FirstReserveTeam\obj\Debug\netcoreapp2.0\FirstReserveTeam.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\FirstReserveTeam\obj\Debug\netcoreapp2.0\FirstReserveTeam.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\FirstReserveTeam\obj\Debug\netcoreapp2.0\FirstReserveTeam.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\FirstReserveTeam\obj\Debug\netcoreapp2.0\FirstReserveTeam.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\FirstReserveTeam\obj\Debug\netcoreapp2.0\FirstReserveTeam.pdb

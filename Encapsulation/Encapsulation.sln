@@ -3,15 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortPersonsByNameAge", "SortPersonsByNameAge\SortPersonsByNameAge.csproj", "{FE52645C-019B-4099-8F83-2B21C5FBC48D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortPersonsByNameAge", "SortPersonsByNameAge\SortPersonsByNameAge.csproj", "{FE52645C-019B-4099-8F83-2B21C5FBC48D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationExample", "EncapsulationExample\EncapsulationExample.csproj", "{F9FE9C02-3BAF-43E6-98AD-4255C51E0BC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncapsulationExample", "EncapsulationExample\EncapsulationExample.csproj", "{F9FE9C02-3BAF-43E6-98AD-4255C51E0BC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryIncrease", "SalaryIncrease\SalaryIncrease.csproj", "{B97D07D3-8490-47E4-B31C-17C8203882D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalaryIncrease", "SalaryIncrease\SalaryIncrease.csproj", "{B97D07D3-8490-47E4-B31C-17C8203882D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationOfData", "ValidationOfData\ValidationOfData.csproj", "{05D5BBC4-528A-4868-B40B-0A015A347293}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidationOfData", "ValidationOfData\ValidationOfData.csproj", "{05D5BBC4-528A-4868-B40B-0A015A347293}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstReserveTeam", "FirstReserveTeam\FirstReserveTeam.csproj", "{9FED56EF-0CAD-417B-88D0-5BC8154E2B63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstReserveTeam", "FirstReserveTeam\FirstReserveTeam.csproj", "{9FED56EF-0CAD-417B-88D0-5BC8154E2B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBox", "ClassBox\ClassBox.csproj", "{7197A294-0068-46FE-9AC9-CDCDCF089AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalFarm", "AnimalFarm\AnimalFarm.csproj", "{A204EA71-1F37-457F-BF55-27D55479851D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingSpree", "ShoppingSpree\ShoppingSpree.csproj", "{FD78C618-5D4B-4215-9D31-7AB6758780E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaCalories", "PizzaCalories\PizzaCalories.csproj", "{2022DF0F-B961-43B2-95F5-B1B65CAC76DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,22 @@ Global
 		{9FED56EF-0CAD-417B-88D0-5BC8154E2B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FED56EF-0CAD-417B-88D0-5BC8154E2B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FED56EF-0CAD-417B-88D0-5BC8154E2B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7197A294-0068-46FE-9AC9-CDCDCF089AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7197A294-0068-46FE-9AC9-CDCDCF089AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7197A294-0068-46FE-9AC9-CDCDCF089AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7197A294-0068-46FE-9AC9-CDCDCF089AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A204EA71-1F37-457F-BF55-27D55479851D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A204EA71-1F37-457F-BF55-27D55479851D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A204EA71-1F37-457F-BF55-27D55479851D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A204EA71-1F37-457F-BF55-27D55479851D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD78C618-5D4B-4215-9D31-7AB6758780E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD78C618-5D4B-4215-9D31-7AB6758780E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD78C618-5D4B-4215-9D31-7AB6758780E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD78C618-5D4B-4215-9D31-7AB6758780E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2022DF0F-B961-43B2-95F5-B1B65CAC76DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2022DF0F-B961-43B2-95F5-B1B65CAC76DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2022DF0F-B961-43B2-95F5-B1B65CAC76DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2022DF0F-B961-43B2-95F5-B1B65CAC76DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

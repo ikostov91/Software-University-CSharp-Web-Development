@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.pdb
