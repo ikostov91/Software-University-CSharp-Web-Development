@@ -1,4 +1,5 @@
 ﻿using System;
+using BashSoft.Repository;
 using SimpleJudge;
 
 namespace BashSoft
@@ -7,9 +8,14 @@ namespace BashSoft
     {
         static void Main(string[] args)
         {            
-            InputReader.StartReadingCommands();
+            Tester tester = new Tester();
+            IOManager ioManager = new IOManager();
+            StudentsRepository repo = new StudentsRepository(new RepositoryFilter(), new RepositorySorter());
 
-            //Tester.CompareContent(@"Files\actual.txt", @"Files\expected.txt");
+            CommandInterpreter currentInterpreter = new CommandInterpreter(tester, repo, ioManager);
+            InputReader reader = new InputReader(currentInterpreter);
+
+            reader.StartReadingCommands();
         }
     }
 }
