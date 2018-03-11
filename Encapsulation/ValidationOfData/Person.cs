@@ -5,6 +5,10 @@ using System.Text;
 
 public class Person
 {
+    private const decimal MinSalary = 460.0m;
+    private const int     MinAge    = 0;
+    private const int     MinLength = 3;
+
     private string  firstName;
     private string  lastName;
     private int     age;
@@ -15,10 +19,7 @@ public class Person
         get { return this.firstName; }
         set
         {
-            if (value.Length < 3)
-            {
-                throw new ArgumentException("First name cannot contain fewer than 3 symbols!");
-            }
+            ValidateFieldLength(value, "First name");
             this.firstName = value;
         }
     }
@@ -28,10 +29,7 @@ public class Person
         get { return this.lastName; }
         set
         {
-            if (value.Length < 3)
-            {
-                throw new ArgumentException("Last name cannot contain fewer than 3 symbols!");
-            }
+            ValidateFieldLength(value, "Last name");
             this.lastName = value;
         }
     }
@@ -41,7 +39,7 @@ public class Person
         get { return this.age; }
         set
         {
-            if (value < 0)
+            if (value < MinAge)
             {
                 throw new ArgumentException("Age cannot be zero or a negative integer!");
             }
@@ -54,7 +52,7 @@ public class Person
         get { return this.salary; }
         set
         {
-            if (value < 460.0m)
+            if (value < MinSalary)
             {
                 throw new ArgumentException("Salary cannot be less than 460 leva!");
             }
@@ -78,6 +76,14 @@ public class Person
         }
 
         this.salary += this.salary * percentage / 100;
+    }
+
+    private void ValidateFieldLength(string fieldValue, string fieldName)
+    {
+        if (fieldValue?.Length < MinLength)
+        {
+            throw new ArgumentException(fieldName + " cannot contain fewer than 3 symbols!");
+        }
     }
 
     public override string ToString()
