@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\VehiclesExtended\bin\Debug\netcoreapp2.0\VehiclesExtended.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\VehiclesExtended\bin\Debug\netcoreapp2.0\VehiclesExtended.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\VehiclesExtended\bin\Debug\netcoreapp2.0\VehiclesExtended.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\VehiclesExtended\bin\Debug\netcoreapp2.0\VehiclesExtended.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\VehiclesExtended\bin\Debug\netcoreapp2.0\VehiclesExtended.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\VehiclesExtended\obj\Debug\netcoreapp2.0\VehiclesExtended.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\VehiclesExtended\obj\Debug\netcoreapp2.0\VehiclesExtended.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\VehiclesExtended\obj\Debug\netcoreapp2.0\VehiclesExtended.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\VehiclesExtended\obj\Debug\netcoreapp2.0\VehiclesExtended.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\VehiclesExtended\obj\Debug\netcoreapp2.0\VehiclesExtended.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\VehiclesExtended\obj\Debug\netcoreapp2.0\VehiclesExtended.pdb

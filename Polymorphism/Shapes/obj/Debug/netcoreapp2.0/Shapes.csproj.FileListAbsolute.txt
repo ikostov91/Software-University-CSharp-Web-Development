@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.pdb
