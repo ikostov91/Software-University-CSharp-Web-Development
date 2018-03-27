@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamProgressInfo", "StreamProgressInfo\StreamProgressInfo.csproj", "{2CEF2DE9-B490-48C6-92C6-5C7F1819CEEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicEditor", "GraphicEditor\GraphicEditor.csproj", "{501510C4-2AD9-4AAC-BF31-7F12C8211B6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CEF2DE9-B490-48C6-92C6-5C7F1819CEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEF2DE9-B490-48C6-92C6-5C7F1819CEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CEF2DE9-B490-48C6-92C6-5C7F1819CEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEF2DE9-B490-48C6-92C6-5C7F1819CEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501510C4-2AD9-4AAC-BF31-7F12C8211B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501510C4-2AD9-4AAC-BF31-7F12C8211B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501510C4-2AD9-4AAC-BF31-7F12C8211B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501510C4-2AD9-4AAC-BF31-7F12C8211B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D2A661D-F248-4397-8EE8-236D234D702D}
+	EndGlobalSection
+EndGlobal
