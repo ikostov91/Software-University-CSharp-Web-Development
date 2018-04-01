@@ -14,7 +14,7 @@ namespace DungeonsAndCodeWizards
             this.Weight = weight;
         }
 
-        public int Weight { get; set; }
+        public int Weight { get; private set; }
 
         public abstract void AffectCharacter(Character character);
     }

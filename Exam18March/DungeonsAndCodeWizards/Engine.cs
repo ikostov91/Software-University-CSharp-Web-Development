@@ -62,7 +62,7 @@ namespace DungeonsAndCodeWizards
                             Console.WriteLine(dm.Heal(command.Skip(1).ToArray()));
                             break;
                         case "EndTurn":
-                            Console.Write(dm.EndTurn());
+                            Console.Write(dm.EndTurn(command.Skip(1).ToArray()));
                             gameOver = dm.IsGameOver();
                             //if (dm.IsGameOver())
                             //{

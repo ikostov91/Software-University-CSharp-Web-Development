@@ -9,7 +9,6 @@ namespace DungeonsAndCodeWizards
     public abstract class Bag
     {
         private int capacity;
-        //private int load;
         private List<Item> items;
 
         protected Bag(int capacity)
@@ -24,7 +23,7 @@ namespace DungeonsAndCodeWizards
             private set { this.capacity = value; }
         }
 
-        public int Load => this.items.Select(x => x.Weight).Sum();
+        public int Load => this.items.Sum(x => x.Weight);
 
         public List<Item> Items
         {
@@ -39,7 +38,7 @@ namespace DungeonsAndCodeWizards
             }
             else
             {
-                this.items.Add(item);    
+                this.items.Add(item);
             }
         }
 
@@ -49,17 +48,15 @@ namespace DungeonsAndCodeWizards
             {
                 throw new InvalidOperationException(ErrorMessages.EmptyBag);
             }
-            else if (!this.items.Any(x => x.GetType().Name == name))
+
+            if (!this.items.Any(x => x.GetType().Name == name))
             {
-                //throw new ArgumentException($"No item with name {name} in bag!");
                 throw new ArgumentException(string.Format(ErrorMessages.ItemNotInBag, name));
             }
-            else
-            {
-                Item item = this.items.FirstOrDefault(x => x.GetType().Name == name);
-                this.items.Remove(item);
-                return item;
-            }
+
+            Item item = this.items.FirstOrDefault(x => x.GetType().Name == name);
+            this.items.Remove(item);
+            return item;
         }
     }
 }

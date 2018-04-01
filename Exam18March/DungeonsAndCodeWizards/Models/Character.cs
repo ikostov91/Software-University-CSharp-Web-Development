@@ -143,7 +143,7 @@ namespace DungeonsAndCodeWizards
         {
             if (this.IsAlive && character.IsAlive)
             {
-                  item.AffectCharacter(character);
+                item.AffectCharacter(character);
             }
         }
 

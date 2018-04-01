@@ -33,7 +33,6 @@ namespace DungeonsAndCodeWizards
                     faction = Faction.Java;
                     break;
                 default:
-                    //throw new ArgumentException($"Invalid faction \"{args[0]}\"!");
                     throw new ArgumentException(string.Format(ErrorMessages.InvalidFaction, factionType));
             }
 
@@ -50,7 +49,6 @@ namespace DungeonsAndCodeWizards
                     character = new Cleric(name, faction);
                     break;
                 default:
-                    //throw new ArgumentException($"Invalid character type \"{classType}\"!");
                     throw new ArgumentException(string.Format(ErrorMessages.InvalidCharacterType, classType));
             }
             allCharacters.Add(character);
@@ -220,7 +218,7 @@ namespace DungeonsAndCodeWizards
                    $"{healingReceiver.Name} has {healingReceiver.Health} health now!";
         }
 
-        public string EndTurn()
+        public string EndTurn(string[] args)
         {
             StringBuilder sb = new StringBuilder();
 
@@ -251,7 +249,6 @@ namespace DungeonsAndCodeWizards
         {
             if (!allCharacters.Any(x => x.Name == name))
             {
-                //throw new ArgumentException($"Character {name} not found!");
                 throw new ArgumentException(string.Format(ErrorMessages.CharacterNotFound, name));
             }
         }

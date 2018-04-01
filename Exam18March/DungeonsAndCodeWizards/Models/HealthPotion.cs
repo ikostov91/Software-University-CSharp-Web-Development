@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Reflection.PortableExecutable;
-using System.Runtime.CompilerServices;
 using System.Text;
 
 namespace DungeonsAndCodeWizards
 {
     class HealthPotion : Item
     {
+        private const int Points = 20;
+
         public HealthPotion() : base(5)
         {
         }
@@ -16,7 +16,7 @@ namespace DungeonsAndCodeWizards
         {
             if (character.IsAlive)
             {
-                character.Health += 20;
+                character.Health += Points;
             }
         }
     }

@@ -6,6 +6,8 @@ namespace DungeonsAndCodeWizards
 {
     class PoisonPotion : Item
     {
+        private const int Points = 20;
+
         public PoisonPotion() : base(5)
         {
         }
@@ -14,7 +16,7 @@ namespace DungeonsAndCodeWizards
         {
             if (character.IsAlive)
             {
-                character.Health -= 20;
+                character.Health -= Points;
             }
         }
     }

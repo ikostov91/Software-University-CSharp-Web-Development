@@ -7,7 +7,11 @@ namespace DungeonsAndCodeWizards
 {
     public class Cleric : Character, IHealable
     {
-        public Cleric(string name, Faction faction) : base(name, 50, 25, 40, new Backpack(), faction)
+        private const int StartingBaseHealth = 50;
+        private const int StartingBaseArmor = 25;
+        private const int StartingAbilityPoints = 40;
+
+        public Cleric(string name, Faction faction) : base(name, StartingBaseHealth, StartingBaseArmor, StartingAbilityPoints, new Backpack(), faction)
         {
             this.RestHealMultiplier = 0.5;
         }
@@ -25,7 +29,6 @@ namespace DungeonsAndCodeWizards
             }
             else
             {
-                //throw new ArgumentException($"{this.Name} cannot heal!");
                 throw new ArgumentException(string.Format(ErrorMessages.CannotHeal, this.Name));
             }
         }

@@ -7,7 +7,11 @@ namespace DungeonsAndCodeWizards
 {
     public class Warrior : Character,  IAttackable
     {
-        public Warrior(string name, Faction faction) : base(name, 100, 50, 40, new Satchel(), faction)
+        private const int StartingBaseHealth = 100;
+        private const int StartingBaseArmor = 50;
+        private const int StartingAbilityPoints = 40;
+
+        public Warrior(string name, Faction faction) : base(name, StartingBaseHealth, StartingBaseArmor, StartingAbilityPoints, new Satchel(), faction)
         {
         }
 
@@ -22,7 +26,6 @@ namespace DungeonsAndCodeWizards
 
                 if (this.Faction == character.Faction)
                 {
-                    //throw new ArgumentException($"Friendly fire! Both characters are from {this.Faction} faction!");
                     throw new ArgumentException(string.Format(ErrorMessages.FriendlyFire, this.Faction));
                 }
 
@@ -30,7 +33,6 @@ namespace DungeonsAndCodeWizards
             }
             else
             {
-                //throw new ArgumentException($"{this.Name} cannot attack!");
                 throw new ArgumentException(string.Format(ErrorMessages.CannotAttack, this.Name));
             }
         }
