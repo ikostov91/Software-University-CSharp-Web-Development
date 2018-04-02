@@ -4,8 +4,6 @@ using System.Text;
 
 public interface ILogger
 {
-    void Log(ReportLevel reportLevel, string dateTime, string message);
-
-    void LoggerInfo();
+    void Log(string reportLevel, string dateTime, string message);
 }
 

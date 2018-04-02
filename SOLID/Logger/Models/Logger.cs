@@ -5,14 +5,14 @@ using System.Text;
 
 class Logger : ILogger
 {
-    private List<IAppender> appenders;
+    private IList<IAppender> appenders;
 
-    public Logger(List<IAppender> appenders)
+    public Logger(IList<IAppender> appenders)
     {
         this.appenders = appenders;
     }
 
-    public void Log(ReportLevel reportLever, string dateTime, string message)
+    public void Log(string reportLever, string dateTime, string message)
     {
         foreach (var appender in this.appenders)
         {
@@ -20,13 +20,16 @@ class Logger : ILogger
         }
     }
 
-    public void LoggerInfo()
+    public override string ToString()
     {
-        Console.WriteLine("Logger info");
+        StringBuilder sb = new StringBuilder();
+        sb.AppendLine("Logger info");
         foreach (var appender in appenders)
         {
-            Console.WriteLine(appender.AppenderInfo());
+            sb.AppendLine(appender.ToString().Trim());
         }
+
+        return sb.ToString();
     }
 }
 

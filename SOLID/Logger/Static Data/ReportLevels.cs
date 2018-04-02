@@ -4,10 +4,10 @@ using System.Text;
 
 public enum ReportLevel
 {
-    INFO = 1,
-    WARNING = 2,
-    ERROR = 3,
-    CRITICAL = 4,
-    FATAL = 5
+    INFO = 0,
+    WARNING = 1,
+    ERROR = 2,
+    CRITICAL = 3,
+    FATAL = 4
 }
 

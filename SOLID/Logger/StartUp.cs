@@ -4,8 +4,11 @@ class StartUp
 {
     static void Main(string[] args)
     {
-        Engine engine = new Engine();
-        engine.Run();
+        Controller controller = new Controller();
+        controller.GetAppenders();
+        controller.GetLogger();
+        controller.ProcessMessages();
+        controller.PrintLoggerInfo();
     }
 }
 

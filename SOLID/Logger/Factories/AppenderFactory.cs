@@ -5,10 +5,10 @@ using System.Text;
 
 public class AppenderFactory
 {
-    public IAppender CreateAppender(string[] appenderInfo)
+    public IAppender CreateAppender(string appenderType, string layoutType)
     {
         ILayout layout = null;
-        switch (appenderInfo[1])
+        switch (layoutType)
         {
             case "SimpleLayout":
                 layout = new SimpleLayout();
@@ -20,24 +20,14 @@ public class AppenderFactory
                 throw new ArgumentException("Layout type does not exist.");
         }
 
-        ReportLevel reportLevel;
-        if (appenderInfo.Length == 3)
-        {
-            reportLevel = (ReportLevel)Enum.Parse(typeof(ReportLevel), appenderInfo[2]);
-        }
-        else
-        {
-            reportLevel = ReportLevel.INFO;
-        }
-
         IAppender appender;
-        switch (appenderInfo[0])
+        switch (appenderType)
         {
             case "ConsoleAppender":
-                appender = new ConsoleAppender(layout, reportLevel);
+                appender = new ConsoleAppender(layout);
                 break;
             case "FileAppender":
-                appender = new FileAppender(layout, reportLevel);
+                appender = new FileAppender(layout);
                 break;
             default:
                 throw new ArgumentException("Appender type does not exist.");
