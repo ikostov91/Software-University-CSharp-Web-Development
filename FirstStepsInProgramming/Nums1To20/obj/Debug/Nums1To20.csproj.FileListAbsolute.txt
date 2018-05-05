@@ -1,5 +1,0 @@
-E:\Code\programmingBasicsCSharp\Nums1To20\bin\Debug\Nums1To20.exe.config
-E:\Code\programmingBasicsCSharp\Nums1To20\bin\Debug\Nums1To20.exe
-E:\Code\programmingBasicsCSharp\Nums1To20\bin\Debug\Nums1To20.pdb
-E:\Code\programmingBasicsCSharp\Nums1To20\obj\Debug\Nums1To20.exe
-E:\Code\programmingBasicsCSharp\Nums1To20\obj\Debug\Nums1To20.pdb

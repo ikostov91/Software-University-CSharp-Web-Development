@@ -1,5 +1,0 @@
-E:\Code\programmingBasicsCSharp\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
-E:\Code\programmingBasicsCSharp\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
-E:\Code\programmingBasicsCSharp\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
-E:\Code\programmingBasicsCSharp\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
-E:\Code\programmingBasicsCSharp\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

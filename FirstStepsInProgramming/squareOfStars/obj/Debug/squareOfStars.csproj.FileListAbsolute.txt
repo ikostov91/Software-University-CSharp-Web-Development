@@ -1,5 +1,0 @@
-E:\Code\programmingBasicsCSharp\squareOfStars\bin\Debug\squareOfStars.exe.config
-E:\Code\programmingBasicsCSharp\squareOfStars\bin\Debug\squareOfStars.exe
-E:\Code\programmingBasicsCSharp\squareOfStars\bin\Debug\squareOfStars.pdb
-E:\Code\programmingBasicsCSharp\squareOfStars\obj\Debug\squareOfStars.exe
-E:\Code\programmingBasicsCSharp\squareOfStars\obj\Debug\squareOfStars.pdb
