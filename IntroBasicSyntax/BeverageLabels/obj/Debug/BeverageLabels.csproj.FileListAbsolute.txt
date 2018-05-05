@@ -1,0 +1,5 @@
+E:\Code\programmingFundamentals\IntroBasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.exe.config
+E:\Code\programmingFundamentals\IntroBasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.exe
+E:\Code\programmingFundamentals\IntroBasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.pdb
+E:\Code\programmingFundamentals\IntroBasicSyntax\BeverageLabels\obj\Debug\BeverageLabels.exe
+E:\Code\programmingFundamentals\IntroBasicSyntax\BeverageLabels\obj\Debug\BeverageLabels.pdb

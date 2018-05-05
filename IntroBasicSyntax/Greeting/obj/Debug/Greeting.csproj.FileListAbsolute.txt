@@ -1,0 +1,6 @@
+E:\Code\programmingFundamentals\IntroBasicSyntax\Greeting\bin\Debug\Greeting.exe.config
+E:\Code\programmingFundamentals\IntroBasicSyntax\Greeting\bin\Debug\Greeting.exe
+E:\Code\programmingFundamentals\IntroBasicSyntax\Greeting\bin\Debug\Greeting.pdb
+E:\Code\programmingFundamentals\IntroBasicSyntax\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
+E:\Code\programmingFundamentals\IntroBasicSyntax\Greeting\obj\Debug\Greeting.exe
+E:\Code\programmingFundamentals\IntroBasicSyntax\Greeting\obj\Debug\Greeting.pdb
