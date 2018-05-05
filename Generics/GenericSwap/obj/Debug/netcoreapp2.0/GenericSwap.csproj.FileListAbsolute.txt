@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwap\bin\Debug\netcoreapp2.0\GenericSwap.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwap\bin\Debug\netcoreapp2.0\GenericSwap.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwap\bin\Debug\netcoreapp2.0\GenericSwap.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwap\bin\Debug\netcoreapp2.0\GenericSwap.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwap\bin\Debug\netcoreapp2.0\GenericSwap.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwap\obj\Debug\netcoreapp2.0\GenericSwap.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwap\obj\Debug\netcoreapp2.0\GenericSwap.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwap\obj\Debug\netcoreapp2.0\GenericSwap.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwap\obj\Debug\netcoreapp2.0\GenericSwap.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwap\obj\Debug\netcoreapp2.0\GenericSwap.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\MissionPrivateImpossible\bin\Debug\netcoreapp2.0\MissionPrivateImpossible.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\MissionPrivateImpossible\bin\Debug\netcoreapp2.0\MissionPrivateImpossible.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\MissionPrivateImpossible\bin\Debug\netcoreapp2.0\MissionPrivateImpossible.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\MissionPrivateImpossible\bin\Debug\netcoreapp2.0\MissionPrivateImpossible.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\MissionPrivateImpossible\bin\Debug\netcoreapp2.0\MissionPrivateImpossible.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\MissionPrivateImpossible\obj\Debug\netcoreapp2.0\MissionPrivateImpossible.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\MissionPrivateImpossible\obj\Debug\netcoreapp2.0\MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\MissionPrivateImpossible\obj\Debug\netcoreapp2.0\MissionPrivateImpossible.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\MissionPrivateImpossible\obj\Debug\netcoreapp2.0\MissionPrivateImpossible.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\MissionPrivateImpossible\obj\Debug\netcoreapp2.0\MissionPrivateImpossible.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\MissionPrivateImpossible\obj\Debug\netcoreapp2.0\MissionPrivateImpossible.pdb

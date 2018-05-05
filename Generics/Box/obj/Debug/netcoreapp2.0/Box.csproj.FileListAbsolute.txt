@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\Box\bin\Debug\netcoreapp2.0\Box.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\Box\bin\Debug\netcoreapp2.0\Box.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\Box\bin\Debug\netcoreapp2.0\Box.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\Box\bin\Debug\netcoreapp2.0\Box.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\Box\bin\Debug\netcoreapp2.0\Box.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\Box\obj\Debug\netcoreapp2.0\Box.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\Box\obj\Debug\netcoreapp2.0\Box.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\Box\obj\Debug\netcoreapp2.0\Box.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\Box\obj\Debug\netcoreapp2.0\Box.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\Box\obj\Debug\netcoreapp2.0\Box.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\Box\obj\Debug\netcoreapp2.0\Box.csprojResolveAssemblyReference.cache

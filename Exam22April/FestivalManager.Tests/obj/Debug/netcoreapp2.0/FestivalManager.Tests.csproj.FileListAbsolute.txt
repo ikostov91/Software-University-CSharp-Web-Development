@@ -1,0 +1,17 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.Tests.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.Tests.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.Tests.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.Tests.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.Tests.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Exam22April\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.pdb

@@ -1,0 +1,15 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ObjectCommunicationAndEvents\WPFAppDemo\bin\Debug\WPFAppDemo.exe.config
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ObjectCommunicationAndEvents\WPFAppDemo\bin\Debug\WPFAppDemo.exe
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ObjectCommunicationAndEvents\WPFAppDemo\bin\Debug\WPFAppDemo.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ObjectCommunicationAndEvents\WPFAppDemo\obj\Debug\WPFAppDemo.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ObjectCommunicationAndEvents\WPFAppDemo\obj\Debug\MainWindow.g.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ObjectCommunicationAndEvents\WPFAppDemo\obj\Debug\App.g.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ObjectCommunicationAndEvents\WPFAppDemo\obj\Debug\WPFAppDemo_MarkupCompile.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ObjectCommunicationAndEvents\WPFAppDemo\obj\Debug\WPFAppDemo_MarkupCompile.lref
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ObjectCommunicationAndEvents\WPFAppDemo\obj\Debug\MainWindow.baml
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ObjectCommunicationAndEvents\WPFAppDemo\obj\Debug\WPFAppDemo.g.resources
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ObjectCommunicationAndEvents\WPFAppDemo\obj\Debug\WPFAppDemo.Properties.Resources.resources
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ObjectCommunicationAndEvents\WPFAppDemo\obj\Debug\WPFAppDemo.csproj.GenerateResource.Cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ObjectCommunicationAndEvents\WPFAppDemo\obj\Debug\WPFAppDemo.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ObjectCommunicationAndEvents\WPFAppDemo\obj\Debug\WPFAppDemo.exe
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ObjectCommunicationAndEvents\WPFAppDemo\obj\Debug\WPFAppDemo.pdb

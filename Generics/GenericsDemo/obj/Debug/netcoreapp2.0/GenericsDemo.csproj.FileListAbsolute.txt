@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericsDemo\bin\Debug\netcoreapp2.0\GenericsDemo.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericsDemo\bin\Debug\netcoreapp2.0\GenericsDemo.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericsDemo\bin\Debug\netcoreapp2.0\GenericsDemo.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericsDemo\bin\Debug\netcoreapp2.0\GenericsDemo.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericsDemo\bin\Debug\netcoreapp2.0\GenericsDemo.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericsDemo\obj\Debug\netcoreapp2.0\GenericsDemo.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericsDemo\obj\Debug\netcoreapp2.0\GenericsDemo.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericsDemo\obj\Debug\netcoreapp2.0\GenericsDemo.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericsDemo\obj\Debug\netcoreapp2.0\GenericsDemo.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericsDemo\obj\Debug\netcoreapp2.0\GenericsDemo.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericsDemo\obj\Debug\netcoreapp2.0\GenericsDemo.csprojResolveAssemblyReference.cache

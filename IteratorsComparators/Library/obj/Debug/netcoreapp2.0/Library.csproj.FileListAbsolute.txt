@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\Library\bin\Debug\netcoreapp2.0\Library.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\Library\bin\Debug\netcoreapp2.0\Library.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\Library\bin\Debug\netcoreapp2.0\Library.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\Library\obj\Debug\netcoreapp2.0\Library.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\Library\obj\Debug\netcoreapp2.0\Library.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\Library\obj\Debug\netcoreapp2.0\Library.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\Library\obj\Debug\netcoreapp2.0\Library.pdb
