@@ -1,5 +1,0 @@
-E:\Code\programmingFundamentals\IntroBasicSyntax\MilesToKilometres\bin\Debug\MilesToKilometres.exe.config
-E:\Code\programmingFundamentals\IntroBasicSyntax\MilesToKilometres\bin\Debug\MilesToKilometres.exe
-E:\Code\programmingFundamentals\IntroBasicSyntax\MilesToKilometres\bin\Debug\MilesToKilometres.pdb
-E:\Code\programmingFundamentals\IntroBasicSyntax\MilesToKilometres\obj\Debug\MilesToKilometres.exe
-E:\Code\programmingFundamentals\IntroBasicSyntax\MilesToKilometres\obj\Debug\MilesToKilometres.pdb

@@ -1,5 +1,0 @@
-E:\Code\programmingFundamentals\IntroBasicSyntax\RectangleArea\bin\Debug\RectangleArea.exe.config
-E:\Code\programmingFundamentals\IntroBasicSyntax\RectangleArea\bin\Debug\RectangleArea.exe
-E:\Code\programmingFundamentals\IntroBasicSyntax\RectangleArea\bin\Debug\RectangleArea.pdb
-E:\Code\programmingFundamentals\IntroBasicSyntax\RectangleArea\obj\Debug\RectangleArea.exe
-E:\Code\programmingFundamentals\IntroBasicSyntax\RectangleArea\obj\Debug\RectangleArea.pdb

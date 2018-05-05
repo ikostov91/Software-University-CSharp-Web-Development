@@ -1,5 +1,0 @@
-E:\Code\programmingFundamentals\IntroBasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe.config
-E:\Code\programmingFundamentals\IntroBasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe
-E:\Code\programmingFundamentals\IntroBasicSyntax\CharacterStats\bin\Debug\CharacterStats.pdb
-E:\Code\programmingFundamentals\IntroBasicSyntax\CharacterStats\obj\Debug\CharacterStats.exe
-E:\Code\programmingFundamentals\IntroBasicSyntax\CharacterStats\obj\Debug\CharacterStats.pdb
