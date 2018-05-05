@@ -1,0 +1,5 @@
+E:\Code\programmingBasicsCSharp\rectangleArea\bin\Debug\rectangleArea.exe.config
+E:\Code\programmingBasicsCSharp\rectangleArea\bin\Debug\rectangleArea.exe
+E:\Code\programmingBasicsCSharp\rectangleArea\bin\Debug\rectangleArea.pdb
+E:\Code\programmingBasicsCSharp\rectangleArea\obj\Debug\rectangleArea.exe
+E:\Code\programmingBasicsCSharp\rectangleArea\obj\Debug\rectangleArea.pdb
