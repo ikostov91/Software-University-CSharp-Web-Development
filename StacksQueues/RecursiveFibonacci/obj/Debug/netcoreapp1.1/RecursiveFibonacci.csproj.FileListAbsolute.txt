@@ -1,0 +1,9 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\RecursiveFibonacci\bin\Debug\netcoreapp1.1\RecursiveFibonacci.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\RecursiveFibonacci\bin\Debug\netcoreapp1.1\RecursiveFibonacci.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\RecursiveFibonacci\bin\Debug\netcoreapp1.1\RecursiveFibonacci.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\RecursiveFibonacci\bin\Debug\netcoreapp1.1\RecursiveFibonacci.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\RecursiveFibonacci\bin\Debug\netcoreapp1.1\RecursiveFibonacci.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\RecursiveFibonacci\obj\Debug\netcoreapp1.1\RecursiveFibonacci.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\RecursiveFibonacci\obj\Debug\netcoreapp1.1\RecursiveFibonacci.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\RecursiveFibonacci\obj\Debug\netcoreapp1.1\RecursiveFibonacci.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\RecursiveFibonacci\obj\Debug\netcoreapp1.1\RecursiveFibonacci.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\CryptoMaster\bin\Debug\netcoreapp2.0\CryptoMaster.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\CryptoMaster\bin\Debug\netcoreapp2.0\CryptoMaster.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\CryptoMaster\bin\Debug\netcoreapp2.0\CryptoMaster.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\CryptoMaster\bin\Debug\netcoreapp2.0\CryptoMaster.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\CryptoMaster\bin\Debug\netcoreapp2.0\CryptoMaster.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\CryptoMaster\obj\Debug\netcoreapp2.0\CryptoMaster.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\CryptoMaster\obj\Debug\netcoreapp2.0\CryptoMaster.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\CryptoMaster\obj\Debug\netcoreapp2.0\CryptoMaster.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\CryptoMaster\obj\Debug\netcoreapp2.0\CryptoMaster.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\CryptoMaster\obj\Debug\netcoreapp2.0\CryptoMaster.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\CryptoMaster\obj\Debug\netcoreapp2.0\CryptoMaster.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\2x2Square\bin\Debug\netcoreapp1.1\2x2Square.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\2x2Square\bin\Debug\netcoreapp1.1\2x2Square.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\2x2Square\bin\Debug\netcoreapp1.1\2x2Square.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\2x2Square\bin\Debug\netcoreapp1.1\2x2Square.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\2x2Square\bin\Debug\netcoreapp1.1\2x2Square.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\2x2Square\obj\Debug\netcoreapp1.1\2x2Square.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\2x2Square\obj\Debug\netcoreapp1.1\2x2Square.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\2x2Square\obj\Debug\netcoreapp1.1\2x2Square.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\2x2Square\obj\Debug\netcoreapp1.1\2x2Square.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\2x2Square\obj\Debug\netcoreapp1.1\2x2Square.csprojResolveAssemblyReference.cache

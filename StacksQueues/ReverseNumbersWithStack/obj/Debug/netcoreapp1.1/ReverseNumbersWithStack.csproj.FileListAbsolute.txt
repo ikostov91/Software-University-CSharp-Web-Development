@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\ReverseNumbersWithStack\bin\Debug\netcoreapp1.1\ReverseNumbersWithStack.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\ReverseNumbersWithStack\bin\Debug\netcoreapp1.1\ReverseNumbersWithStack.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\ReverseNumbersWithStack\bin\Debug\netcoreapp1.1\ReverseNumbersWithStack.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\ReverseNumbersWithStack\bin\Debug\netcoreapp1.1\ReverseNumbersWithStack.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\ReverseNumbersWithStack\bin\Debug\netcoreapp1.1\ReverseNumbersWithStack.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\ReverseNumbersWithStack\obj\Debug\netcoreapp1.1\ReverseNumbersWithStack.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\ReverseNumbersWithStack\obj\Debug\netcoreapp1.1\ReverseNumbersWithStack.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\ReverseNumbersWithStack\obj\Debug\netcoreapp1.1\ReverseNumbersWithStack.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\ReverseNumbersWithStack\obj\Debug\netcoreapp1.1\ReverseNumbersWithStack.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\ReverseNumbersWithStack\obj\Debug\netcoreapp1.1\ReverseNumbersWithStack.pdb

@@ -1,0 +1,9 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleTextEditor\bin\Debug\netcoreapp1.1\SimpleTextEditor.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleTextEditor\bin\Debug\netcoreapp1.1\SimpleTextEditor.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleTextEditor\bin\Debug\netcoreapp1.1\SimpleTextEditor.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleTextEditor\bin\Debug\netcoreapp1.1\SimpleTextEditor.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleTextEditor\bin\Debug\netcoreapp1.1\SimpleTextEditor.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleTextEditor\obj\Debug\netcoreapp1.1\SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleTextEditor\obj\Debug\netcoreapp1.1\SimpleTextEditor.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleTextEditor\obj\Debug\netcoreapp1.1\SimpleTextEditor.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\SimpleTextEditor\obj\Debug\netcoreapp1.1\SimpleTextEditor.pdb

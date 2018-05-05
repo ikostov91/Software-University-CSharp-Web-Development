@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RubikMatrix\bin\Debug\netcoreapp1.1\RubikMatrix.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RubikMatrix\bin\Debug\netcoreapp1.1\RubikMatrix.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RubikMatrix\bin\Debug\netcoreapp1.1\RubikMatrix.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RubikMatrix\bin\Debug\netcoreapp1.1\RubikMatrix.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RubikMatrix\bin\Debug\netcoreapp1.1\RubikMatrix.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RubikMatrix\obj\Debug\netcoreapp1.1\RubikMatrix.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RubikMatrix\obj\Debug\netcoreapp1.1\RubikMatrix.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RubikMatrix\obj\Debug\netcoreapp1.1\RubikMatrix.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RubikMatrix\obj\Debug\netcoreapp1.1\RubikMatrix.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\RubikMatrix\obj\Debug\netcoreapp1.1\RubikMatrix.pdb

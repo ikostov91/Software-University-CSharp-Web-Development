@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\Crossfire\bin\Debug\netcoreapp1.1\Crossfire.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\Crossfire\bin\Debug\netcoreapp1.1\Crossfire.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\Crossfire\bin\Debug\netcoreapp1.1\Crossfire.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\Crossfire\bin\Debug\netcoreapp1.1\Crossfire.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\Crossfire\bin\Debug\netcoreapp1.1\Crossfire.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\Crossfire\obj\Debug\netcoreapp1.1\Crossfire.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\Crossfire\obj\Debug\netcoreapp1.1\Crossfire.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\Crossfire\obj\Debug\netcoreapp1.1\Crossfire.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\Crossfire\obj\Debug\netcoreapp1.1\Crossfire.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\MultidimensionalArrays\Crossfire\obj\Debug\netcoreapp1.1\Crossfire.pdb

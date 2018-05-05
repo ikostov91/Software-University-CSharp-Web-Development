@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp2.0\FilterByAge.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp2.0\FilterByAge.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp2.0\FilterByAge.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp2.0\FilterByAge.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp2.0\FilterByAge.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.0\FilterByAge.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.0\FilterByAge.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.0\FilterByAge.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.0\FilterByAge.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.0\FilterByAge.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.0\FilterByAge.pdb

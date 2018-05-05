@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BalancedParentheses\bin\Debug\netcoreapp1.1\BalancedParentheses.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BalancedParentheses\bin\Debug\netcoreapp1.1\BalancedParentheses.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BalancedParentheses\bin\Debug\netcoreapp1.1\BalancedParentheses.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BalancedParentheses\bin\Debug\netcoreapp1.1\BalancedParentheses.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BalancedParentheses\bin\Debug\netcoreapp1.1\BalancedParentheses.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BalancedParentheses\obj\Debug\netcoreapp1.1\BalancedParentheses.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BalancedParentheses\obj\Debug\netcoreapp1.1\BalancedParentheses.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BalancedParentheses\obj\Debug\netcoreapp1.1\BalancedParentheses.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BalancedParentheses\obj\Debug\netcoreapp1.1\BalancedParentheses.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BalancedParentheses\obj\Debug\netcoreapp1.1\BalancedParentheses.pdb

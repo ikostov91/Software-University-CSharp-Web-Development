@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\KnightGameTrainerSolution\bin\Debug\netcoreapp2.0\KnightGameTrainerSolution.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\KnightGameTrainerSolution\bin\Debug\netcoreapp2.0\KnightGameTrainerSolution.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\KnightGameTrainerSolution\bin\Debug\netcoreapp2.0\KnightGameTrainerSolution.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\KnightGameTrainerSolution\bin\Debug\netcoreapp2.0\KnightGameTrainerSolution.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\KnightGameTrainerSolution\bin\Debug\netcoreapp2.0\KnightGameTrainerSolution.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\KnightGameTrainerSolution\obj\Debug\netcoreapp2.0\KnightGameTrainerSolution.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\KnightGameTrainerSolution\obj\Debug\netcoreapp2.0\KnightGameTrainerSolution.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\KnightGameTrainerSolution\obj\Debug\netcoreapp2.0\KnightGameTrainerSolution.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\KnightGameTrainerSolution\obj\Debug\netcoreapp2.0\KnightGameTrainerSolution.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\KnightGameTrainerSolution\obj\Debug\netcoreapp2.0\KnightGameTrainerSolution.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\KnightGameTrainerSolution\obj\Debug\netcoreapp2.0\KnightGameTrainerSolution.pdb

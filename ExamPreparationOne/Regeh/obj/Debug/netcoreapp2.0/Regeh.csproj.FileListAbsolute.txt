@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\Regeh\bin\Debug\netcoreapp2.0\Regeh.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\Regeh\bin\Debug\netcoreapp2.0\Regeh.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\Regeh\bin\Debug\netcoreapp2.0\Regeh.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\Regeh\bin\Debug\netcoreapp2.0\Regeh.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\Regeh\bin\Debug\netcoreapp2.0\Regeh.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\Regeh\obj\Debug\netcoreapp2.0\Regeh.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\Regeh\obj\Debug\netcoreapp2.0\Regeh.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\Regeh\obj\Debug\netcoreapp2.0\Regeh.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\Regeh\obj\Debug\netcoreapp2.0\Regeh.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\Regeh\obj\Debug\netcoreapp2.0\Regeh.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationOne\Regeh\obj\Debug\netcoreapp2.0\Regeh.pdb

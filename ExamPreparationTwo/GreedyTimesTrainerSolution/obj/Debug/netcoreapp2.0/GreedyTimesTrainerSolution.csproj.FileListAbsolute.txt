@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\GreedyTimesTrainerSolution\bin\Debug\netcoreapp2.0\GreedyTimesTrainerSolution.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\GreedyTimesTrainerSolution\bin\Debug\netcoreapp2.0\GreedyTimesTrainerSolution.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\GreedyTimesTrainerSolution\bin\Debug\netcoreapp2.0\GreedyTimesTrainerSolution.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\GreedyTimesTrainerSolution\bin\Debug\netcoreapp2.0\GreedyTimesTrainerSolution.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\GreedyTimesTrainerSolution\bin\Debug\netcoreapp2.0\GreedyTimesTrainerSolution.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\GreedyTimesTrainerSolution\obj\Debug\netcoreapp2.0\GreedyTimesTrainerSolution.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\GreedyTimesTrainerSolution\obj\Debug\netcoreapp2.0\GreedyTimesTrainerSolution.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\GreedyTimesTrainerSolution\obj\Debug\netcoreapp2.0\GreedyTimesTrainerSolution.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\GreedyTimesTrainerSolution\obj\Debug\netcoreapp2.0\GreedyTimesTrainerSolution.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\GreedyTimesTrainerSolution\obj\Debug\netcoreapp2.0\GreedyTimesTrainerSolution.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\ExamPreparationTwo\GreedyTimesTrainerSolution\obj\Debug\netcoreapp2.0\GreedyTimesTrainerSolution.pdb

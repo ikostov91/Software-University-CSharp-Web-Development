@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp2.0\AddVAT.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp2.0\AddVAT.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp2.0\AddVAT.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp2.0\AddVAT.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp2.0\AddVAT.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.pdb

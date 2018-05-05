@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\LineNumbers\bin\Debug\netcoreapp2.0\LineNumbers.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\LineNumbers\bin\Debug\netcoreapp2.0\LineNumbers.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\LineNumbers\bin\Debug\netcoreapp2.0\LineNumbers.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\LineNumbers\bin\Debug\netcoreapp2.0\LineNumbers.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\LineNumbers\bin\Debug\netcoreapp2.0\LineNumbers.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\Streams\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicStackOperations\bin\Debug\netcoreapp1.1\BasicStackOperations.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicStackOperations\bin\Debug\netcoreapp1.1\BasicStackOperations.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicStackOperations\bin\Debug\netcoreapp1.1\BasicStackOperations.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicStackOperations\bin\Debug\netcoreapp1.1\BasicStackOperations.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicStackOperations\bin\Debug\netcoreapp1.1\BasicStackOperations.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicStackOperations\obj\Debug\netcoreapp1.1\BasicStackOperations.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicStackOperations\obj\Debug\netcoreapp1.1\BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicStackOperations\obj\Debug\netcoreapp1.1\BasicStackOperations.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicStackOperations\obj\Debug\netcoreapp1.1\BasicStackOperations.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\StacksQueues\BasicStackOperations\obj\Debug\netcoreapp1.1\BasicStackOperations.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.dll
+D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.pdb
