@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\SoftUni-Courses-Code\\Software-University-Story-Mode\\BashSoft\\BashSoft\\BashSoft.csproj",
+      "projectUniqueName": "D:\\Repositories\\Software-University-CSharp-Web-Development\\Software-University-BashSoft\\BashSoft\\BashSoft.csproj",
       "projectName": "BashSoft",
-      "projectPath": "D:\\SoftUni-Courses-Code\\Software-University-Story-Mode\\BashSoft\\BashSoft\\BashSoft.csproj",
+      "projectPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\Software-University-BashSoft\\BashSoft\\BashSoft.csproj",
       "packagesPath": "C:\\Users\\ikost\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni-Courses-Code\\Software-University-Story-Mode\\BashSoft\\BashSoft\\obj\\",
+      "outputPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\Software-University-BashSoft\\BashSoft\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
