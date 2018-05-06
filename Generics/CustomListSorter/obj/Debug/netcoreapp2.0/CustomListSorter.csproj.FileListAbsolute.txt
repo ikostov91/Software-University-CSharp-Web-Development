@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\CustomListSorter\bin\Debug\netcoreapp2.0\CustomListSorter.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\CustomListSorter\bin\Debug\netcoreapp2.0\CustomListSorter.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\CustomListSorter\bin\Debug\netcoreapp2.0\CustomListSorter.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\CustomListSorter\bin\Debug\netcoreapp2.0\CustomListSorter.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\CustomListSorter\bin\Debug\netcoreapp2.0\CustomListSorter.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\CustomListSorter\obj\Debug\netcoreapp2.0\CustomListSorter.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\CustomListSorter\obj\Debug\netcoreapp2.0\CustomListSorter.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\CustomListSorter\obj\Debug\netcoreapp2.0\CustomListSorter.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\CustomListSorter\obj\Debug\netcoreapp2.0\CustomListSorter.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\CustomListSorter\obj\Debug\netcoreapp2.0\CustomListSorter.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\CustomListSorter\obj\Debug\netcoreapp2.0\CustomListSorter.pdb

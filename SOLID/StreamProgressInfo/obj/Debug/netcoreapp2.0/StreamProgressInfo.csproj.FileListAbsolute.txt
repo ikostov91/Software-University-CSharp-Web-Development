@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\StreamProgressInfo\bin\Debug\netcoreapp2.0\StreamProgressInfo.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\StreamProgressInfo\bin\Debug\netcoreapp2.0\StreamProgressInfo.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\StreamProgressInfo\bin\Debug\netcoreapp2.0\StreamProgressInfo.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\StreamProgressInfo\bin\Debug\netcoreapp2.0\StreamProgressInfo.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\StreamProgressInfo\bin\Debug\netcoreapp2.0\StreamProgressInfo.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\StreamProgressInfo\obj\Debug\netcoreapp2.0\StreamProgressInfo.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\StreamProgressInfo\obj\Debug\netcoreapp2.0\StreamProgressInfo.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\StreamProgressInfo\obj\Debug\netcoreapp2.0\StreamProgressInfo.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\StreamProgressInfo\obj\Debug\netcoreapp2.0\StreamProgressInfo.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\StreamProgressInfo\obj\Debug\netcoreapp2.0\StreamProgressInfo.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\StreamProgressInfo\obj\Debug\netcoreapp2.0\StreamProgressInfo.pdb

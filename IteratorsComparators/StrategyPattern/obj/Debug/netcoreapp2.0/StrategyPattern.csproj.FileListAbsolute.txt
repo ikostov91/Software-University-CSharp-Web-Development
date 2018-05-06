@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\IteratorsComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.pdb

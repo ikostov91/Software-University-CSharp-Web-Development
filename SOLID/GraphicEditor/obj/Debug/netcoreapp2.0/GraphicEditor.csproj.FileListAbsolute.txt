@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\GraphicEditor\bin\Debug\netcoreapp2.0\GraphicEditor.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\GraphicEditor\bin\Debug\netcoreapp2.0\GraphicEditor.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\GraphicEditor\bin\Debug\netcoreapp2.0\GraphicEditor.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\GraphicEditor\bin\Debug\netcoreapp2.0\GraphicEditor.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\GraphicEditor\bin\Debug\netcoreapp2.0\GraphicEditor.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\GraphicEditor\obj\Debug\netcoreapp2.0\GraphicEditor.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\GraphicEditor\obj\Debug\netcoreapp2.0\GraphicEditor.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\GraphicEditor\obj\Debug\netcoreapp2.0\GraphicEditor.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\GraphicEditor\obj\Debug\netcoreapp2.0\GraphicEditor.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\GraphicEditor\obj\Debug\netcoreapp2.0\GraphicEditor.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\SOLID\GraphicEditor\obj\Debug\netcoreapp2.0\GraphicEditor.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\BarracksWarsNewFactory\obj\Debug\netcoreapp2.0\BarracksWarsNewFactory.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\BarracksWarsNewFactory\obj\Debug\netcoreapp2.0\BarracksWarsNewFactory.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\BarracksWarsNewFactory\obj\Debug\netcoreapp2.0\BarracksWarsNewFactory.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\BarracksWarsNewFactory\obj\Debug\netcoreapp2.0\BarracksWarsNewFactory.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\BarracksWarsNewFactory\bin\Debug\netcoreapp2.0\BarracksWarsNewFactory.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\BarracksWarsNewFactory\bin\Debug\netcoreapp2.0\BarracksWarsNewFactory.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\BarracksWarsNewFactory\bin\Debug\netcoreapp2.0\BarracksWarsNewFactory.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\BarracksWarsNewFactory\bin\Debug\netcoreapp2.0\BarracksWarsNewFactory.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\BarracksWarsNewFactory\bin\Debug\netcoreapp2.0\BarracksWarsNewFactory.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\BarracksWarsNewFactory\obj\Debug\netcoreapp2.0\BarracksWarsNewFactory.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\BarracksWarsNewFactory\obj\Debug\netcoreapp2.0\BarracksWarsNewFactory.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwapIntegers\bin\Debug\netcoreapp2.0\GenericSwapIntegers.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwapIntegers\bin\Debug\netcoreapp2.0\GenericSwapIntegers.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwapIntegers\bin\Debug\netcoreapp2.0\GenericSwapIntegers.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwapIntegers\bin\Debug\netcoreapp2.0\GenericSwapIntegers.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwapIntegers\bin\Debug\netcoreapp2.0\GenericSwapIntegers.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwapIntegers\obj\Debug\netcoreapp2.0\GenericSwapIntegers.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwapIntegers\obj\Debug\netcoreapp2.0\GenericSwapIntegers.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwapIntegers\obj\Debug\netcoreapp2.0\GenericSwapIntegers.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwapIntegers\obj\Debug\netcoreapp2.0\GenericSwapIntegers.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericSwapIntegers\obj\Debug\netcoreapp2.0\GenericSwapIntegers.pdb

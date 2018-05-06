@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericScale\bin\Debug\netcoreapp2.0\GenericScale.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericScale\bin\Debug\netcoreapp2.0\GenericScale.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericScale\bin\Debug\netcoreapp2.0\GenericScale.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericScale\bin\Debug\netcoreapp2.0\GenericScale.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericScale\bin\Debug\netcoreapp2.0\GenericScale.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericScale\obj\Debug\netcoreapp2.0\GenericScale.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericScale\obj\Debug\netcoreapp2.0\GenericScale.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericScale\obj\Debug\netcoreapp2.0\GenericScale.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericScale\obj\Debug\netcoreapp2.0\GenericScale.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericScale\obj\Debug\netcoreapp2.0\GenericScale.pdb

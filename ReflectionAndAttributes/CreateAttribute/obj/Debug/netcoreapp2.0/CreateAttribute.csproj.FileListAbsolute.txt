@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\CreateAttribute\bin\Debug\netcoreapp2.0\CreateAttribute.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\CreateAttribute\bin\Debug\netcoreapp2.0\CreateAttribute.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\CreateAttribute\bin\Debug\netcoreapp2.0\CreateAttribute.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\CreateAttribute\bin\Debug\netcoreapp2.0\CreateAttribute.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\CreateAttribute\bin\Debug\netcoreapp2.0\CreateAttribute.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\CreateAttribute\obj\Debug\netcoreapp2.0\CreateAttribute.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\CreateAttribute\obj\Debug\netcoreapp2.0\CreateAttribute.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\CreateAttribute\obj\Debug\netcoreapp2.0\CreateAttribute.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\CreateAttribute\obj\Debug\netcoreapp2.0\CreateAttribute.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\CreateAttribute\obj\Debug\netcoreapp2.0\CreateAttribute.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\ReflectionAndAttributes\CreateAttribute\obj\Debug\netcoreapp2.0\CreateAttribute.pdb

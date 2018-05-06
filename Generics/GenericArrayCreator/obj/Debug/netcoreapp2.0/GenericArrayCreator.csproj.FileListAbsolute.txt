@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp2.0\GenericArrayCreator.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp2.0\GenericArrayCreator.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp2.0\GenericArrayCreator.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp2.0\GenericArrayCreator.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp2.0\GenericArrayCreator.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.0\GenericArrayCreator.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.0\GenericArrayCreator.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.0\GenericArrayCreator.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.0\GenericArrayCreator.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.0\GenericArrayCreator.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.0\GenericArrayCreator.pdb
