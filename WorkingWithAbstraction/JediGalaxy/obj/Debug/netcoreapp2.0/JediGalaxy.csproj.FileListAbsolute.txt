@@ -1,0 +1,10 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.pdb

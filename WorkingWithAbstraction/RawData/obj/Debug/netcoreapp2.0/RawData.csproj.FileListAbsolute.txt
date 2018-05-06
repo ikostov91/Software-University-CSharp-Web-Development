@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\RawData\bin\Debug\netcoreapp2.0\RawData.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\RawData\bin\Debug\netcoreapp2.0\RawData.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\RawData\bin\Debug\netcoreapp2.0\RawData.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\RawData\obj\Debug\netcoreapp2.0\RawData.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\RawData\obj\Debug\netcoreapp2.0\RawData.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\RawData\obj\Debug\netcoreapp2.0\RawData.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\WorkingWithAbstraction\RawData\obj\Debug\netcoreapp2.0\RawData.pdb

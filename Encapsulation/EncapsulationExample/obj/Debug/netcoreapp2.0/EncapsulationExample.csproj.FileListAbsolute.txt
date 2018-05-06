@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\EncapsulationExample\bin\Debug\netcoreapp2.0\EncapsulationExample.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\EncapsulationExample\bin\Debug\netcoreapp2.0\EncapsulationExample.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\EncapsulationExample\bin\Debug\netcoreapp2.0\EncapsulationExample.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\EncapsulationExample\bin\Debug\netcoreapp2.0\EncapsulationExample.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\EncapsulationExample\bin\Debug\netcoreapp2.0\EncapsulationExample.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\EncapsulationExample\obj\Debug\netcoreapp2.0\EncapsulationExample.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\EncapsulationExample\obj\Debug\netcoreapp2.0\EncapsulationExample.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\EncapsulationExample\obj\Debug\netcoreapp2.0\EncapsulationExample.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\EncapsulationExample\obj\Debug\netcoreapp2.0\EncapsulationExample.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\EncapsulationExample\obj\Debug\netcoreapp2.0\EncapsulationExample.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\EncapsulationExample\obj\Debug\netcoreapp2.0\EncapsulationExample.pdb

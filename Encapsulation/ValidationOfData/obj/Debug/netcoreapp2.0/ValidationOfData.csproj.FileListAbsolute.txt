@@ -1,0 +1,11 @@
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ValidationOfData\bin\Debug\netcoreapp2.0\ValidationOfData.deps.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ValidationOfData\bin\Debug\netcoreapp2.0\ValidationOfData.runtimeconfig.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ValidationOfData\bin\Debug\netcoreapp2.0\ValidationOfData.runtimeconfig.dev.json
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ValidationOfData\bin\Debug\netcoreapp2.0\ValidationOfData.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ValidationOfData\bin\Debug\netcoreapp2.0\ValidationOfData.pdb
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.0\ValidationOfData.csprojResolveAssemblyReference.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.0\ValidationOfData.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.0\ValidationOfData.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.0\ValidationOfData.AssemblyInfo.cs
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.0\ValidationOfData.dll
+D:\SoftUni-Courses-Code\Software-University-C#-OOP-Basics\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.0\ValidationOfData.pdb
