@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-OOP-Basics\\7.ExamPreparation\\MineDraft\\MineDraft.csproj",
-      "projectName": "MineDraft",
-      "projectPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-OOP-Basics\\7.ExamPreparation\\MineDraft\\MineDraft.csproj",
+      "projectUniqueName": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-OOP-Basics\\8.Exam18March\\DungeonsAndCodeWizardsRefactoring\\DungeonsAndCodeWizardsRefactoring.csproj",
+      "projectName": "DungeonsAndCodeWizardsRefactoring",
+      "projectPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-OOP-Basics\\8.Exam18March\\DungeonsAndCodeWizardsRefactoring\\DungeonsAndCodeWizardsRefactoring.csproj",
       "packagesPath": "C:\\Users\\ikost\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-OOP-Basics\\7.ExamPreparation\\MineDraft\\obj\\",
+      "outputPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-OOP-Basics\\8.Exam18March\\DungeonsAndCodeWizardsRefactoring\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

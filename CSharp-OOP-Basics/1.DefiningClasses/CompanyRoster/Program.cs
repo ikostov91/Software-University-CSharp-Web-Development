@@ -6,61 +6,55 @@ public class Program
 {
     static void Main(string[] args)
     {
-        int numberOfEmployees = int.Parse(Console.ReadLine());
         List<Employee> employees = new List<Employee>();
-        Dictionary<string, decimal> employeesInDepartment = new Dictionary<string, decimal>();
+        
+        int numberOfPeople = int.Parse(Console.ReadLine());
 
-        for (int i = 0; i < numberOfEmployees; i++)
+        for (int i = 0; i < numberOfPeople; i++)
         {
-            string[] input = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.None).ToArray();
+            string[] input = Console.ReadLine().Split();
 
-            Employee newEmployee = null;
+            Employee employee = null;
 
             if (input.Length == 6)
             {
-                newEmployee = new Employee(input[0], decimal.Parse(input[1]), input[2], input[3], input[4], int.Parse(input[5]));
+                employee = new Employee(input[0], decimal.Parse(input[1]), input[2], input[3], input[4], int.Parse(input[5]));
             }
             else
             {
-                if (input.Length < 6)
+                switch (input.Length)
                 {
-                    
-
-                    switch (input.Length)
-                    {
-                        case 4:
-                            newEmployee = new Employee(input[0], decimal.Parse(input[1]), input[2], input[3]);
-                            break;
-                        case 5:
-                            int number;
-                            bool tryParseAge = int.TryParse(input[4], out number);
-                            if (tryParseAge)
-                            {
-                                newEmployee = new Employee(input[0], decimal.Parse(input[1]), input[2], input[3], int.Parse(input[4]));
-                            }
-                            else
-                            {
-                                newEmployee = new Employee(input[0], decimal.Parse(input[1]), input[2], input[3], input[4]);
-                            }
-                            break;
-                    }
+                    case 4:
+                        employee = new Employee(input[0], decimal.Parse(input[1]), input[2], input[3]);
+                        break;
+                    case 5:
+                        int integer;
+                        bool isAge = int.TryParse(input[4], out integer);
+                        if (isAge)
+                        {
+                            employee = new Employee(input[0], decimal.Parse(input[1]), input[2], input[3], int.Parse(input[4]));
+                        }
+                        else
+                        {
+                            employee = new Employee(input[0], decimal.Parse(input[1]), input[2], input[3], input[4]);
+                        }
+                        break;
                 }
             }
 
-            employees.Add(newEmployee);
+            employees.Add(employee);
         }
 
-        KeyValuePair<string, decimal> departmentWithHighestTotalSalary = CalculateSalaries(employees);
+        KeyValuePair<string, decimal> departmentWithHighestAverageSalary = GetDepartmentWithHighestAverageSalary(employees);
 
-        Console.WriteLine($"Highest Average Salary: {departmentWithHighestTotalSalary.Key}");
-
-        foreach (var employee in employees.Where(x => x.Department == departmentWithHighestTotalSalary.Key).OrderByDescending(y => y.Salary))
+        Console.WriteLine($"Highest Average Salary: {departmentWithHighestAverageSalary.Key}");
+        foreach (var employee in employees.Where(x => x.Department == departmentWithHighestAverageSalary.Key).OrderByDescending(x => x.Salary))
         {
             Console.WriteLine($"{employee.Name} {employee.Salary:F2} {employee.Email} {employee.Age}");
         }
     }
 
-    private static KeyValuePair<string, decimal> CalculateSalaries(List<Employee> employees)
+    private static KeyValuePair<string, decimal> GetDepartmentWithHighestAverageSalary(List<Employee> employees)
     {
         Dictionary<string, decimal> departments = new Dictionary<string, decimal>();
 
@@ -68,7 +62,7 @@ public class Program
         {
             if (!departments.ContainsKey(employee.Department))
             {
-                departments.Add(employee.Department, 0);
+                departments.Add(employee.Department, employee.Salary);
             }
             else
             {
@@ -76,8 +70,6 @@ public class Program
             }
         }
 
-        departments = departments.OrderByDescending(x => x.Value).ToDictionary(k => k.Key, v => v.Value);
-
-        return departments.First();
+        return departments.OrderByDescending(x => x.Value).First();
     }
 }

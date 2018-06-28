@@ -23,6 +23,7 @@ namespace DungeonsAndCodeWizards
         {
             string factionType = args[0];
 
+            // var content = (ContentEnum)Enum.Parse(typeof(ContentEnum), fileContentMessage);
             Faction faction;
             switch (factionType)
             {

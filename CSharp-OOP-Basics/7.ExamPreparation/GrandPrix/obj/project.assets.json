@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\SoftUni-Courses-Code\\Software-University-C#-OOP-Basics\\ExamPreparation\\GrandPrix\\GrandPrix.csproj",
+      "projectUniqueName": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-OOP-Basics\\7.ExamPreparation\\GrandPrix\\GrandPrix.csproj",
       "projectName": "GrandPrix",
-      "projectPath": "D:\\SoftUni-Courses-Code\\Software-University-C#-OOP-Basics\\ExamPreparation\\GrandPrix\\GrandPrix.csproj",
+      "projectPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-OOP-Basics\\7.ExamPreparation\\GrandPrix\\GrandPrix.csproj",
       "packagesPath": "C:\\Users\\ikost\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni-Courses-Code\\Software-University-C#-OOP-Basics\\ExamPreparation\\GrandPrix\\obj\\",
+      "outputPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-OOP-Basics\\7.ExamPreparation\\GrandPrix\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
