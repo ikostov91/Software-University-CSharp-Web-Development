@@ -1,0 +1,3 @@
+D:\SoftUni-Courses-Code\Software-University-Databases-Advanced-EF\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+D:\SoftUni-Courses-Code\Software-University-Databases-Advanced-EF\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+D:\SoftUni-Courses-Code\Software-University-Databases-Advanced-EF\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
