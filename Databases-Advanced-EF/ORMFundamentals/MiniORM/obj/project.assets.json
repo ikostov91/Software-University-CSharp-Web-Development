@@ -1221,11 +1221,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\SoftUni-Courses-Code\\Software-University-Databases-Advanced-EF\\ORMFundamentals\\MiniORM\\MiniORM.csproj",
+      "projectUniqueName": "D:\\Repositories\\Software-University-CSharp-Web-Development\\Databases-Advanced-EF\\ORMFundamentals\\MiniORM\\MiniORM.csproj",
       "projectName": "MiniORM",
-      "projectPath": "D:\\SoftUni-Courses-Code\\Software-University-Databases-Advanced-EF\\ORMFundamentals\\MiniORM\\MiniORM.csproj",
+      "projectPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\Databases-Advanced-EF\\ORMFundamentals\\MiniORM\\MiniORM.csproj",
       "packagesPath": "C:\\Users\\ikost\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni-Courses-Code\\Software-University-Databases-Advanced-EF\\ORMFundamentals\\MiniORM\\obj\\",
+      "outputPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\Databases-Advanced-EF\\ORMFundamentals\\MiniORM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
