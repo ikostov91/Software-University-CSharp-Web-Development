@@ -1,0 +1,8 @@
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Data.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Data.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Data.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Data.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Data.runtimeconfig.dev.json

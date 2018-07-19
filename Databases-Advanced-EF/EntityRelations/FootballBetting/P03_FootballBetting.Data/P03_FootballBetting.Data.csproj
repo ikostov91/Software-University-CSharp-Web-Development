@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RuntimeFrameworkVersion>2.0.5</RuntimeFrameworkVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20180715195201_TownTeamPositionCOlor.cs" />
+    <Compile Remove="Migrations\20180715195341_TownTeamPositionCOlor.cs" />
+    <Compile Remove="Migrations\20180715200134_TownTeamPositionCOlor.cs" />
+    <Compile Remove="Migrations\20180715200804_TownTeamPositionCOlor.cs" />
+    <Compile Remove="Migrations\20180715201120_TownTeamPositionCOlor.cs" />
+    <Compile Remove="Migrations\20180716183442_PlayerUpdate.cs" />
+    <Compile Remove="Migrations\20180716193022_GameBetPlayerStatistics.cs" />
+    <Compile Remove="Migrations\20180716193216_GameBetPlayerStatistics.cs" />
+    <Compile Remove="Migrations\20180716193316_GameBetPlayerStatistics.cs" />
+    <Compile Remove="Migrations\20180716193514_GameBetPlayerStatistics.cs" />
+    <Compile Remove="Migrations\20180716194338_GameBetPlayerStatistics.cs" />
+    <Compile Remove="Migrations\20180716194823_GameBetPlayerStatistics.cs" />
+    <Compile Remove="Migrations\20180716200002_GameBetPlayerStatistics.cs" />
+    <Compile Remove="Migrations\20180716200147_GameBetPlayerStatistics.cs" />
+    <Compile Remove="Migrations\20180716200501_GameBetPlayerStatistics.cs" />
+    <Compile Remove="Migrations\20180716201042_GameBetPlayerStatistics.cs" />
+    <Compile Remove="Migrations\20180716201336_GameBetPlayerStatistics.cs" />
+    <Compile Remove="Migrations\20180716201348_GameBetPlayerStatistics.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\P03_FootballBetting.Data.Models\P03_FootballBetting.Data.Models.csproj" />
+  </ItemGroup>
+
+</Project>
