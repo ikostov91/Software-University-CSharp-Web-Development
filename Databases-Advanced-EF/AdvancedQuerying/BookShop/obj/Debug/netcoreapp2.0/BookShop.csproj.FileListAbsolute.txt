@@ -1,0 +1,17 @@
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\bin\Debug\netcoreapp2.0\BookShop.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\bin\Debug\netcoreapp2.0\BookShop.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\bin\Debug\netcoreapp2.0\BookShop.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\obj\Debug\netcoreapp2.0\BookShop.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\obj\Debug\netcoreapp2.0\BookShop.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\obj\Debug\netcoreapp2.0\BookShop.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedQuerying\BookShop\obj\Debug\netcoreapp2.0\BookShop.pdb

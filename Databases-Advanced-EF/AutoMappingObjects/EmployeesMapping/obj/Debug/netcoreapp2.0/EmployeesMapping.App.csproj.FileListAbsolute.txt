@@ -1,0 +1,15 @@
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping\bin\Debug\netcoreapp2.0\EmployeesMapping.App.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping\bin\Debug\netcoreapp2.0\EmployeesMapping.App.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping\bin\Debug\netcoreapp2.0\EmployeesMapping.App.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping\bin\Debug\netcoreapp2.0\EmployeesMapping.App.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping\bin\Debug\netcoreapp2.0\EmployeesMapping.App.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping\obj\Debug\netcoreapp2.0\EmployeesMapping.App.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping\obj\Debug\netcoreapp2.0\EmployeesMapping.App.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping\obj\Debug\netcoreapp2.0\EmployeesMapping.App.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping\obj\Debug\netcoreapp2.0\EmployeesMapping.App.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping\obj\Debug\netcoreapp2.0\EmployeesMapping.App.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping\obj\Debug\netcoreapp2.0\EmployeesMapping.App.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping\bin\Debug\netcoreapp2.0\EmployeesMapping.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping\bin\Debug\netcoreapp2.0\EmployeesMapping.Models.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping\bin\Debug\netcoreapp2.0\EmployeesMapping.Data.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping\bin\Debug\netcoreapp2.0\EmployeesMapping.Models.pdb
