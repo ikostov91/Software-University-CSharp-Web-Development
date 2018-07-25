@@ -1,5 +1,7 @@
-﻿using EmployeesMapping.App.Core;
+﻿using AutoMapper;
+using EmployeesMapping.App.Core;
 using EmployeesMapping.App.Core.Contracts;
+using EmployeesMapping.App.Core.Controllers;
 
 namespace EmployeesMapping.App
 {
@@ -33,7 +35,7 @@ namespace EmployeesMapping.App
             //}
 
             var service = ConfigureService();
-            IEngine engine = new Engine();
+            IEngine engine = new Engine(service);
             engine.Run();
         }
 
@@ -41,9 +43,12 @@ namespace EmployeesMapping.App
         {
             var serviceCollection = new ServiceCollection();
 
+            serviceCollection.AddAutoMapper(conf => conf.AddProfile<EmployeeMappingProfile>());
             serviceCollection.AddDbContext<EmployeesMappingContext>(opts => opts.UseSqlServer(Configuration.ConnectionString));
-
             serviceCollection.AddTransient<IDbInitializerService, DbInitializerService>();
+            serviceCollection.AddTransient<ICommandInterpreter, CommandInterpreter>();
+            serviceCollection.AddTransient<IEmployeeController, EmployeeController>();
+            serviceCollection.AddTransient<IManagerController, ManagerController>();
 
             var serviceProvider = serviceCollection.BuildServiceProvider();
 

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
@@ -18,6 +19,7 @@ namespace EmployeesMapping.Models
             this.FirstName = firstName;
             this.LastName = lastName;
             this.Salary = salary;
+            this.ManagerEmployees = new HashSet<Employee>();
         }
 
         public Employee(string firstName, string lastName, decimal salary, DateTime birthday)
@@ -82,5 +84,10 @@ namespace EmployeesMapping.Models
             get { return this.address; }
             set { this.address = value; }
         }
+
+        public int? ManagerId { get; set; }
+        public Employee Manager { get; set; }
+
+        public ICollection<Employee> ManagerEmployees { get; set; }
     }
 }

@@ -1,12 +1,12 @@
 ﻿using System.Linq;
 using AutoMapper.QueryableExtensions;
+using EmployeesMapping.App.Core.Dtos;
 using EmployeesMapping.Models;
 
 namespace EmployeesMapping.App.Core.Controllers
 {
     using System;
     using EmployeesMapping.App.Core.Contracts;
-    using EmployeesMapping.App.Core.Dtos;
     using AutoMapper;
     using AutoMapper.QueryableExtensions;
     using EmployeesMapping.Data;
@@ -62,9 +62,9 @@ namespace EmployeesMapping.App.Core.Controllers
         public EmployeeDto GetEmployeeInfo(int employeeId)
         {
             var employee = context.Employees
-                                  .Where(x => x.Id == employeeId)
-                                  .ProjectTo<EmployeeDto>()
-                                  .SingleOrDefault();
+                .Where(x => x.Id == employeeId)
+                .ProjectTo<EmployeeDto>()
+                .SingleOrDefault();
 
             if (employee == null)
             {
@@ -77,9 +77,9 @@ namespace EmployeesMapping.App.Core.Controllers
         public EmployeePersonalInfoDto GetEmployeePersonalInfo(int employeeId)
         {
             var employee = context.Employees
-                                  .Where(x => x.Id == employeeId)
-                                  .ProjectTo<EmployeePersonalInfoDto>()
-                                  .SingleOrDefault();
+                .Where(x => x.Id == employeeId)
+                .ProjectTo<EmployeePersonalInfoDto>()
+                .SingleOrDefault();
 
             if (employee == null)
             {

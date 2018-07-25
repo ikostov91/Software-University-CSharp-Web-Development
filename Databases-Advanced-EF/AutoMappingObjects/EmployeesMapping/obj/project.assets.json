@@ -14,6 +14,19 @@
           "lib/netcoreapp2.0/AutoMapper.dll": {}
         }
       },
+      "AutoMapper.Extensions.Microsoft.DependencyInjection/4.0.1": {
+        "type": "package",
+        "dependencies": {
+          "AutoMapper": "7.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
@@ -996,6 +1009,20 @@
         "runtime": {
           "bin/placeholder/EmployeesMapping.Models.dll": {}
         }
+      },
+      "EmployeesMapping.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "EmployeesMapping.Data": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "2.1.1"
+        },
+        "compile": {
+          "bin/placeholder/EmployeesMapping.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeesMapping.Services.dll": {}
+        }
       }
     }
   },
@@ -1019,6 +1046,16 @@
         "lib/netstandard2.0/AutoMapper.dll",
         "lib/netstandard2.0/AutoMapper.pdb",
         "lib/netstandard2.0/AutoMapper.xml"
+      ]
+    },
+    "AutoMapper.Extensions.Microsoft.DependencyInjection/4.0.1": {
+      "sha512": "Fhl+XDdcR2ogcqyHIeTB5fGCB58wTXOdpiqDI4sh/durRx8LJw+QJw2ZGLO3DIXTPvvnHM/t0DZy0vf0cdIGEg==",
+      "type": "package",
+      "path": "automapper.extensions.microsoft.dependencyinjection/4.0.1",
+      "files": [
+        "automapper.extensions.microsoft.dependencyinjection.4.0.1.nupkg.sha512",
+        "automapper.extensions.microsoft.dependencyinjection.nuspec",
+        "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
       ]
     },
     "Microsoft.CSharp/4.5.0": {
@@ -3670,6 +3707,11 @@
       "type": "project",
       "path": "../EmployeesMapping.Models/EmployeesMapping.Models.csproj",
       "msbuildProject": "../EmployeesMapping.Models/EmployeesMapping.Models.csproj"
+    },
+    "EmployeesMapping.Services/1.0.0": {
+      "type": "project",
+      "path": "../EmployeesMapping.Services/EmployeesMapping.Services.csproj",
+      "msbuildProject": "../EmployeesMapping.Services/EmployeesMapping.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3677,8 +3719,10 @@
       "AutoMapper >= 7.0.1",
       "EmployeesMapping.Data >= 1.0.0",
       "EmployeesMapping.Models >= 1.0.0",
+      "EmployeesMapping.Services >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 2.1.1",
       "Microsoft.NETCore.App >= 2.0.0",
+      "automapper.extensions.microsoft.dependencyinjection >= 4.0.1",
       "microsoft.Extensions.dependencyinjection >= 2.1.1"
     ]
   },
@@ -3715,6 +3759,9 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
+            "D:\\Repositories\\Software-University-CSharp-Web-Development\\Databases-Advanced-EF\\AutoMappingObjects\\EmployeesMapping.Services\\EmployeesMapping.Services.csproj": {
+              "projectPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\Databases-Advanced-EF\\AutoMappingObjects\\EmployeesMapping.Services\\EmployeesMapping.Services.csproj"
+            },
             "D:\\Repositories\\Software-University-CSharp-Web-Development\\Databases-Advanced-EF\\AutoMappingObjects\\EmployeesMapping.Data\\EmployeesMapping.Data.csproj": {
               "projectPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\Databases-Advanced-EF\\AutoMappingObjects\\EmployeesMapping.Data\\EmployeesMapping.Data.csproj"
             },
@@ -3745,6 +3792,10 @@
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
+          },
+          "automapper.extensions.microsoft.dependencyinjection": {
+            "target": "Package",
+            "version": "[4.0.1, )"
           },
           "microsoft.Extensions.dependencyinjection": {
             "target": "Package",

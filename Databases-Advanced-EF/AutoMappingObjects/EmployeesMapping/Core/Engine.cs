@@ -22,12 +22,12 @@ namespace EmployeesMapping.App.Core
             var initializedDb = this.serviceProvider.GetService<IDbInitializerService>();
             initializedDb.InitializeDatabase();
 
-            var commandInterpreted = this.serviceProvider.GetService<ICommandInterpreter>();
+            var commandInterpreter = this.serviceProvider.GetService<ICommandInterpreter>();
 
             while (true)
             {
                 string[] input = Console.ReadLine().Split(new char[] {' '}, StringSplitOptions.None).ToArray();
-                string result = commandInterpreted.Read(input);
+                string result = commandInterpreter.Read(input);
                 Console.WriteLine(result);
             }
         }

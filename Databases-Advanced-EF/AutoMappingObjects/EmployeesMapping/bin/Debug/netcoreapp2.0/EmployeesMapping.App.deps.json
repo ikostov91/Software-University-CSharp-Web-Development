@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "85b2a2472f575862d9d97d3aa54f8085b5041e08"
+    "signature": "aedb59eadb728f682d80ba3f5d9f55600f447b1e"
   },
   "compilationOptions": {},
   "targets": {
@@ -11,7 +11,10 @@
           "AutoMapper": "7.0.1",
           "EmployeesMapping.Data": "1.0.0",
           "EmployeesMapping.Models": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "2.1.1"
+          "EmployeesMapping.Services": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "2.1.1",
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "4.0.1",
+          "Microsoft.Extensions.DependencyInjection": "2.1.1"
         },
         "runtime": {
           "EmployeesMapping.App.dll": {}
@@ -23,6 +26,15 @@
         },
         "runtime": {
           "lib/netcoreapp2.0/AutoMapper.dll": {}
+        }
+      },
+      "AutoMapper.Extensions.Microsoft.DependencyInjection/4.0.1": {
+        "dependencies": {
+          "AutoMapper": "7.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
       "Microsoft.CSharp/4.5.0": {},
@@ -515,6 +527,15 @@
         "runtime": {
           "EmployeesMapping.Models.dll": {}
         }
+      },
+      "EmployeesMapping.Services/1.0.0": {
+        "dependencies": {
+          "EmployeesMapping.Data": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "2.1.1"
+        },
+        "runtime": {
+          "EmployeesMapping.Services.dll": {}
+        }
       }
     }
   },
@@ -530,6 +551,13 @@
       "sha512": "sha512-6xHbhsW09sWjjYuE1sqhYn25PQzB6UEUVPME5uhlaIz2NR2+L3+FGbVxvknJKug1BLp6VTLxDb5RcGXKMm0ieQ==",
       "path": "automapper/7.0.1",
       "hashPath": "automapper.7.0.1.nupkg.sha512"
+    },
+    "AutoMapper.Extensions.Microsoft.DependencyInjection/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Fhl+XDdcR2ogcqyHIeTB5fGCB58wTXOdpiqDI4sh/durRx8LJw+QJw2ZGLO3DIXTPvvnHM/t0DZy0vf0cdIGEg==",
+      "path": "automapper.extensions.microsoft.dependencyinjection/4.0.1",
+      "hashPath": "automapper.extensions.microsoft.dependencyinjection.4.0.1.nupkg.sha512"
     },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",
@@ -943,6 +971,11 @@
       "sha512": ""
     },
     "EmployeesMapping.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeesMapping.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

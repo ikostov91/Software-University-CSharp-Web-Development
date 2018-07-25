@@ -27,7 +27,12 @@ namespace EmployeesMapping.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Employee>(entity =>
+            {
+                entity.HasOne(x => x.Manager)
+                    .WithMany(x => x.ManagerEmployees)
+                    .HasForeignKey(x => x.ManagerId);
+            });
         }
     }
 }

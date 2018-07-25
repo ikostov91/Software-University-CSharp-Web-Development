@@ -25,6 +25,11 @@
 
             var type = Assembly.GetCallingAssembly().GetTypes().FirstOrDefault(x => x.Name == commandName);
 
+            if (type == null)
+            {
+                throw new ArgumentException("Invalid Command!");
+            }
+
             var constructor = type.GetConstructors().First();
 
             var constructorParameters = constructor.GetParameters()
@@ -36,7 +41,7 @@
 
             var command = (Contracts.ICommand)constructor.Invoke(service);
 
-            string result = command.Execure(args);
+            string result = command.Execute(args);
 
             return result;
         }

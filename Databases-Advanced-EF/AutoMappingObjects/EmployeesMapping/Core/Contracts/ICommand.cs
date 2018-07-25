@@ -6,6 +6,6 @@ namespace EmployeesMapping.App.Core.Contracts
 {
     public interface ICommand
     {
-        string Execure(string[] args);
+        string Execute(string[] args);
     }
 }

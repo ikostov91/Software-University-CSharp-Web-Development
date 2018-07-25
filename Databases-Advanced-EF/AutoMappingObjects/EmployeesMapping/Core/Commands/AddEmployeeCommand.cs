@@ -15,7 +15,7 @@ namespace EmployeesMapping.App.Core.Commands
             this.employeeController = employeeController;
         }
 
-        public string Execure(string[] args)
+        public string Execute(string[] args)
         {
             string firstName = args[0];
             string lastName = args[1];
