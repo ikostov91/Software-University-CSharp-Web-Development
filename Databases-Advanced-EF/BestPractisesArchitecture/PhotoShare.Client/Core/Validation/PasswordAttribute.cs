@@ -31,10 +31,10 @@
                 return false;
             }
 
-            if (!password.Any(c => char.IsUpper(c)))
-            {
-                return false;
-            }
+            //if (!password.Any(c => char.IsUpper(c)))
+            //{
+            //    return false;
+            //}
 
             if (!password.Any(c => char.IsDigit(c)))
             {

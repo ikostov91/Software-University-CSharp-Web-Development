@@ -1,0 +1,13 @@
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Data.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Models.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Models.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Data.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Data.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Data.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.pdb

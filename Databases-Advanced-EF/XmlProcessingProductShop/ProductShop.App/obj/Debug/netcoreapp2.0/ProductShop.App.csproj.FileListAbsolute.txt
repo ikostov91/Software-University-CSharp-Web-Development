@@ -1,0 +1,15 @@
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XmlProcessingProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XmlProcessingProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XmlProcessingProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XmlProcessingProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XmlProcessingProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XmlProcessingProductShop\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XmlProcessingProductShop\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XmlProcessingProductShop\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XmlProcessingProductShop\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XmlProcessingProductShop\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XmlProcessingProductShop\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XmlProcessingProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XmlProcessingProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Models.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XmlProcessingProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Data.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XmlProcessingProductShop\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Models.pdb

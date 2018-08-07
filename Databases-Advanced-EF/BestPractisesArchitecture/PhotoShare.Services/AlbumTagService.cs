@@ -10,7 +10,7 @@ namespace PhotoShare.Services
 
         public AlbumTagService(PhotoShareContext context)
         {
-            this.context = context
+            this.context = context;
         }
 
         public AlbumTag AddTagTo(int albumId, int tagId)
