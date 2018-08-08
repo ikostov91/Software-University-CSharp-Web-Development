@@ -11,6 +11,7 @@ namespace PetClinic.Models
         [RegularExpression(@"^[a-zA-Z]{7}[0-9]{3}$")]
         public string SerialNumber { get; set; }
 
+        public int AnimalId { get; set; }
         public Animal Animal { get; set; }
 
         [RegularExpression(@"^(\+359|0)[0-9]{9}$")]
