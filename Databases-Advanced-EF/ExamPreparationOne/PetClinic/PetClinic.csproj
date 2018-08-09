@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Models\pwtbny0j.5tr~" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="App\Results\" />
   </ItemGroup>
 

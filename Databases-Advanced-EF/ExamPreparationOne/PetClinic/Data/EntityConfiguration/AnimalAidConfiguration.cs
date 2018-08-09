@@ -11,17 +11,15 @@ namespace PetClinic.Data.EntityConfiguration
     {
         public void Configure(EntityTypeBuilder<AnimalAid> builder)
         {
-            builder.HasKey(x => x.Id);
-
             builder.HasIndex(x => x.Name)
                 .IsUnique();
 
-            builder.Property(x => x.Name)
-                .HasMaxLength(30)
-                .IsRequired();
+            //builder.Property(x => x.Name)
+            //    .HasMaxLength(30)
+            //    .IsRequired();
 
-            builder.Property(x => x.Price)
-                .IsRequired();
+            //builder.Property(x => x.Price)
+            //    .IsRequired();
         }
     }
 }

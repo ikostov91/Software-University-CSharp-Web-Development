@@ -11,20 +11,14 @@ namespace PetClinic.Data.EntityConfiguration
     {
         public void Configure(EntityTypeBuilder<Procedure> builder)
         {
-            builder.HasKey(x => x.Id);
-
-            builder.Property(x => x.Animal)
-                .IsRequired();
-
-            builder.Property(x => x.Vet)
-                .IsRequired();
+            //builder.HasKey(x => x.Id);
 
             builder.HasOne(x => x.Vet)
                 .WithMany(x => x.Procedures)
                 .HasForeignKey(x => x.VetId);
 
-            builder.Property(x => x.DateTime)
-                .IsRequired();
+            //builder.Property(x => x.DateTime)
+            //    .IsRequired();
         }
     }
 }

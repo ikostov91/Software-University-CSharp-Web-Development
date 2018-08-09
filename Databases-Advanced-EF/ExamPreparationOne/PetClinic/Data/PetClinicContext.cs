@@ -1,4 +1,5 @@
-﻿using PetClinic.Models;
+﻿using PetClinic.Data.EntityConfiguration;
+using PetClinic.Models;
 
 namespace PetClinic.Data
 {
@@ -28,7 +29,12 @@ namespace PetClinic.Data
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
-
+            builder.ApplyConfiguration(new AnimalAidConfiguration());
+            builder.ApplyConfiguration(new AnimalConfiguration());
+            builder.ApplyConfiguration(new PassportConfiguration());
+            builder.ApplyConfiguration(new ProcedureConfiguration());
+            builder.ApplyConfiguration(new ProcedureAnimalAidConfiguration());
+            builder.ApplyConfiguration(new VetConfiguration());
         }
     }
 }

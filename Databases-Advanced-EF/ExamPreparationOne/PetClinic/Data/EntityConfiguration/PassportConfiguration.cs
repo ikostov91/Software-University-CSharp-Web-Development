@@ -11,24 +11,17 @@ namespace PetClinic.Data.EntityConfiguration
     {
         public void Configure(EntityTypeBuilder<Passport> builder)
         {
-            builder.HasKey(x => x.SerialNumber);
+            //builder.HasKey(x => x.SerialNumber);
 
-            builder.Property(x => x.Animal)
-                .IsRequired();
+            //builder.Property(x => x.OwnerPhoneNumber)
+            //    .IsRequired();
 
-            builder.Property(x => x.OwnerPhoneNumber)
-                .IsRequired();
+            //builder.Property(x => x.OwnerName)
+            //    .HasMaxLength(30)
+            //    .IsRequired();
 
-            builder.Property(x => x.OwnerName)
-                .HasMaxLength(30)
-                .IsRequired();
-
-            builder.Property(x => x.RegistrationDate)
-                .IsRequired();
-
-            builder.HasOne(x => x.Animal)
-                .WithOne(x => x.Passport)
-                .HasForeignKey<Animal>(x => x.PassportSerialNumber);
+            //builder.Property(x => x.RegistrationDate)
+            //    .IsRequired();
         }
     }
 }

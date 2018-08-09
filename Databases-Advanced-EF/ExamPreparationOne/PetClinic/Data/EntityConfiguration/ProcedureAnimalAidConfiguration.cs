@@ -8,13 +8,7 @@ namespace PetClinic.Data.EntityConfiguration
     {
         public void Configure(EntityTypeBuilder<ProcedureAnimalAid> builder)
         {
-            builder.HasKey(x => new {x.AnimalAid, x.AnimalAidId});
-
-            builder.Property(x => x.AnimalAid)
-                .IsRequired();
-
-            builder.Property(x => x.Procedure)
-                .IsRequired();
+            builder.HasKey(x => new {x.ProcedureId, x.AnimalAidId});
 
             builder.HasOne(x => x.AnimalAid)
                 .WithMany(x => x.AnimalAidProcedures)

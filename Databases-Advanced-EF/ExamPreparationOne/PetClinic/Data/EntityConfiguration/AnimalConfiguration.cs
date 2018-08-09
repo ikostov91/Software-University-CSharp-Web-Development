@@ -11,18 +11,18 @@ namespace PetClinic.Data.EntityConfiguration
     {
         public void Configure(EntityTypeBuilder<Animal> builder)
         {
-            builder.HasKey(x => x.Id);
+            //builder.HasKey(x => x.Id);
 
-            builder.Property(x => x.Name)
-                .HasMaxLength(20)
-                .IsRequired();
+            //builder.Property(x => x.Name)
+            //    .HasMaxLength(20)
+            //    .IsRequired();
 
-            builder.Property(x => x.Type)
-                .HasMaxLength(20)
-                .IsRequired();
+            //builder.Property(x => x.Type)
+            //    .HasMaxLength(20)
+            //    .IsRequired();
 
-            builder.Property(x => x.Age)
-                .IsRequired();
+            //builder.Property(x => x.Age)
+            //    .IsRequired();
 
             builder.HasMany(x => x.Procedures)
                 .WithOne(x => x.Animal)

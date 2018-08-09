@@ -7,17 +7,22 @@ namespace PetClinic.Models
 {
     public class Animal
     {
+        [Key]
         public int Id { get; set; }
 
-        [MinLength(3)]
+        [Required]
+        [StringLength(20, MinimumLength = 3)]
         public string Name { get; set; }
 
-        [MinLength(3)]
+        [Required]
+        [StringLength(20, MinimumLength = 3)]
         public string Type { get; set; }
 
+        [Required]
         [Range(typeof(int), "1", "666")]
         public int Age { get; set; }
 
+        [ForeignKey("Passport")]
         public string PassportSerialNumber { get; set; }
         public Passport Passport { get; set; }
 
