@@ -1,9 +1,0 @@
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.deps.json
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.csprojResolveAssemblyReference.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.csproj.CoreCompileInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.AssemblyInfoInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.AssemblyInfo.cs
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb

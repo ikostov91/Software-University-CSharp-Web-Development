@@ -1,9 +1,0 @@
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.deps.json
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csprojResolveAssemblyReference.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csproj.CoreCompileInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfoInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfo.cs
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.dll
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.pdb

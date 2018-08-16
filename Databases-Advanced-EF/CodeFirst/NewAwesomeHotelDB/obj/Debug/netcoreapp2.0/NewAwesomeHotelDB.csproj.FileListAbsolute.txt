@@ -1,8 +1,0 @@
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\NewAwesomeHotelDB\obj\Debug\netcoreapp2.0\NewAwesomeHotelDB.csproj.CoreCompileInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\NewAwesomeHotelDB\obj\Debug\netcoreapp2.0\NewAwesomeHotelDB.AssemblyInfoInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\NewAwesomeHotelDB\obj\Debug\netcoreapp2.0\NewAwesomeHotelDB.AssemblyInfo.cs
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\NewAwesomeHotelDB\bin\Debug\netcoreapp2.0\NewAwesomeHotelDB.deps.json
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\NewAwesomeHotelDB\bin\Debug\netcoreapp2.0\NewAwesomeHotelDB.runtimeconfig.json
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\NewAwesomeHotelDB\bin\Debug\netcoreapp2.0\NewAwesomeHotelDB.runtimeconfig.dev.json
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\NewAwesomeHotelDB\bin\Debug\netcoreapp2.0\NewAwesomeHotelDB.dll
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\NewAwesomeHotelDB\obj\Debug\netcoreapp2.0\NewAwesomeHotelDB.csprojResolveAssemblyReference.cache

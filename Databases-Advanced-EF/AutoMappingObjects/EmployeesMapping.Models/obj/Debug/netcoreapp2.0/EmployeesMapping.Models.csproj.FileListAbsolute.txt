@@ -1,9 +1,0 @@
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping.Models\bin\Debug\netcoreapp2.0\EmployeesMapping.Models.deps.json
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping.Models\bin\Debug\netcoreapp2.0\EmployeesMapping.Models.dll
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping.Models\bin\Debug\netcoreapp2.0\EmployeesMapping.Models.pdb
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping.Models\obj\Debug\netcoreapp2.0\EmployeesMapping.Models.csprojResolveAssemblyReference.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping.Models\obj\Debug\netcoreapp2.0\EmployeesMapping.Models.csproj.CoreCompileInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping.Models\obj\Debug\netcoreapp2.0\EmployeesMapping.Models.AssemblyInfoInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping.Models\obj\Debug\netcoreapp2.0\EmployeesMapping.Models.AssemblyInfo.cs
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping.Models\obj\Debug\netcoreapp2.0\EmployeesMapping.Models.dll
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AutoMappingObjects\EmployeesMapping.Models\obj\Debug\netcoreapp2.0\EmployeesMapping.Models.pdb

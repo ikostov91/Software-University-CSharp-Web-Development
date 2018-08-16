@@ -1,8 +1,0 @@
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\ORMFundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\ORMFundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\ORMFundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb

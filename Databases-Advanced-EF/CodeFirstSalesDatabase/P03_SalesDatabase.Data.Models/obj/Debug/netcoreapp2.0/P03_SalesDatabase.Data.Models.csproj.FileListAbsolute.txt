@@ -1,8 +1,0 @@
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirstSalesDatabase\P03_SalesDatabase.Data.Models\bin\Debug\netcoreapp2.0\P03_SalesDatabase.Data.Models.deps.json
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirstSalesDatabase\P03_SalesDatabase.Data.Models\bin\Debug\netcoreapp2.0\P03_SalesDatabase.Data.Models.dll
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirstSalesDatabase\P03_SalesDatabase.Data.Models\bin\Debug\netcoreapp2.0\P03_SalesDatabase.Data.Models.pdb
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirstSalesDatabase\P03_SalesDatabase.Data.Models\obj\Debug\netcoreapp2.0\P03_SalesDatabase.Data.Models.csproj.CoreCompileInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirstSalesDatabase\P03_SalesDatabase.Data.Models\obj\Debug\netcoreapp2.0\P03_SalesDatabase.Data.Models.AssemblyInfoInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirstSalesDatabase\P03_SalesDatabase.Data.Models\obj\Debug\netcoreapp2.0\P03_SalesDatabase.Data.Models.AssemblyInfo.cs
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirstSalesDatabase\P03_SalesDatabase.Data.Models\obj\Debug\netcoreapp2.0\P03_SalesDatabase.Data.Models.dll
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirstSalesDatabase\P03_SalesDatabase.Data.Models\obj\Debug\netcoreapp2.0\P03_SalesDatabase.Data.Models.pdb

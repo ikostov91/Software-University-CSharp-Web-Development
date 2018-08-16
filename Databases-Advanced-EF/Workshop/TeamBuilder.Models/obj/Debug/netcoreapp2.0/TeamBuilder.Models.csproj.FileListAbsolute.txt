@@ -1,9 +1,0 @@
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Models\bin\Debug\netcoreapp2.0\TeamBuilder.Models.deps.json
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Models\bin\Debug\netcoreapp2.0\TeamBuilder.Models.dll
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Models\bin\Debug\netcoreapp2.0\TeamBuilder.Models.pdb
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Models\obj\Debug\netcoreapp2.0\TeamBuilder.Models.csprojResolveAssemblyReference.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Models\obj\Debug\netcoreapp2.0\TeamBuilder.Models.csproj.CoreCompileInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Models\obj\Debug\netcoreapp2.0\TeamBuilder.Models.AssemblyInfoInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Models\obj\Debug\netcoreapp2.0\TeamBuilder.Models.AssemblyInfo.cs
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Models\obj\Debug\netcoreapp2.0\TeamBuilder.Models.dll
-D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\Workshop\TeamBuilder.Models\obj\Debug\netcoreapp2.0\TeamBuilder.Models.pdb
