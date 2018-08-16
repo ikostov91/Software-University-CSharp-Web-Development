@@ -1,0 +1,11 @@
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\IntroEntityFramework\ExerciseSoftUniDB\bin\Debug\netcoreapp2.0\ExerciseSoftUniDB.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\IntroEntityFramework\ExerciseSoftUniDB\bin\Debug\netcoreapp2.0\ExerciseSoftUniDB.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\IntroEntityFramework\ExerciseSoftUniDB\bin\Debug\netcoreapp2.0\ExerciseSoftUniDB.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\IntroEntityFramework\ExerciseSoftUniDB\bin\Debug\netcoreapp2.0\ExerciseSoftUniDB.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\IntroEntityFramework\ExerciseSoftUniDB\obj\Debug\netcoreapp2.0\ExerciseSoftUniDB.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\IntroEntityFramework\ExerciseSoftUniDB\obj\Debug\netcoreapp2.0\ExerciseSoftUniDB.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\IntroEntityFramework\ExerciseSoftUniDB\obj\Debug\netcoreapp2.0\ExerciseSoftUniDB.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\IntroEntityFramework\ExerciseSoftUniDB\obj\Debug\netcoreapp2.0\ExerciseSoftUniDB.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\IntroEntityFramework\ExerciseSoftUniDB\bin\Debug\netcoreapp2.0\ExerciseSoftUniDB.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\IntroEntityFramework\ExerciseSoftUniDB\obj\Debug\netcoreapp2.0\ExerciseSoftUniDB.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\IntroEntityFramework\ExerciseSoftUniDB\obj\Debug\netcoreapp2.0\ExerciseSoftUniDB.pdb

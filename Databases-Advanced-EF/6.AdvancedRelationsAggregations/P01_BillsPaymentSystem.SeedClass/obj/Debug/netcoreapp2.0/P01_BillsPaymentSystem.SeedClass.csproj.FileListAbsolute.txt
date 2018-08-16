@@ -1,0 +1,13 @@
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\P01_BillsPaymentSystem.SeedClass\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.SeedClass.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\P01_BillsPaymentSystem.SeedClass\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.SeedClass.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\P01_BillsPaymentSystem.SeedClass\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.SeedClass.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\P01_BillsPaymentSystem.SeedClass\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\P01_BillsPaymentSystem.SeedClass\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\P01_BillsPaymentSystem.SeedClass\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\P01_BillsPaymentSystem.SeedClass\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\P01_BillsPaymentSystem.SeedClass\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.SeedClass.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\P01_BillsPaymentSystem.SeedClass\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.SeedClass.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\P01_BillsPaymentSystem.SeedClass\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.SeedClass.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\P01_BillsPaymentSystem.SeedClass\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.SeedClass.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\P01_BillsPaymentSystem.SeedClass\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.SeedClass.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\AdvancedRelationsAggregations\P01_BillsPaymentSystem.SeedClass\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.SeedClass.pdb

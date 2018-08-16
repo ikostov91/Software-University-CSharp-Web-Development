@@ -1,0 +1,11 @@
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XMLAttributesDemo\XmlAttributesDemo\bin\Debug\netcoreapp2.0\XmlAttributesDemo.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XMLAttributesDemo\XmlAttributesDemo\bin\Debug\netcoreapp2.0\XmlAttributesDemo.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XMLAttributesDemo\XmlAttributesDemo\bin\Debug\netcoreapp2.0\XmlAttributesDemo.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XMLAttributesDemo\XmlAttributesDemo\bin\Debug\netcoreapp2.0\XmlAttributesDemo.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XMLAttributesDemo\XmlAttributesDemo\bin\Debug\netcoreapp2.0\XmlAttributesDemo.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XMLAttributesDemo\XmlAttributesDemo\obj\Debug\netcoreapp2.0\XmlAttributesDemo.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XMLAttributesDemo\XmlAttributesDemo\obj\Debug\netcoreapp2.0\XmlAttributesDemo.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XMLAttributesDemo\XmlAttributesDemo\obj\Debug\netcoreapp2.0\XmlAttributesDemo.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XMLAttributesDemo\XmlAttributesDemo\obj\Debug\netcoreapp2.0\XmlAttributesDemo.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XMLAttributesDemo\XmlAttributesDemo\obj\Debug\netcoreapp2.0\XmlAttributesDemo.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\XMLAttributesDemo\XmlAttributesDemo\obj\Debug\netcoreapp2.0\XmlAttributesDemo.pdb

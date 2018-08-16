@@ -1,0 +1,13 @@
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\BestPractisesArchitecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.pdb

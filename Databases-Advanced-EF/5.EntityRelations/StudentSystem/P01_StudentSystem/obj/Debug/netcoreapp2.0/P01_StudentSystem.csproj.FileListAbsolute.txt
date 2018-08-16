@@ -1,0 +1,15 @@
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\EntityRelations\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\EntityRelations\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\EntityRelations\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\EntityRelations\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\EntityRelations\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\EntityRelations\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\EntityRelations\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\EntityRelations\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\EntityRelations\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\EntityRelations\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\EntityRelations\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\EntityRelations\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\EntityRelations\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\EntityRelations\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\EntityRelations\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.pdb

@@ -1,0 +1,11 @@
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\CodeFirstDemoApp\bin\Debug\netcoreapp2.0\CodeFirstDemoApp.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\CodeFirstDemoApp\bin\Debug\netcoreapp2.0\CodeFirstDemoApp.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\CodeFirstDemoApp\bin\Debug\netcoreapp2.0\CodeFirstDemoApp.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\CodeFirstDemoApp\bin\Debug\netcoreapp2.0\CodeFirstDemoApp.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\CodeFirstDemoApp\obj\Debug\netcoreapp2.0\CodeFirstDemoApp.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\CodeFirstDemoApp\obj\Debug\netcoreapp2.0\CodeFirstDemoApp.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\CodeFirstDemoApp\obj\Debug\netcoreapp2.0\CodeFirstDemoApp.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\CodeFirstDemoApp\obj\Debug\netcoreapp2.0\CodeFirstDemoApp.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\CodeFirstDemoApp\bin\Debug\netcoreapp2.0\CodeFirstDemoApp.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\CodeFirstDemoApp\obj\Debug\netcoreapp2.0\CodeFirstDemoApp.dll
+D:\Repositories\Software-University-CSharp-Web-Development\Databases-Advanced-EF\CodeFirst\CodeFirstDemoApp\obj\Debug\netcoreapp2.0\CodeFirstDemoApp.pdb
