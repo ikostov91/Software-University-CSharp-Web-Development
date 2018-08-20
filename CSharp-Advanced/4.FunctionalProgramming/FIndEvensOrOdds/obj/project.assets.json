@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\SoftUni-Courses-Code\\Software-University-C#-Advanced\\FunctionalProgramming\\FIndEvensOrOdds\\FIndEvensOrOdds.csproj",
+      "projectUniqueName": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-Advanced\\4.FunctionalProgramming\\FIndEvensOrOdds\\FIndEvensOrOdds.csproj",
       "projectName": "FIndEvensOrOdds",
-      "projectPath": "D:\\SoftUni-Courses-Code\\Software-University-C#-Advanced\\FunctionalProgramming\\FIndEvensOrOdds\\FIndEvensOrOdds.csproj",
+      "projectPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-Advanced\\4.FunctionalProgramming\\FIndEvensOrOdds\\FIndEvensOrOdds.csproj",
       "packagesPath": "C:\\Users\\ikost\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni-Courses-Code\\Software-University-C#-Advanced\\FunctionalProgramming\\FIndEvensOrOdds\\obj\\",
+      "outputPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-Advanced\\4.FunctionalProgramming\\FIndEvensOrOdds\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

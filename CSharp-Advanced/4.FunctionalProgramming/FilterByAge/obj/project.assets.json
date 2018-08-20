@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\SoftUni-Courses-Code\\Software-University-C#-Advanced\\FunctionalProgramming\\FilterByAge\\FilterByAge.csproj",
+      "projectUniqueName": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-Advanced\\4.FunctionalProgramming\\FilterByAge\\FilterByAge.csproj",
       "projectName": "FilterByAge",
-      "projectPath": "D:\\SoftUni-Courses-Code\\Software-University-C#-Advanced\\FunctionalProgramming\\FilterByAge\\FilterByAge.csproj",
+      "projectPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-Advanced\\4.FunctionalProgramming\\FilterByAge\\FilterByAge.csproj",
       "packagesPath": "C:\\Users\\ikost\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni-Courses-Code\\Software-University-C#-Advanced\\FunctionalProgramming\\FilterByAge\\obj\\",
+      "outputPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-Advanced\\4.FunctionalProgramming\\FilterByAge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

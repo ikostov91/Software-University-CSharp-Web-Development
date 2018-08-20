@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\SoftUni-Courses-Code\\Software-University-C#-Advanced\\FunctionalProgramming\\ActionPoint\\ActionPoint.csproj",
+      "projectUniqueName": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-Advanced\\4.FunctionalProgramming\\ActionPoint\\ActionPoint.csproj",
       "projectName": "ActionPoint",
-      "projectPath": "D:\\SoftUni-Courses-Code\\Software-University-C#-Advanced\\FunctionalProgramming\\ActionPoint\\ActionPoint.csproj",
+      "projectPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-Advanced\\4.FunctionalProgramming\\ActionPoint\\ActionPoint.csproj",
       "packagesPath": "C:\\Users\\ikost\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni-Courses-Code\\Software-University-C#-Advanced\\FunctionalProgramming\\ActionPoint\\obj\\",
+      "outputPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-Advanced\\4.FunctionalProgramming\\ActionPoint\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

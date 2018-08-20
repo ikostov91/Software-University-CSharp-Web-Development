@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\SoftUni-Courses-Code\\Software-University-C#-Advanced\\FunctionalProgramming\\Demo\\Demo.csproj",
+      "projectUniqueName": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-Advanced\\4.FunctionalProgramming\\Demo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "D:\\SoftUni-Courses-Code\\Software-University-C#-Advanced\\FunctionalProgramming\\Demo\\Demo.csproj",
+      "projectPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-Advanced\\4.FunctionalProgramming\\Demo\\Demo.csproj",
       "packagesPath": "C:\\Users\\ikost\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni-Courses-Code\\Software-University-C#-Advanced\\FunctionalProgramming\\Demo\\obj\\",
+      "outputPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-Advanced\\4.FunctionalProgramming\\Demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8,3 +8,13 @@ D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\Li
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.AssemblyInfo.cs
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.dll
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp2.0\ListOfPredicates.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp2.0\ListOfPredicates.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp2.0\ListOfPredicates.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp2.0\ListOfPredicates.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp2.0\ListOfPredicates.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.pdb

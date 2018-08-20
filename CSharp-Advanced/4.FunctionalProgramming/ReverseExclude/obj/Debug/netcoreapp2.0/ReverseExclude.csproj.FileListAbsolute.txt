@@ -8,3 +8,13 @@ D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\Re
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\ReverseExclude\obj\Debug\netcoreapp2.0\ReverseExclude.AssemblyInfo.cs
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\ReverseExclude\obj\Debug\netcoreapp2.0\ReverseExclude.dll
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\ReverseExclude\obj\Debug\netcoreapp2.0\ReverseExclude.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ReverseExclude\bin\Debug\netcoreapp2.0\ReverseExclude.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ReverseExclude\bin\Debug\netcoreapp2.0\ReverseExclude.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ReverseExclude\bin\Debug\netcoreapp2.0\ReverseExclude.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ReverseExclude\bin\Debug\netcoreapp2.0\ReverseExclude.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ReverseExclude\bin\Debug\netcoreapp2.0\ReverseExclude.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ReverseExclude\obj\Debug\netcoreapp2.0\ReverseExclude.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ReverseExclude\obj\Debug\netcoreapp2.0\ReverseExclude.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ReverseExclude\obj\Debug\netcoreapp2.0\ReverseExclude.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ReverseExclude\obj\Debug\netcoreapp2.0\ReverseExclude.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ReverseExclude\obj\Debug\netcoreapp2.0\ReverseExclude.pdb

@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\SoftUni-Courses-Code\\Software-University-C#-Advanced\\FunctionalProgramming\\PredicateForNames\\PredicateForNames.csproj",
+      "projectUniqueName": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-Advanced\\4.FunctionalProgramming\\PredicateForNames\\PredicateForNames.csproj",
       "projectName": "PredicateForNames",
-      "projectPath": "D:\\SoftUni-Courses-Code\\Software-University-C#-Advanced\\FunctionalProgramming\\PredicateForNames\\PredicateForNames.csproj",
+      "projectPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-Advanced\\4.FunctionalProgramming\\PredicateForNames\\PredicateForNames.csproj",
       "packagesPath": "C:\\Users\\ikost\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni-Courses-Code\\Software-University-C#-Advanced\\FunctionalProgramming\\PredicateForNames\\obj\\",
+      "outputPath": "D:\\Repositories\\Software-University-CSharp-Web-Development\\CSharp-Advanced\\4.FunctionalProgramming\\PredicateForNames\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

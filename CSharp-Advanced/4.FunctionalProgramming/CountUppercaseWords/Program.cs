@@ -12,7 +12,7 @@ namespace CountUppercaseWords
 
             Func<string, bool> isUpperCase = word => Char.IsUpper(word[0]);
 
-            List<string> upperCaseWords = text.Where(n => isUpperCase(n)).ToList();
+            List<string> upperCaseWords = text.Where(isUpperCase).ToList();
 
             Console.WriteLine(String.Join(Environment.NewLine, upperCaseWords));
         }

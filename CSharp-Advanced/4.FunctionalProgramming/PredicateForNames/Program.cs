@@ -16,12 +16,12 @@ namespace PredicateForNames
 
             Func<string, bool> isNameValid = text => text.Length <= nameLength;
 
-            PrintNames(names, n => n.Length <= nameLength);
+            PrintNames(names, isNameValid);
         }
 
         private static void PrintNames(List<string> names, Func<string, bool> Filter)
         {
-            Console.WriteLine(String.Join(Environment.NewLine, names.Where(n => Filter(n))));
+            Console.WriteLine(String.Join(Environment.NewLine, names.Where(Filter)));
         }
     }
 }

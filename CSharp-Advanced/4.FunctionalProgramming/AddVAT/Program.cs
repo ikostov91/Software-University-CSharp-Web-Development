@@ -13,8 +13,9 @@ namespace AddVAT
                                                     .ToList();
             
             Func<double, double> addVAT = number => number + (number * 0.20);
+            Func<double, string> toString = number => $"{number:F2}";
 
-            List<string> pricesWithVAT = prices.Select(y => addVAT(y)).Select(y => $"{y:F2}").ToList();
+            List<string> pricesWithVAT = prices.Select(addVAT).Select(toString).ToList();
 
             Console.WriteLine(String.Join(Environment.NewLine, pricesWithVAT));
         }

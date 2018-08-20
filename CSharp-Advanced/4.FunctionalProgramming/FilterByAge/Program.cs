@@ -67,7 +67,9 @@ namespace FilterByAge
         {
             Dictionary<string, int> filteredPeople = new Dictionary<string, int>();
 
-            if (condition == "older")
+            Func<string, bool> olderCondition = text => text == "older";
+
+            if (olderCondition(condition))
             {
                 foreach (var person in people)
                 {

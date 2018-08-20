@@ -13,9 +13,11 @@ namespace Demo
             List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
             List<int> evenNumbers = new List<int>();
 
+            Func<int, bool> isEven = num => num % 2 == 0;
+
             foreach (var num in numbers)
             {
-                if (num % 2 == 0)
+                if (isEven(num))
                 {
                     evenNumbers.Add(num);
                 }
@@ -23,8 +25,8 @@ namespace Demo
 
             List<int> newEvenNumbers = numbers.Where(x => x % 2 == 0).ToList();
 
-            //Console.WriteLine(String.Join(" ", evenNumbers));
-            //Console.WriteLine(String.Join(" ", newEvenNumbers));
+            Console.WriteLine(String.Join(" ", evenNumbers));
+            Console.WriteLine(String.Join(" ", newEvenNumbers));
 
             Func<string, int> csharpParser = int.Parse;
             Func<string, int> moreClear = (string text) => int.Parse(text);
@@ -36,16 +38,16 @@ namespace Demo
 
             var number = int.Parse("5");
             var fullName = gosho("Georgi","Mihalkov");
-            //Console.WriteLine(fullName);
+            Console.WriteLine(fullName);
 
             List<int> peshoGrades = new List<int>{2, 4, 4, 6};
-            //Console.WriteLine(parkash("Pesho", peshoGrades));
+            Console.WriteLine(parkash("Pesho", peshoGrades));
 
             Action<string> prakash = text => Console.WriteLine(text);
-            //prakash("trololo");
+            prakash("trololo");
 
             Action<string, string> print = (firstName, lastName) => Console.WriteLine($"{firstName} {lastName}");
-            //print("Gaco", "Bacov");
+            print("Gaco", "Bacov");
 
             Func<string> readFromConsole = () => { return Console.ReadLine(); };
 

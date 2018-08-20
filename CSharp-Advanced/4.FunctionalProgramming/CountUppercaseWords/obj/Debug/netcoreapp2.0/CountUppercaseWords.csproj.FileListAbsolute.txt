@@ -9,3 +9,14 @@ D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\Co
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp2.0\CountUppercaseWords.dll
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp2.0\CountUppercaseWords.pdb
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp2.0\CountUppercaseWords.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CountUppercaseWords\bin\Debug\netcoreapp2.0\CountUppercaseWords.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CountUppercaseWords\bin\Debug\netcoreapp2.0\CountUppercaseWords.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CountUppercaseWords\bin\Debug\netcoreapp2.0\CountUppercaseWords.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CountUppercaseWords\bin\Debug\netcoreapp2.0\CountUppercaseWords.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CountUppercaseWords\bin\Debug\netcoreapp2.0\CountUppercaseWords.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp2.0\CountUppercaseWords.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp2.0\CountUppercaseWords.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp2.0\CountUppercaseWords.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp2.0\CountUppercaseWords.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp2.0\CountUppercaseWords.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp2.0\CountUppercaseWords.pdb

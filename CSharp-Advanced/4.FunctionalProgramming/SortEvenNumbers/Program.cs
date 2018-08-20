@@ -12,7 +12,9 @@ namespace SortEvenNumbers
                                                   .Select(int.Parse)
                                                   .ToList();
 
-            var sortedEvenNumber = numbers.Where(n => n % 2 == 0).OrderBy(n => n).ToList();
+            Func<int, bool> isEven = number => number % 2 == 0;
+
+            var sortedEvenNumber = numbers.Where(isEven).OrderBy(n => n).ToList();
 
             Console.WriteLine(String.Join(", ", sortedEvenNumber));
         }

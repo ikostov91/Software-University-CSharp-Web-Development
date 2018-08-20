@@ -9,3 +9,14 @@ D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\Ac
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.AssemblyInfo.cs
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.dll
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.pdb

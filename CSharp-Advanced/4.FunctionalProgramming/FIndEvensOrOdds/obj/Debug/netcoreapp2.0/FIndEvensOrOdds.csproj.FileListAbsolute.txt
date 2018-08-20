@@ -9,3 +9,14 @@ D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FI
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FIndEvensOrOdds\obj\Debug\netcoreapp2.0\FIndEvensOrOdds.AssemblyInfo.cs
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FIndEvensOrOdds\obj\Debug\netcoreapp2.0\FIndEvensOrOdds.dll
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FIndEvensOrOdds\obj\Debug\netcoreapp2.0\FIndEvensOrOdds.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FIndEvensOrOdds\bin\Debug\netcoreapp2.0\FIndEvensOrOdds.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FIndEvensOrOdds\bin\Debug\netcoreapp2.0\FIndEvensOrOdds.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FIndEvensOrOdds\bin\Debug\netcoreapp2.0\FIndEvensOrOdds.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FIndEvensOrOdds\bin\Debug\netcoreapp2.0\FIndEvensOrOdds.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FIndEvensOrOdds\bin\Debug\netcoreapp2.0\FIndEvensOrOdds.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FIndEvensOrOdds\obj\Debug\netcoreapp2.0\FIndEvensOrOdds.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FIndEvensOrOdds\obj\Debug\netcoreapp2.0\FIndEvensOrOdds.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FIndEvensOrOdds\obj\Debug\netcoreapp2.0\FIndEvensOrOdds.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FIndEvensOrOdds\obj\Debug\netcoreapp2.0\FIndEvensOrOdds.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FIndEvensOrOdds\obj\Debug\netcoreapp2.0\FIndEvensOrOdds.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FIndEvensOrOdds\obj\Debug\netcoreapp2.0\FIndEvensOrOdds.pdb

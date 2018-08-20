@@ -14,7 +14,7 @@ namespace SumNumbers
 
             int sum = numbers.Sum();
 
-            Console.WriteLine($"{numbers.Count()}{Environment.NewLine}{sum}");
+            Console.WriteLine($"{numbers.Count}{Environment.NewLine}{sum}");
         }
     }
 }

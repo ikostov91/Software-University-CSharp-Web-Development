@@ -9,3 +9,14 @@ D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\Su
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp2.0\SumNumbers.dll
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp2.0\SumNumbers.pdb
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp2.0\SumNumbers.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\SumNumbers\bin\Debug\netcoreapp2.0\SumNumbers.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\SumNumbers\bin\Debug\netcoreapp2.0\SumNumbers.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\SumNumbers\bin\Debug\netcoreapp2.0\SumNumbers.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\SumNumbers\bin\Debug\netcoreapp2.0\SumNumbers.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\SumNumbers\bin\Debug\netcoreapp2.0\SumNumbers.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp2.0\SumNumbers.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp2.0\SumNumbers.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp2.0\SumNumbers.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp2.0\SumNumbers.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp2.0\SumNumbers.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp2.0\SumNumbers.pdb

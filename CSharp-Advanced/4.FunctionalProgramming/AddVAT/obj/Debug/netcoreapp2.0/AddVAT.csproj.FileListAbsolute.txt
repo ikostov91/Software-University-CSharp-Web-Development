@@ -9,3 +9,14 @@ D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\Ad
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.AssemblyInfo.cs
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.dll
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\AddVAT\bin\Debug\netcoreapp2.0\AddVAT.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\AddVAT\bin\Debug\netcoreapp2.0\AddVAT.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\AddVAT\bin\Debug\netcoreapp2.0\AddVAT.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\AddVAT\bin\Debug\netcoreapp2.0\AddVAT.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\AddVAT\bin\Debug\netcoreapp2.0\AddVAT.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.pdb

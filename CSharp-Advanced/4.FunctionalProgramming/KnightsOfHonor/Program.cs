@@ -14,7 +14,7 @@ namespace ActionPoint
             Func<string, string> ModifyName = name => "Sir " + name;
             Action<string> printName = name => Console.WriteLine(name);
 
-            List<string> modifiedNames = names.Select(x => ModifyName(x)).ToList();
+            List<string> modifiedNames = names.Select(ModifyName).ToList();
 
             foreach (var name in modifiedNames)
             {

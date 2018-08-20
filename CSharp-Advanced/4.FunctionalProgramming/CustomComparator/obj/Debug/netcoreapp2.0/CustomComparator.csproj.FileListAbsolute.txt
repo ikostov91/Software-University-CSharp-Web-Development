@@ -9,3 +9,14 @@ D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\Cu
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.dll
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.pdb
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp2.0\CustomComparator.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp2.0\CustomComparator.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp2.0\CustomComparator.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp2.0\CustomComparator.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp2.0\CustomComparator.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.pdb

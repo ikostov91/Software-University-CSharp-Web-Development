@@ -8,3 +8,13 @@ D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\Cu
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.AssemblyInfo.cs
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.dll
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.pdb

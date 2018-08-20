@@ -9,3 +9,14 @@ D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\Pr
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp2.0\PredicateParty.AssemblyInfo.cs
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp2.0\PredicateParty.dll
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp2.0\PredicateParty.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp2.0\PredicateParty.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp2.0\PredicateParty.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp2.0\PredicateParty.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp2.0\PredicateParty.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp2.0\PredicateParty.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp2.0\PredicateParty.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp2.0\PredicateParty.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp2.0\PredicateParty.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp2.0\PredicateParty.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp2.0\PredicateParty.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp2.0\PredicateParty.pdb

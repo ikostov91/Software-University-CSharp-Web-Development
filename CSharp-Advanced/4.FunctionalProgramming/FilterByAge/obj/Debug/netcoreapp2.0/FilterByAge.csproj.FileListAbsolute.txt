@@ -9,3 +9,14 @@ D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\Fi
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.0\FilterByAge.AssemblyInfo.cs
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.0\FilterByAge.dll
 D:\SoftUni-Courses-Code\Software-University-C#-Advanced\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.0\FilterByAge.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp2.0\FilterByAge.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp2.0\FilterByAge.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp2.0\FilterByAge.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp2.0\FilterByAge.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp2.0\FilterByAge.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.0\FilterByAge.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.0\FilterByAge.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.0\FilterByAge.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.0\FilterByAge.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.0\FilterByAge.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Advanced\4.FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.0\FilterByAge.pdb
