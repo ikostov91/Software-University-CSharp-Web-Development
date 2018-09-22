@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Form</title>
+	</head>
+	<body>
+		<h1>Form Submit</h1>
+		<form action="/register" method="POST">
+			Username: <input type="text" name="username" placeholder="Username..." /><br/>
+			Password: <input type="password" name="password" placeholder="Password..." /><br/>
+			Email: <input type="email" name="email" placeholder="Email..." /><br/>
+			Age: <input type="number" name="age" placeholder="Age..." /><br/>
+			<p>Gender:</p>
+			<input type="radio" name="gender" value="Male" />Male<br/>
+			<input type="radio" name="gender" value="Female" />Female<br/>
+			<input type="radio" name="gender" value="Other" />Other<br/>
+			Description: <textarea rows="10" cols="50" name="description" placeholder="Description..."></textarea>
+			<p>What transport do you use?</p>
+			<input type="checkbox" />Car<br/>
+			<input type="checkbox" />Bur<br/>
+			<input type="checkbox" />Other<br/>
+			<h1>Which cars do you have?</h1>
+			<select name="car" multiple>
+				<option selected disabled>Select a car...</option>
+				<option>Volvo</option>
+				<option>Mercedes</option>
+				<option>Moskvich</option>
+				<option>BMW</option>
+				<option>Kia</option>
+				<option>Audi</option>
+			</select><br/>
+			<input type="submit" value="Submit" />
+		</form>
+	</body>
+</html>
