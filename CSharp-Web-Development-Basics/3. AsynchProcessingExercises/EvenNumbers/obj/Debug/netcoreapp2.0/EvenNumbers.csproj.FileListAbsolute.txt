@@ -1,0 +1,11 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\EvenNumbers\bin\Debug\netcoreapp2.0\EvenNumbers.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\EvenNumbers\bin\Debug\netcoreapp2.0\EvenNumbers.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\EvenNumbers\bin\Debug\netcoreapp2.0\EvenNumbers.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\EvenNumbers\bin\Debug\netcoreapp2.0\EvenNumbers.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\EvenNumbers\bin\Debug\netcoreapp2.0\EvenNumbers.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\EvenNumbers\obj\Debug\netcoreapp2.0\EvenNumbers.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\EvenNumbers\obj\Debug\netcoreapp2.0\EvenNumbers.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\EvenNumbers\obj\Debug\netcoreapp2.0\EvenNumbers.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\EvenNumbers\obj\Debug\netcoreapp2.0\EvenNumbers.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\EvenNumbers\obj\Debug\netcoreapp2.0\EvenNumbers.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\EvenNumbers\obj\Debug\netcoreapp2.0\EvenNumbers.pdb

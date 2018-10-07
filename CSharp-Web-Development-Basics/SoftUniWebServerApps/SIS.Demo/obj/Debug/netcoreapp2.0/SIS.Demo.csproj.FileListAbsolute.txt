@@ -1,0 +1,15 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.pdb

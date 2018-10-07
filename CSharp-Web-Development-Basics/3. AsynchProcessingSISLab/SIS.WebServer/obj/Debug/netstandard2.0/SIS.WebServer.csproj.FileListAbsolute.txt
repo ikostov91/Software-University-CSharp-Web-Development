@@ -1,0 +1,9 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.WebServer\bin\Debug\netstandard2.0\SIS.WebServer.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.WebServer\bin\Debug\netstandard2.0\SIS.WebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.WebServer\bin\Debug\netstandard2.0\SIS.WebServer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.WebServer\obj\Debug\netstandard2.0\SIS.WebServer.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.WebServer\obj\Debug\netstandard2.0\SIS.WebServer.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.WebServer\obj\Debug\netstandard2.0\SIS.WebServer.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.WebServer\obj\Debug\netstandard2.0\SIS.WebServer.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.WebServer\obj\Debug\netstandard2.0\SIS.WebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.WebServer\obj\Debug\netstandard2.0\SIS.WebServer.pdb

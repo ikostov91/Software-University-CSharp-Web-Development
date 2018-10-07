@@ -1,0 +1,9 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingSISLab\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb

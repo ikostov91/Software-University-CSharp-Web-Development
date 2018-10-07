@@ -1,0 +1,12 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\SoftUniHttpServer\SoftUniHttpServer\bin\Debug\netcoreapp2.0\SoftUniHttpServer.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\SoftUniHttpServer\SoftUniHttpServer\bin\Debug\netcoreapp2.0\SoftUniHttpServer.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\SoftUniHttpServer\SoftUniHttpServer\bin\Debug\netcoreapp2.0\SoftUniHttpServer.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\SoftUniHttpServer\SoftUniHttpServer\bin\Debug\netcoreapp2.0\SoftUniHttpServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\SoftUniHttpServer\SoftUniHttpServer\bin\Debug\netcoreapp2.0\SoftUniHttpServer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\SoftUniHttpServer\SoftUniHttpServer\obj\Debug\netcoreapp2.0\SoftUniHttpServer.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\SoftUniHttpServer\SoftUniHttpServer\obj\Debug\netcoreapp2.0\SoftUniHttpServer.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\SoftUniHttpServer\SoftUniHttpServer\obj\Debug\netcoreapp2.0\SoftUniHttpServer.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\SoftUniHttpServer\SoftUniHttpServer\obj\Debug\netcoreapp2.0\SoftUniHttpServer.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\SoftUniHttpServer\SoftUniHttpServer\obj\Debug\netcoreapp2.0\SoftUniHttpServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\SoftUniHttpServer\SoftUniHttpServer\obj\Debug\netcoreapp2.0\SoftUniHttpServer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\SoftUniHttpServer\SoftUniHttpServer\bin\Debug\netcoreapp2.0\index.html

@@ -1,0 +1,11 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\HttpProtocolExercises\URLValidate\bin\Debug\netcoreapp2.0\URLValidate.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\HttpProtocolExercises\URLValidate\bin\Debug\netcoreapp2.0\URLValidate.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\HttpProtocolExercises\URLValidate\bin\Debug\netcoreapp2.0\URLValidate.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\HttpProtocolExercises\URLValidate\bin\Debug\netcoreapp2.0\URLValidate.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\HttpProtocolExercises\URLValidate\bin\Debug\netcoreapp2.0\URLValidate.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\HttpProtocolExercises\URLValidate\obj\Debug\netcoreapp2.0\URLValidate.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\HttpProtocolExercises\URLValidate\obj\Debug\netcoreapp2.0\URLValidate.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\HttpProtocolExercises\URLValidate\obj\Debug\netcoreapp2.0\URLValidate.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\HttpProtocolExercises\URLValidate\obj\Debug\netcoreapp2.0\URLValidate.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\HttpProtocolExercises\URLValidate\obj\Debug\netcoreapp2.0\URLValidate.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\2. HTTP-Protocol\HttpProtocolExercises\URLValidate\obj\Debug\netcoreapp2.0\URLValidate.pdb

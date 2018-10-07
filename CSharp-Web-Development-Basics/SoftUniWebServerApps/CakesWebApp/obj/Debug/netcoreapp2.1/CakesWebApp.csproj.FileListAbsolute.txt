@@ -1,0 +1,15 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.pdb

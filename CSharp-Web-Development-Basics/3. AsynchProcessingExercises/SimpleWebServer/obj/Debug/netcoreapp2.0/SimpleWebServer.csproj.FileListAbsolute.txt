@@ -1,0 +1,11 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\SimpleWebServer\bin\Debug\netcoreapp2.0\SimpleWebServer.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\SimpleWebServer\bin\Debug\netcoreapp2.0\SimpleWebServer.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\SimpleWebServer\bin\Debug\netcoreapp2.0\SimpleWebServer.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\SimpleWebServer\bin\Debug\netcoreapp2.0\SimpleWebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\SimpleWebServer\bin\Debug\netcoreapp2.0\SimpleWebServer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\SimpleWebServer\obj\Debug\netcoreapp2.0\SimpleWebServer.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\SimpleWebServer\obj\Debug\netcoreapp2.0\SimpleWebServer.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\SimpleWebServer\obj\Debug\netcoreapp2.0\SimpleWebServer.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\SimpleWebServer\obj\Debug\netcoreapp2.0\SimpleWebServer.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\SimpleWebServer\obj\Debug\netcoreapp2.0\SimpleWebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\3. AsynchProcessingExercises\SimpleWebServer\obj\Debug\netcoreapp2.0\SimpleWebServer.pdb
