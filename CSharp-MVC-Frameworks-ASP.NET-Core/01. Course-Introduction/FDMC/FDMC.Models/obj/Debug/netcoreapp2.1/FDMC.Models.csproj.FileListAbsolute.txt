@@ -1,0 +1,9 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Models\bin\Debug\netcoreapp2.1\FDMC.Models.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Models\bin\Debug\netcoreapp2.1\FDMC.Models.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Models\obj\Debug\netcoreapp2.1\FDMC.Models.csprojAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Models\obj\Debug\netcoreapp2.1\FDMC.Models.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Models\obj\Debug\netcoreapp2.1\FDMC.Models.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Models\obj\Debug\netcoreapp2.1\FDMC.Models.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Models\bin\Debug\netcoreapp2.1\FDMC.Models.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Models\obj\Debug\netcoreapp2.1\FDMC.Models.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Models\obj\Debug\netcoreapp2.1\FDMC.Models.pdb

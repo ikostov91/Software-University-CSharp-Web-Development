@@ -1,0 +1,66 @@
+﻿@model Eventures.Web.ViewModels.Account.RegisterViewModel
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1 class="text-center">Register</h1>
+<hr class="hr-3 half-width"/>
+<form class="mx-auto half-width" method="post" asp-controller="Account" asp-action="Register">
+	<div class="row text-center">
+		<div class="col-md-6">
+			<div class="form-group">
+				<label asp-for="Username">Username</label>
+				<input asp-for="Username" class="form-control" placeholder="Username...">
+				<span asp-validation-for="Username" class="field-validation-error"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Password">Password</label>
+				<input asp-for="Password" class="form-control" placeholder="Password...">
+				<span asp-validation-for="Password" class="field-validation-error"></span>
+			</div>
+		</div>
+		<div class="col-md-6">
+			<div class="form-group">
+				<label asp-for="ConfirmPassword">Confirm Password</label>
+				<input asp-for="ConfirmPassword" class="form-control"placeholder="Confirm Password...">
+				<span asp-validation-for="ConfirmPassword" class="field-validation-error"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Email">Email</label>
+				<input asp-for="Email" class="form-control" placeholder="Email...">
+				<span asp-validation-for="Email" class="field-validation-error"></span>
+			</div>
+		</div>
+	</div>
+	<div class="row text-center">
+		<div class="col-md-6">
+			<div class="form-group">
+				<label asp-for="FirstName">First name</label>
+				<input asp-for="FirstName" class="form-control" placeholder="First Name...">
+			</div>
+		</div>
+		<div class="col-md-6">
+			<div class="form-group">
+				<label asp-for="LastName">Last name</label>
+				<input asp-for="LastName" class="form-control" placeholder="Last Name...">
+			</div>
+		</div>
+	</div>
+	<div class="row text-center">
+		<div class="col-md-12">
+			<div class="form-group">
+					<label asp-for="UniqueCitizenNumber">Unique Citizen Number</label>
+					<input asp-for="UniqueCitizenNumber" class="form-control" placeholder="Unique Citizen Number..." />
+					<span asp-validation-for="UniqueCitizenNumber" class="field-validation-error"></span>
+			</div>
+		</div>
+	</div>
+    <div class="button-holder d-flex justify-content-center">
+        <button type="submit" class="btn eventures-bg-color">Register</button>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

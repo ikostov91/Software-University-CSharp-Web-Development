@@ -1,8 +1,0 @@
-D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.HTTP\bin\Debug\netcoreapp2.0\SIS.HTTP.deps.json
-D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.HTTP\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
-D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.HTTP\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
-D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.HTTP\obj\Debug\netcoreapp2.0\SIS.HTTP.csproj.CoreCompileInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.HTTP\obj\Debug\netcoreapp2.0\SIS.HTTP.AssemblyInfoInputs.cache
-D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.HTTP\obj\Debug\netcoreapp2.0\SIS.HTTP.AssemblyInfo.cs
-D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.HTTP\obj\Debug\netcoreapp2.0\SIS.HTTP.dll
-D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SISRepo\SIS.HTTP\obj\Debug\netcoreapp2.0\SIS.HTTP.pdb

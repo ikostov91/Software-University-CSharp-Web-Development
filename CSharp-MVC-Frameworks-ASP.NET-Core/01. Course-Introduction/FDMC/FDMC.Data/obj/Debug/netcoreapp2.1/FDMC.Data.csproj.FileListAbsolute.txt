@@ -1,0 +1,16 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\bin\Debug\netcoreapp2.1\FDMC.Data.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\bin\Debug\netcoreapp2.1\FDMC.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\obj\Debug\netcoreapp2.1\FDMC.Data.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\obj\Debug\netcoreapp2.1\FDMC.Data.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\obj\Debug\netcoreapp2.1\FDMC.Data.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\bin\Debug\netcoreapp2.1\FDMC.Data.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\bin\Debug\netcoreapp2.1\FDMC.Data.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\bin\Debug\netcoreapp2.1\FDMC.Data.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\obj\Debug\netcoreapp2.1\FDMC.Data.csproj.CopyComplete
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\obj\Debug\netcoreapp2.1\FDMC.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\obj\Debug\netcoreapp2.1\FDMC.Data.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\bin\Debug\netcoreapp2.1\FDMC.Models.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\bin\Debug\netcoreapp2.1\FDMC.Models.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\FDMC\FDMC.Data\obj\Debug\netcoreapp2.1\FDMC.Data.csprojAssemblyReference.cache

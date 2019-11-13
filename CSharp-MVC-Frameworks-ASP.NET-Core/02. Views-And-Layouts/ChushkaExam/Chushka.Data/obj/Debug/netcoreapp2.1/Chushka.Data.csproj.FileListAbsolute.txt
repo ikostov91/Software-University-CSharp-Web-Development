@@ -1,0 +1,14 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\02. Views-And-Layouts\ChushkaExam\Chushka.Data\bin\Debug\netcoreapp2.1\Chushka.Data.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\02. Views-And-Layouts\ChushkaExam\Chushka.Data\bin\Debug\netcoreapp2.1\Chushka.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\02. Views-And-Layouts\ChushkaExam\Chushka.Data\obj\Debug\netcoreapp2.1\Chushka.Data.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\02. Views-And-Layouts\ChushkaExam\Chushka.Data\obj\Debug\netcoreapp2.1\Chushka.Data.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\02. Views-And-Layouts\ChushkaExam\Chushka.Data\obj\Debug\netcoreapp2.1\Chushka.Data.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\02. Views-And-Layouts\ChushkaExam\Chushka.Data\bin\Debug\netcoreapp2.1\Chushka.Data.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\02. Views-And-Layouts\ChushkaExam\Chushka.Data\bin\Debug\netcoreapp2.1\Chushka.Data.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\02. Views-And-Layouts\ChushkaExam\Chushka.Data\obj\Debug\netcoreapp2.1\Chushka.Data.csprojAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\02. Views-And-Layouts\ChushkaExam\Chushka.Data\obj\Debug\netcoreapp2.1\Chushka.Data.csproj.CopyComplete
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\02. Views-And-Layouts\ChushkaExam\Chushka.Data\bin\Debug\netcoreapp2.1\Chushka.Data.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\02. Views-And-Layouts\ChushkaExam\Chushka.Data\obj\Debug\netcoreapp2.1\Chushka.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\02. Views-And-Layouts\ChushkaExam\Chushka.Data\obj\Debug\netcoreapp2.1\Chushka.Data.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\02. Views-And-Layouts\ChushkaExam\Chushka.Data\bin\Debug\netcoreapp2.1\Chushka.Models.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\02. Views-And-Layouts\ChushkaExam\Chushka.Data\bin\Debug\netcoreapp2.1\Chushka.Models.pdb

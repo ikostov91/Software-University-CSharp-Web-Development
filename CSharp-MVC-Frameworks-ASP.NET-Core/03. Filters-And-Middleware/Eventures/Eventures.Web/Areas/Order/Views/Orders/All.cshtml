@@ -1,0 +1,47 @@
+﻿@using Eventures.Web.Areas.Order.ViewModels
+
+@model IEnumerable<EventureOrderAllOrdersViewModel>
+
+@{
+	ViewData["Title"] = "All Orders";
+}
+
+<h1 class="text-center">All Orders</h1>
+<hr class="hr-3 half-width"/>
+@if (!Model.Any())
+{
+	<div class="col-md-1 d-flex justify-content-between">
+		<h3 class="text-center">No Orders.</h3>
+	</div>
+}
+else
+{
+	<div class="col-md-9 d-flex justify-content-between">
+		<table class="text-center table table-striped">
+			<thead>
+				<tr>
+					<th scope="col">#</th>
+					<th scope="col">Event</th>
+					<th scope="col">Customer</th>
+					<th scope="col">Ordered On</th>
+				</tr>
+			</thead>
+			<tbody>
+				@{
+					int index = 1;
+				}
+				@foreach (var eventureOrder in Model)
+				{
+					<tr>
+						<th scope="row">@index</th>
+						<td>@eventureOrder.Event</td>
+						<td>@eventureOrder.Customer</td>
+						<td>@eventureOrder.OrderedOn</td>
+					</tr>
+					index++;
+				}
+			</tbody>
+		</table>
+	</div>
+}
+<hr class="hr-3 half-width"/>

@@ -1,0 +1,34 @@
+﻿@model Chushka.Web.ViewModels.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1 class="text-center">Login</h1>
+<hr class="bg-secondary half-width"/>
+<div class="form-group">
+	<section>
+		<form class="mx-auto half-width" method="post" asp-controller="Account" asp-action="Login">
+			<div class="form-group">
+				<label asp-for="Username">Username</label>
+				<input asp-for="Username" class="form-control" placeholder="Username...">	<!-- if attributes used in core, this line with asp-for generates validation and messages -->
+				<span asp-validation-for="Username" class="text-danger"></span>				<!-- this asp-validation-for, if no attributes are used-->
+			</div>
+			<div class="form-group">
+				 <label asp-for="Password">Password</label>
+				 <input asp-for="Password" class="form-control" placeholder="Password...">
+				 <span asp-validation-for="Password" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<div class="checkbox">
+					<label asp-for="RememberMe"></label>
+				    <input asp-for="RememberMe"/>
+				</div>
+			</div>
+			 <div class="button-holder d-flex justify-content-center">
+				<button type="submit" class="btn chushka-bg-color">Login</button>
+			</div>
+		</form>
+	</section>
+</div>
+

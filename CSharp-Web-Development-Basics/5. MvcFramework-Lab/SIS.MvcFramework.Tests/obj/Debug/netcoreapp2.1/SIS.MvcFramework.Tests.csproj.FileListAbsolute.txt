@@ -1,0 +1,52 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\TestViews\IfForAndForeach.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\TestViews\IfForAndForeach.Result.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\TestViews\ViewWithNoCode.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\TestViews\ViewWithNoCode.Result.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\TestViews\WorkWithViewModel.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\TestViews\WorkWithViewModel.Result.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.MvcFramework.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.MvcFramework.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\TestViews\IfForAndForeach.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\TestViews\IfForAndForeach.Result.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\TestViews\ViewWithNoCode.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\TestViews\ViewWithNoCode.Result.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\TestViews\WorkWithViewModel.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\TestViews\WorkWithViewModel.Result.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.MvcFramework.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.MvcFramework.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.1\SIS.MvcFramework.Tests.pdb

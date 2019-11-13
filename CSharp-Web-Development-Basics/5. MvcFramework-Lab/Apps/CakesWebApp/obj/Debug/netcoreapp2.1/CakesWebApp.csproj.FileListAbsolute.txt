@@ -1,0 +1,54 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\AddCakes.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\CakeById.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Error.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Index.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Login.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Register.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\_Layout.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.MvcFramework.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.MvcFramework.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\HelloUser.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\AddCakes.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\CakeById.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Error.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\HelloUser.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Index.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Login.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\OrderById.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\OrdersList.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Profile.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Register.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Search.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\Views\_Layout.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.MvcFramework.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.MvcFramework.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.pdb

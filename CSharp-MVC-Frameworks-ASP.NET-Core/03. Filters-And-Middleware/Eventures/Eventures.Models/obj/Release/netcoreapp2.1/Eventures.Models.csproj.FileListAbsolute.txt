@@ -1,0 +1,12 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Models\bin\Release\netcoreapp2.1\Eventures.Models.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Models\bin\Release\netcoreapp2.1\Eventures.Models.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Models\bin\Release\netcoreapp2.1\Eventures.Models.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Models\bin\Release\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Models\bin\Release\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Models\obj\Release\netcoreapp2.1\Eventures.Models.csprojAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Models\obj\Release\netcoreapp2.1\Eventures.Models.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Models\obj\Release\netcoreapp2.1\Eventures.Models.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Models\obj\Release\netcoreapp2.1\Eventures.Models.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Models\obj\Release\netcoreapp2.1\Eventures.Models.csproj.CopyComplete
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Models\obj\Release\netcoreapp2.1\Eventures.Models.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Models\obj\Release\netcoreapp2.1\Eventures.Models.pdb

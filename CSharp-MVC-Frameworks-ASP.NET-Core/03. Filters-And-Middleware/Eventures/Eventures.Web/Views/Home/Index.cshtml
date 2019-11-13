@@ -1,0 +1,49 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Eventures.Models
+
+@inject UserManager<EventureUser> userManager
+
+@{
+	ViewData["Title"] = "Home Page";
+	var currentUser = await userManager.GetUserAsync(this.User);
+}
+
+
+@if (currentUser != null)
+{
+	if (this.User.IsInRole("Administrator"))
+	{
+		<div class="container" style="padding: 20px 30px 0 0">
+			<div class="jumbotron eventures-bg-color" style="text-align: center">
+				<h2 style="font-weight: bold">Greetings, Administrator - @userManager.GetUserName(this.User)!</h2>
+				<hr style="height: 3px; background-color: darkgrey" />
+				<p>
+					<strong style="color: darkgrey">Enjoy your work.</strong>
+				</p>
+			</div>
+		</div>
+	}
+	else
+	{
+		<div class="container" style="padding: 20px 30px 0 0">
+			<div class="jumbotron eventures-bg-color" style="text-align: center">
+				<h2 style="font-weight: bold">Welcome, @userManager.GetUserName(this.User)!</h2>
+				<hr style="height: 3px; background-color: darkgrey" />
+				<p>
+					<strong style="color: darkgrey">Eventures wishes you an exciting experience.</strong>
+				</p>
+			</div>
+		</div>
+	}
+}
+else
+{
+	<div class="jumbotron mt-3 eventures-bg-color">
+		<h1>Eventures - The best ticket service in the world.</h1>
+		<hr class="hr-2"/>
+		<h3><a asp-controller="Account" asp-action="Login" class="nav-link-dark">Login</a> to start "eventing".</h3>
+		<h3><a asp-controller="Account" asp-action="Register" class="nav-link-dark">Register</a> if you don't have an account.</h3>
+	</div>
+}
+
+

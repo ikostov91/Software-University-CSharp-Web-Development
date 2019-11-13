@@ -1,0 +1,22 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\Lab-MVC-Framework\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.pdb

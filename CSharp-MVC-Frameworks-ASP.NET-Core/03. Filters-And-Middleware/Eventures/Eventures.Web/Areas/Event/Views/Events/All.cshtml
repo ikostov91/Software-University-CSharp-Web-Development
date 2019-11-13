@@ -1,0 +1,57 @@
+﻿@using Eventures.Web.Areas.Event.ViewModels
+
+@model IEnumerable<EventureEventAllEventsViewModel>
+
+@{
+	ViewData["Title"] = "All Events";
+}
+
+<h1 class="text-center">All Events</h1>
+<hr class="hr-3 half-width"/>
+@if (!Model.Any())
+{
+	<div class="col-md-1 d-flex justify-content-between">
+		<h3 class="text-center">No events.</h3>
+	</div>
+}
+else
+{
+	<div class="col-md-9 d-flex justify-content-between">
+		<table class="text-center table table-striped">
+			<thead>
+				<tr>
+					<th scope="col">#</th>
+					<th scope="col">Name</th>
+					<th scope="col">Start</th>
+					<th scope="col">End</th>
+					<th scope="col">Actions</th>
+				</tr>
+			</thead>
+			<tbody>
+				@{
+					int index = 1;
+				}
+				@foreach (var eventureEvent in Model)
+				{
+					<tr>
+						<th scope="row">@index</th>
+						<td>@eventureEvent.Name</td>
+						<td>@eventureEvent.Start</td>
+						<td>@eventureEvent.End</td>
+						<td>
+							<div>
+								Total Tockets:
+								<form asp-area="Order" asp-controller="Orders" asp-action="OrderEvent" asp-route-eventId="@eventureEvent.Id" method="post">
+									<input type="number" name="totalTickets" />
+									<input type="submit" value="Order"/>
+								</form>
+							</div>
+						</td>
+					</tr>
+					index++;
+				}
+			</tbody>
+		</table>
+	</div>
+}
+<hr class="hr-3 half-width"/>

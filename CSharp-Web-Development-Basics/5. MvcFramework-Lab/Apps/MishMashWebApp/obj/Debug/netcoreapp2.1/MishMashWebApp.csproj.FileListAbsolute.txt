@@ -1,0 +1,54 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\MishMashWebApp.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\MishMashWebApp.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\MishMashWebApp.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\MishMashWebApp.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\MishMashWebApp.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\SIS.MvcFramework.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\SIS.MvcFramework.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\obj\Debug\netcoreapp2.1\MishMashWebApp.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\obj\Debug\netcoreapp2.1\MishMashWebApp.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\obj\Debug\netcoreapp2.1\MishMashWebApp.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\obj\Debug\netcoreapp2.1\MishMashWebApp.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\obj\Debug\netcoreapp2.1\MishMashWebApp.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\Views\Home\Index.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\Views\_Layout.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\obj\Debug\netcoreapp2.1\MishMashWebApp.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\wwwroot\bootstrap.min.css
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\wwwroot\reset-css.css
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\wwwroot\style.css
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\Views\Users\Register.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\Views\Error.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\Views\Home\LoggedInIndex.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\Views\Channels\Details.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\SIS-master-3\MishMashWebApp\bin\Debug\netcoreapp2.1\Views\Channels\Followed.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\Views\Channels\Details.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\Views\Channels\Followed.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\Views\Error.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\Views\Home\Index.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\Views\Home\LoggedInIndex.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\Views\Users\Register.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\Views\_Layout.html
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\wwwroot\bootstrap.min.css
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\wwwroot\reset-css.css
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\wwwroot\style.css
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\MishMashWebApp.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\MishMashWebApp.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\MishMashWebApp.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\MishMashWebApp.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\MishMashWebApp.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\SIS.MvcFramework.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\SIS.MvcFramework.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\obj\Debug\netcoreapp2.1\MishMashWebApp.csprojResolveAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\obj\Debug\netcoreapp2.1\MishMashWebApp.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\obj\Debug\netcoreapp2.1\MishMashWebApp.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\obj\Debug\netcoreapp2.1\MishMashWebApp.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\obj\Debug\netcoreapp2.1\MishMashWebApp.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-Web-Development-Basics\5. MvcFramework-Lab\Apps\MishMashWebApp\obj\Debug\netcoreapp2.1\MishMashWebApp.pdb

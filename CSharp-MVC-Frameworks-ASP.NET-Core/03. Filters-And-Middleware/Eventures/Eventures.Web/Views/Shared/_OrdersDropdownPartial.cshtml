@@ -1,0 +1,17 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Eventures.Models
+
+@inject SignInManager<EventureUser> SignInManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+	<div class="dropdown show">
+		<a class="nav-link nav-link-white dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			Orders
+		</a>
+		<div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+			<a asp-controller="Orders" asp-area="Order" asp-action="All" class="dropdown-item">All Orders</a>
+		</div>
+	</div>
+}
+

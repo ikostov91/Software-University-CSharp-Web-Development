@@ -1,0 +1,4 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Web\obj\Debug\netcoreapp2.1\Eventures.Web.csprojAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Web\obj\Debug\netcoreapp2.1\Eventures.Web.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Web\obj\Debug\netcoreapp2.1\Eventures.Web.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\03. Filters-And-Middleware\Eventures\Eventures.Web\obj\Debug\netcoreapp2.1\Eventures.Web.AssemblyInfo.cs

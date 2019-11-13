@@ -1,0 +1,35 @@
+﻿<h1 class="text-center">Pending</h1>
+<hr class="hr-2 bg-secondary full-width" />
+@if (Model.Packages.Any())
+{
+	<table class="table mx-auto w-75">
+		<tr>
+			<th scope="col">#</th>
+			<th scope="col">Description</th>
+			<th scope="col">Weight</th>
+			<th scope="col">Shipping Address</th>
+			<th scope="col">Recipient</th>
+			<th scope="col">Actions</th>
+		</tr>
+		@for (int i = 0; i < Model.Packages.Count(); i++)
+		{
+			{ var package = Model.Packages.ToList()[i]; }
+			{ int index = i + 1; }
+			<tr>
+				<td scope="row">@index</td>
+				<td>@package.Description</td>
+				<td>@package.Weight</td>
+				<td>@package.ShippingAddress</td>
+				<td>@package.Recipient</td>
+				<td><a href="/packages/ship?id=@package.Id" class="btn bg-panda text-white">Ship</a></td>
+			</tr>
+			}
+	</table>
+}
+@else
+{
+<div>
+	<h4>No Pending packages.</h4>
+</div>
+}
+

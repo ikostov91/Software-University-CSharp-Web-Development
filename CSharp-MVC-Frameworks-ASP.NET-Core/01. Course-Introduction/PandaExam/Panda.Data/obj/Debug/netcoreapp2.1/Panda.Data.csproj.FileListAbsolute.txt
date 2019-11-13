@@ -1,0 +1,16 @@
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\bin\Debug\netcoreapp2.1\Panda.Data.deps.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\bin\Debug\netcoreapp2.1\Panda.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\obj\Debug\netcoreapp2.1\Panda.Data.csproj.CoreCompileInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\obj\Debug\netcoreapp2.1\Panda.Data.AssemblyInfoInputs.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\obj\Debug\netcoreapp2.1\Panda.Data.AssemblyInfo.cs
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\obj\Debug\netcoreapp2.1\Panda.Data.csprojAssemblyReference.cache
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\bin\Debug\netcoreapp2.1\Panda.Data.runtimeconfig.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\bin\Debug\netcoreapp2.1\Panda.Data.runtimeconfig.dev.json
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\bin\Debug\netcoreapp2.1\Panda.Models.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\bin\Debug\netcoreapp2.1\Panda.Data.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\bin\Debug\netcoreapp2.1\Panda.Models.pdb
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\obj\Debug\netcoreapp2.1\Panda.Data.csproj.CopyComplete
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\obj\Debug\netcoreapp2.1\Panda.Data.dll
+D:\Repositories\Software-University-CSharp-Web-Development\CSharp-MVC-Frameworks-ASP.NET-Core\01. Course-Introduction\PandaExam\Panda.Data\obj\Debug\netcoreapp2.1\Panda.Data.pdb
